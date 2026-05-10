@@ -1,0 +1,5 @@
+# Raw upstream CSVs — downloaded fresh, never committed
+data/raw/
+
+# macOS junk
+.DS_Store

@@ -1,0 +1,44 @@
+name: Daily Data Refresh
+
+on:
+  schedule:
+    - cron: '0 8 * * *'   # 08:00 UTC daily (9am BST)
+  workflow_dispatch:        # manual trigger button
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: $ secrets.DATA_REFRESH_TOKEN 
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r Requirements.txt
+
+      - name: Download upstream CSVs
+        run: |
+          mkdir -p data/raw
+          curl -L -o data/raw/fights.csv \
+            "https://raw.githubusercontent.com/Greco1899/scrape_ufc_stats/main/<path-to-fights-csv>"
+          # Add more curl commands for each CSV you need
+
+      - name: Run cleaning pipeline
+        run: |
+          python data/cleaning/weight_class_cleaner.py
+          python data/cleaning/fighter_names_cleaner.py
+
+      - name: Run Elo engine
+        run: python stats_engine/Elo_engine.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/cleaned/
+          git diff --staged --quiet || git commit -m "chore: refresh data $(date -u +%Y-%m-%d)"
+          git push
