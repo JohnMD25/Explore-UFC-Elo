@@ -1,4 +1,4 @@
-cat > Requirements.txt <<'EOF'
+cat > requirements.txt <<'EOF'
 # Core app
 streamlit>=1.36,<2
 pandas>=2.2,<3
@@ -14,3 +14,5 @@ beautifulsoup4>=4.12,<5
 # Dev / tests
 pytest>=8.2,<9
 EOF
+git add requirements.txt
+git commit -m "chore: populate requirements.txt with v1 dependencies"
