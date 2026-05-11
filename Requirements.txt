@@ -1,1 +1,16 @@
-S
+cat > Requirements.txt <<'EOF'
+# Core app
+streamlit>=1.36,<2
+pandas>=2.2,<3
+plotly>=5.22,<6
+
+# Cleaning / matching
+rapidfuzz>=3.9,<4
+
+# Data refresh (GitHub Action / scrapers)
+requests>=2.32,<3
+beautifulsoup4>=4.12,<5
+
+# Dev / tests
+pytest>=8.2,<9
+EOF
