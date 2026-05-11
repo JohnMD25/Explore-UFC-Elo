@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          token: $ secrets.DATA_REFRESH_TOKEN 
+          token: ${{secrets.DATA_REFRESH_TOKEN}}
 
       - uses: actions/setup-python@v5
         with:
@@ -23,9 +23,18 @@ jobs:
       - name: Download upstream CSVs
         run: |
           mkdir -p data/raw
-          curl -L -o data/raw/fights.csv \
-            "https://raw.githubusercontent.com/Greco1899/scrape_ufc_stats/main/<path-to-fights-csv>"
-          # Add more curl commands for each CSV you need
+          curl -L -o data/raw/ufc_event_details.csv \
+            "https://raw.githubusercontent.com/Greco1899/scrape_ufc_stats/main/ufc_event_details.csv"
+          curl -L -o data/raw/ufc_fight_details.csv \
+            "https://raw.githubusercontent.com/Greco1899/scrape_ufc_stats/main/ufc_fight_details.csv"
+          curl -L -o data/raw/ufc_fight_results.csv \
+            "https://raw.githubusercontent.com/Greco1899/scrape_ufc_stats/main/ufc_fight_results.csv"
+          curl -L -o data/raw/ufc_fight_stats.csv \
+            "https://raw.githubusercontent.com/Greco1899/scrape_ufc_stats/main/ufc_fight_stats.csv"
+          curl -L -o data/raw/ufc_fighter_details.csv \
+            "https://raw.githubusercontent.com/Greco1899/scrape_ufc_stats/main/ufc_fighter_details.csv"
+          curl -L -o data/raw/ufc_fighter_tott.csv \
+            "https://raw.githubusercontent.com/Greco1899/scrape_ufc_stats/main/ufc_fighter_tott.csv"
 
       - name: Run cleaning pipeline
         run: |
