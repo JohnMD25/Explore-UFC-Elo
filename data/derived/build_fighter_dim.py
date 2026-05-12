@@ -51,6 +51,22 @@ DEFAULT_OUT   = PROJECT_ROOT / "data" / "derived"
 FUZZ_AUTO_ACCEPT  = 92
 FUZZ_REVIEW_FLOOR = 85
 
+# Manual alias map: fight-data name (as it appears in ufc_fight_stats.csv /
+# ufc_fight_results.csv) -> canonical_name in fighter_dim. Applied BEFORE
+# exact + fuzzy matching in resolve_names_to_ids, emitted with score=100
+# and match_type="manual_alias". Use sparingly: only when the same fighter
+# appears under different strings across upstream files AND fuzzy match
+# either misses or (worse) lands on a wrong candidate.
+#
+# Current entries:
+#   "Patricio Freire" -> "Patricio Pitbull"
+#       ufc_fight_stats calls him by his legal surname; upstream
+#       fighter_details parsed his ring name as FIRST=Patricio LAST=Pitbull,
+#       so fuzzy match was landing on his brother Patricky Freire (score 86).
+NAME_ALIASES: dict[str, str] = {
+    "Patricio Freire": "Patricio Pitbull",
+}
+
 # Locked in Decision Log 2026-05-12 (Pre-1999 era data: full backfill).
 # Fighters appearing in ufc_fight_stats.csv (UFC 4-17, Ultimate Ultimate
 # '95/'96, Ultimate Brazil; 1994-1998) but absent from upstream
@@ -62,6 +78,10 @@ FUZZ_REVIEW_FLOOR = 85
 #   cleaned[cleaned["fighter_id"].isna()].groupby("fighter").size()
 # DOB / height / weight / reach are NA-allowed: many early fighters have
 # no recorded bio. Stance is NA unless you have a reliable source.
+#
+# NB: this constant is for fighters GENUINELY ABSENT from upstream. If a
+# fighter IS in upstream but under a different name string (e.g. ring name
+# vs legal name), add an entry to NAME_ALIASES above instead.
 PRE_MODERN_FIGHTERS: list[dict] = [
     # TODO (one-off curation): paste in ~30-40 entries, one per unique
     # name from the NA-id groupby. Example shape:
@@ -275,8 +295,30 @@ def resolve_names_to_ids(
     name_to_id = dict(zip(dim["canonical_name"], dim["fighter_id"]))
     choices    = dim["canonical_name"].tolist()
 
+    # Fail loudly if any NAME_ALIASES target is missing from the dim --
+    # otherwise the alias would silently degrade to fuzzy match.
+    missing_targets = [
+        f"{src!r} -> {target!r}"
+        for src, target in NAME_ALIASES.items()
+        if target not in name_to_id
+    ]
+    if missing_targets:
+        raise ValueError(
+            "NAME_ALIASES targets missing from fighter_dim:\n  "
+            + "\n  ".join(missing_targets)
+        )
+
     lookup_rows, review_rows, rejected = [], [], 0
     for name in names:
+        # 0. Manual alias (highest priority; bypasses exact + fuzzy).
+        if name in NAME_ALIASES:
+            target = NAME_ALIASES[name]
+            lookup_rows.append({
+                "name": name, "fighter_id": int(name_to_id[target]),
+                "match_type": "manual_alias", "score": 100,
+            })
+            continue
+
         if name in name_to_id:
             lookup_rows.append({
                 "name": name, "fighter_id": int(name_to_id[name]),
@@ -354,8 +396,10 @@ def main() -> None:
     lookup.to_csv(lookup_path, index=False)
     review.to_csv(review_path, index=False)
 
+    alias = int((lookup["match_type"] == "manual_alias").sum())
     exact = int((lookup["match_type"] == "exact").sum())
     fuzzy = int((lookup["match_type"] == "fuzzy_accept").sum())
+    print(f"      alias:         {alias:,}")
     print(f"      exact:         {exact:,}")
     print(f"      fuzzy >= 92:   {fuzzy:,}")
     print(f"      review 85-91:  {len(review):,}  -> {review_path}")
