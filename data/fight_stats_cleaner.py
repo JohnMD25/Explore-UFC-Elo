@@ -14,7 +14,7 @@ Grain: one row per fighter per round per fight (matches the source).
 
 Output schema:
     EVENT, BOUT                                  -- trace + join keys to fight_results
-    round_no                                     -- Int64 (1-5)
+    round_no                                     -- Int64 (1-5; pre-1999 single-round bouts coerced to 1)
     fighter                                      -- str (upstream canonical name)
     fighter_id                                   -- Int64 (nullable)
     knockdowns                                   -- Int64
@@ -117,6 +117,27 @@ def parse_round(r: object) -> object:
 
 
 # ---------------------------------------------------------------------------
+# Pre-modern era coercion (Decision Log 2026-05-12)
+# ---------------------------------------------------------------------------
+def _coerce_pre_modern_round(df: pd.DataFrame) -> pd.DataFrame:
+    """Coerce NA round_no values to 1.
+
+    Locked in Decision Log 2026-05-12 (Pre-1999 era data: full backfill).
+    Pre-1999 UFC tournament bouts (UFC 4-17, Ultimate Ultimate '95/'96,
+    Ultimate Brazil) have ROUND values that don't match "Round N" because
+    those events had variable-length single-round bouts. After parse_round
+    returns NA for them, this step coerces those NAs to 1 -- the least-wrong
+    integer for what are structurally single-round fights.
+
+    Era-agnostic by design: any future row that fails to parse round gets
+    the same treatment. Post-step, round_no has no NAs in the cleaned output.
+    """
+    df = df.copy()
+    df["round_no"] = df["round_no"].fillna(1).astype("Int64")
+    return df
+
+
+# ---------------------------------------------------------------------------
 # Main cleaning function
 # ---------------------------------------------------------------------------
 def clean_fight_stats(
@@ -137,6 +158,9 @@ def clean_fight_stats(
     # 2. Parse round_no and control time.
     df["round_no"]             = df["ROUND"].apply(parse_round).astype("Int64")
     df["control_time_seconds"] = df["CTRL"].apply(parse_mmss_to_seconds).astype("Int64")
+
+    # 2b. Coerce pre-1999 NA round_no to 1 (Decision Log 2026-05-12).
+    df = _coerce_pre_modern_round(df)
 
     # 3. Attach fighter_id via the canonical name lookup.
     df = attach_fighter_ids(df, "fighter", lookup=lookup, id_col="fighter_id")

@@ -51,6 +51,34 @@ DEFAULT_OUT   = PROJECT_ROOT / "data" / "derived"
 FUZZ_AUTO_ACCEPT  = 92
 FUZZ_REVIEW_FLOOR = 85
 
+# Locked in Decision Log 2026-05-12 (Pre-1999 era data: full backfill).
+# Fighters appearing in ufc_fight_stats.csv (UFC 4-17, Ultimate Ultimate
+# '95/'96, Ultimate Brazil; 1994-1998) but absent from upstream
+# ufc_fighter_details.csv / ufc_fighter_tott.csv. Without these manual
+# entries they would have NA fighter_id in fight_stats_cleaned.csv.
+#
+# Names MUST match the upstream FIGHTER column verbatim (no normalisation).
+# Source the list by running fight_stats_cleaner.py once, then:
+#   cleaned[cleaned["fighter_id"].isna()].groupby("fighter").size()
+# DOB / height / weight / reach are NA-allowed: many early fighters have
+# no recorded bio. Stance is NA unless you have a reliable source.
+PRE_MODERN_FIGHTERS: list[dict] = [
+    # TODO (one-off curation): paste in ~30-40 entries, one per unique
+    # name from the NA-id groupby. Example shape:
+    # {
+    #     "canonical_name": "Joel Sutton",
+    #     "first_name":     "Joel",
+    #     "last_name":      "Sutton",
+    #     "nickname":       pd.NA,
+    #     "dob":            pd.NaT,
+    #     "height_cm":      float("nan"),
+    #     "weight_lbs":     float("nan"),
+    #     "reach_in":       float("nan"),
+    #     "stance":         pd.NA,
+    #     "ufc_url_slug":   pd.NA,
+    # },
+]
+
 
 # ---------------------------------------------------------------------------
 # Raw-file loader
@@ -127,8 +155,18 @@ def extract_url_slug(url: object):
 # ---------------------------------------------------------------------------
 # Dim build
 # ---------------------------------------------------------------------------
-def build_dim(details: pd.DataFrame, tott: pd.DataFrame) -> pd.DataFrame:
-    """Join details + tott on URL slug, parse fields, mint sequential fighter_id."""
+def build_dim(
+    details: pd.DataFrame,
+    tott: pd.DataFrame,
+    pre_modern: list[dict] | None = None,
+) -> pd.DataFrame:
+    """Join details + tott on URL slug, parse fields, mint sequential fighter_id.
+
+    If `pre_modern` is provided, those manually-curated fighter rows are
+    concatenated into the dim BEFORE sequential `fighter_id` assignment.
+    Used for fighters absent from upstream details/tott (currently the
+    pre-1999 UFC tournament era). See PRE_MODERN_FIGHTERS docstring.
+    """
     d = details.copy()
     t = tott.copy()
     d["ufc_url_slug"] = d["URL"].map(extract_url_slug)
@@ -172,19 +210,31 @@ def build_dim(details: pd.DataFrame, tott: pd.DataFrame) -> pd.DataFrame:
     merged["reach_in"]   = merged["REACH"].map(parse_reach_in)
     merged["stance"]     = merged["STANCE"].map(normalise_stance)
 
-    # Deterministic ordering before id mint
-    merged = merged.sort_values(
-        ["canonical_name", "ufc_url_slug"], na_position="last"
-    ).reset_index(drop=True)
-    merged["fighter_id"] = merged.index + 1
-
     cols = [
-        "fighter_id", "canonical_name",
+        "canonical_name",
         "first_name", "last_name", "nickname",
         "dob", "height_cm", "weight_lbs", "reach_in", "stance",
         "ufc_url_slug",
     ]
-    return merged[cols]
+    dim = merged[cols].copy()
+
+    # Concatenate pre-modern manual entries (if any) BEFORE id mint, so they
+    # get sequential fighter_ids alongside the upstream-sourced rows.
+    if pre_modern:
+        pm_df = pd.DataFrame(pre_modern)
+        for col in cols:
+            if col not in pm_df.columns:
+                pm_df[col] = pd.NA
+        dim = pd.concat([dim, pm_df[cols]], ignore_index=True)
+        print(f"  + appended {len(pm_df):,} pre-modern fighters")
+
+    # Deterministic ordering before id mint.
+    dim = dim.sort_values(
+        ["canonical_name", "ufc_url_slug"], na_position="last"
+    ).reset_index(drop=True)
+    dim["fighter_id"] = dim.index + 1
+
+    return dim[["fighter_id"] + cols]
 
 
 # ---------------------------------------------------------------------------
@@ -283,7 +333,7 @@ def main() -> None:
     print(f"      details: {len(details):,} rows  |  tott: {len(tott):,} rows")
 
     print("[2/3] Building fighter_dim...")
-    dim = build_dim(details, tott)
+    dim = build_dim(details, tott, pre_modern=PRE_MODERN_FIGHTERS)
     dim_path = args.out / "fighter_dim.csv"
     dim.to_csv(dim_path, index=False)
     print(f"      wrote {len(dim):,} fighters -> {dim_path}")

@@ -3631,862 +3631,863 @@ fighter_id,canonical_name,first_name,last_name,nickname,dob,height_cm,weight_lbs
 3630,Rodrigo Nascimento,Rodrigo,Nascimento,Ze Colmeia,1992-11-26,188.0,246.0,80.0,Orthodox,d31a5546c0e9b213
 3631,Rodrigo Ruas,Rodrigo,Ruas,,1977-10-06,177.8,185.0,,Orthodox,94070f6544c4b2a5
 3632,Rodrigo Sezinando,Rodrigo,Sezinando,,1997-12-11,175.3,170.0,71.0,Orthodox,c06d6b18862f9a53
-3633,Rodrigo de Lima,Rodrigo,de Lima,Monstro,1991-03-12,170.2,155.0,,Orthodox,a4dc47001f202bcd
-3634,Roger Bowling,Roger,Bowling,Relentless,1982-12-05,175.3,155.0,68.0,Orthodox,3b9f723e2720a238
-3635,Roger Carroll,Roger,Carroll,The Leprechaun,,177.8,170.0,,,572a89dbe1f76761
-3636,Roger Gracie,Roger,Gracie,,1981-09-26,193.0,185.0,79.0,Orthodox,a6bbd3df469c6bea
-3637,Roger Hollett,Roger,Hollett,The Hulk,1978-10-08,180.3,205.0,,Orthodox,27d65e9d0fba61ea
-3638,Roger Huerta,Roger,Huerta,El Matador,1983-05-20,175.3,155.0,70.0,Orthodox,daf1b84aebd6602b
-3639,Roger Narvaez,Roger,Narvaez,Silverback,1983-09-09,190.5,185.0,,Southpaw,3a12a2f096a6d975
-3640,Roger Zapata,Roger,Zapata,Viva,1986-05-09,180.3,170.0,,Southpaw,fe5ca7ef93c3f6a7
-3641,Rogerio Bontorin,Rogerio,Bontorin,,1992-04-25,165.1,125.0,67.0,Orthodox,07a2bdaa0afdd831
-3642,Rogerio Nogueira,Rogerio,Nogueira,Minotouro,1976-06-02,188.0,205.0,75.0,Southpaw,73e09f837f3b5ecc
-3643,Roland Delorme,Roland,Delorme,,1983-12-18,175.3,135.0,71.0,Orthodox,173acb3f920082b8
-3644,Roland Payne,Roland,Payne,,,175.3,205.0,,Orthodox,2e04a3b4a2011b97
-3645,Rolando Bedoya,Rolando,Bedoya,The Machine,1997-01-13,180.3,155.0,74.0,Orthodox,40a456a25d52ee65
-3646,Rolando Delgado,Rolando,Delgado,Roli,1981-11-22,190.5,155.0,77.0,Orthodox,37b1696e6d115957
-3647,Rolando Dy,Rolando,Dy,Dy Incredible,1990-08-11,172.7,145.0,69.0,Orthodox,55ed59d541f8b90c
-3648,Rolando Perez,Rolando,Perez,,,172.7,135.0,,Orthodox,4a9e305633f3ef47
-3649,Roldan Sangcha'an,Roldan,Sangcha'an,The Executioner,1990-12-04,162.6,125.0,,Orthodox,57887765f831e228
-3650,Rolles Gracie,Rolles,Gracie,,1978-07-14,193.0,242.0,,Orthodox,e4a9dbade7c7e1a7
-3651,Roman Bogatov,Roman,Bogatov,,1990-12-15,172.7,155.0,73.0,Orthodox,d61316139d68dbe3
-3652,Roman Bravo-Young,Roman,Bravo-Young,,,,205.0,,,37ce890a4670b287
-3653,Roman Dolidze,Roman,Dolidze,,1988-07-15,188.0,185.0,76.0,Orthodox,327d5f279895110d
-3654,Roman Kopylov,Roman,Kopylov,,1991-05-04,182.9,185.0,75.0,Southpaw,9d83f6da776ff7d6
-3655,Roman Mitichyan,Roman,Mitichyan,,1978-09-04,177.8,170.0,,Orthodox,2961be02cfb0d2c1
-3656,Roman Salazar,Roman,Salazar,El Gallito,1988-02-21,170.2,135.0,,Orthodox,72c4b253d2f5ebf2
-3657,Roman Zentsov,Roman,Zentsov,The Russian Hammer,1973-09-10,185.4,230.0,,Orthodox,3144121470023e9a
-3658,Romie Aram,Romie,Aram,,1977-12-02,177.8,170.0,,Orthodox,73ef22f25d0f70e2
-3659,Ron Faircloth,Ron,Faircloth,,1979-08-16,175.3,205.0,,Orthodox,453ee00c3e1ae9dd
-3660,Ron Fields,Ron,Fields,Killing,1974-11-18,188.0,200.0,,Orthodox,6e380a4d73ab4f0e
-3661,Ron Henderson,Ron,Henderson,,,177.8,125.0,,,498f0d066396ec59
-3662,Ron Keslar,Ron,Keslar,,,,185.0,,,b84f34b425dfd24b
-3663,Ron Sparks,Ron,Sparks,The Monster,,195.6,265.0,,,743fd9080892501d
-3664,Ron Stallings,Ron,Stallings,The Choir Boy,1983-01-25,188.0,170.0,75.0,Southpaw,6dd758d34da8d254
-3665,Ron Waterman,Ron,Waterman,H20,1965-11-23,188.0,280.0,,Orthodox,efaf544314bb5c2e
-3666,Ron van Clief,Ron,van Clief,The Black Dragon,1943-01-25,177.8,190.0,,Orthodox,23ab42947c1990e3
-3667,Ronal Siahaan,Ronal,Siahaan,Naga Sakti,1996-05-05,170.2,125.0,71.0,Southpaw,762226efa2b01654
-3668,Ronald Carillo,Ronald,Carillo,,,,125.0,,,cbd022eaf2ac546a
-3669,Ronald Jhun,Ronald,Jhun,The Machine Gun,1970-09-21,180.3,170.0,,Orthodox,b9e871af730f826c
-3670,Ronaldo Candido,Ronaldo,Candido,Pacman,1989-04-24,167.6,125.0,,Southpaw,23fbe02caabcd214
-3671,Ronaldo Rodriguez,Ronaldo,Rodriguez,Lazy Boy,1999-05-07,167.6,125.0,65.0,Orthodox,f2900678e98f6d6a
-3672,Ronda Rousey,Ronda,Rousey,Rowdy,1987-02-01,170.2,135.0,66.0,Orthodox,8bdac25ce0bb874d
-3673,Rongzhu,,Rongzhu,,2000-03-07,175.3,155.0,71.0,Orthodox,a13d755965a4ec9f
-3674,Ronnie Lawrence,Ronnie,Lawrence,The Heat,1992-06-13,172.7,135.0,68.0,Switch,e7e01e266a9d4342
-3675,Ronny Markes,Ronny,Markes,,1988-04-21,185.4,185.0,75.0,Orthodox,bd21a1e3d41c97ee
-3676,Rony Jason,Rony,Jason,,1984-03-21,170.2,145.0,73.0,Orthodox,b71ce838b01f2cad
-3677,Rony Sefo,Rony,Sefo,,,175.3,225.0,,Orthodox,d6b68eaf4b68b160
-3678,Ronys Torres,Ronys,Torres,,1975-08-13,170.2,155.0,,Orthodox,cce79e827569f26e
-3679,Roosevelt Roberts,Roosevelt,Roberts,The Predator,1994-02-11,188.0,155.0,73.0,Orthodox,37c5366d18ed6c05
-3680,Roque Conceicao,Roque,Conceicao,,1999-10-27,,125.0,,Orthodox,b4ebc1539a08054b
-3681,Roque Martinez,Roque,Martinez,,1986-03-04,177.8,250.0,72.0,Orthodox,2c5a0b8317f8f27a
-3682,Rory MacDonald,Rory,MacDonald,Red King,1989-07-22,182.9,170.0,76.0,Orthodox,cbd5d3cdd862e90e
-3683,Rory Markham,Rory,Markham,,1982-03-25,182.9,170.0,71.0,Orthodox,23a16ebe733e3041
-3684,Rory Singer,Rory,Singer,Outburst,1976-05-28,188.0,185.0,77.0,Orthodox,546015aa2ad945fd
-3685,Rose Conceicao,Rose,Conceicao,,1997-05-13,139.7,115.0,65.0,Orthodox,a76c07e8e4c76e9a
-3686,Rose Namajunas,Rose,Namajunas,Thug,1992-06-29,165.1,125.0,65.0,Orthodox,47b63240018d5d86
-3687,Roshan Mainam,Roshan,Mainam,The Indian Notorious,,,135.0,,,b301292b1bc92bdb
-3688,Roshaun Jones,Roshaun,Jones,,,172.7,135.0,,,8a9f54b9056b07f5
-3689,Rosi Sexton,Rosi,Sexton,The Surgeon,1977-07-16,160.0,135.0,,Orthodox,5dfe71ade71f3a4b
-3690,Ross Ebanez,Ross,Ebanez,The Boss,1975-05-18,175.3,154.0,,Southpaw,a5b0bd216d8ba84e
-3691,Ross Pearson,Ross,Pearson,The Real Deal,1984-09-26,172.7,155.0,69.0,Orthodox,4f732e58ed907eff
-3692,Ross Pointon,Ross,Pointon,The Gladiator,1980-02-18,172.7,170.0,,Orthodox,7215953cd5c6254d
-3693,Rostem Akman,Rostem,Akman,,1991-12-19,177.8,170.0,72.0,Switch,1fc64507a0cb38cf
-3694,Rousimar Palhares,Rousimar,Palhares,Toquinho,1980-02-26,172.7,170.0,71.0,Orthodox,8ddf9c51c5fdea75
-3695,Roxanne Modafferi,Roxanne,Modafferi,The Happy Warrior,1982-09-24,170.2,125.0,69.0,Orthodox,4498b382c65a7faa
-3696,Roy Boughton,Roy,Boughton,Black Dynamite,,182.9,205.0,,,2aaf0181432adf0b
-3697,Roy Jones,Roy,Jones,,1983-10-26,,205.0,,,be8dfcf0442812b1
-3698,Roy Nelson,Roy,Nelson,Big Country,1976-06-20,182.9,263.0,73.0,Orthodox,3f7c14c7eca7195d
-3699,Roybert Echeverria,Roybert,Echeverria,The Unbroken,1995-08-21,165.1,125.0,67.0,Switch,20b13e96668caaa4
-3700,Royce Alger,Royce,Alger,,,177.8,199.0,,Orthodox,669a3cb6e394f515
-3701,Royce Gracie,Royce,Gracie,,1966-12-12,185.4,175.0,,Southpaw,429e7d3725852ce9
-3702,Royler Gracie,Royler,Gracie,,1965-12-06,172.7,150.0,,Southpaw,b807814d977682eb
-3703,Royston Wee,Royston,Wee,,1986-11-15,170.2,135.0,67.0,Orthodox,b9c03e7a4557e542
-3704,Ruan Potts,Ruan,Potts,Fangzz,1978-02-23,188.0,247.0,75.0,Orthodox,7e208569469c8bc8
-3705,Ruben Villareal,Ruben,Villareal,Warpath,1970-05-01,193.0,265.0,,Orthodox,39f68882def7a507
-3706,Rubens Xavier,Rubens,Xavier,Macula,,190.5,220.0,,Orthodox,e6dac752a2418a88
-3707,Rubin Williams,Rubin,Williams,Mr. Hollywood,1976-04-09,185.4,185.0,,Orthodox,6f812143641ceff8
-3708,Rudy Bears,Rudy,Bears,,,180.3,170.0,,Southpaw,74f13066b1417ef3
-3709,Rudyard Moncayo,Rudyard,Moncayo,,,177.8,195.0,,Orthodox,02d276b7d62b3472
-3710,Ruel Panales,Ruel,Panales,,1996-12-07,165.1,125.0,67.0,Southpaw,2742f028399bf8c7
-3711,Rui Imura,Rui,Imura,,1999-03-24,177.8,135.0,69.0,Southpaw,bb56173e2275e622
-3712,Rulon Gardner,Rulon,Gardner,,1971-08-16,190.5,265.0,,Orthodox,4f7e290e71d60f87
-3713,Ruslan Magomedov,Ruslan,Magomedov,Leopard,1986-11-26,190.5,242.0,78.0,Orthodox,369e1ce458ef50a6
-3714,Russell Doane,Russell,Doane,,1986-08-13,170.2,135.0,70.0,Orthodox,f50d95223751e6ca
-3715,Russell Patrick,Russell,Patrick,,,175.3,145.0,,,eafedba0617ced81
-3716,Rustam Khabilov,Rustam,Khabilov,Tiger,1986-11-04,172.7,155.0,73.0,Orthodox,9b7694d064a8a0ad
-3717,Ryan Bader,Ryan,Bader,Darth,1983-06-07,188.0,205.0,74.0,Orthodox,c0ab242c40decc55
-3718,Ryan Bastianelli,Ryan,Bastianelli,Relentless,,165.1,135.0,,,29508aff4d93cbbe
-3719,Ryan Benoit,Ryan,Benoit,Baby Face,1989-08-25,165.1,125.0,68.0,Orthodox,20999e27ddd94bda
-3720,Ryan Couture,Ryan,Couture,,1982-08-27,177.8,155.0,73.0,Orthodox,46fd223e3ced39b3
-3721,Ryan Diaz,Ryan,Diaz,,,,145.0,,,ceee5dd37253199a
-3722,Ryan Gandra,Ryan,Gandra,Problema,1995-05-08,185.4,185.0,74.0,Orthodox,e463ce0a2ca474f4
-3723,Ryan Gracie,Ryan,Gracie,,1974-08-14,175.3,200.0,,Orthodox,0c3838c8f7c620c2
-3724,Ryan Hall,Ryan,Hall,The Wizard,1985-02-22,177.8,145.0,70.0,Southpaw,8866c6f509c19089
-3725,Ryan Hayes,Ryan,Hayes,,,,,,,a620638435de0628
-3726,Ryan Healy,Ryan,Healy,The Irish Assassin,1983-07-20,185.4,155.0,,Orthodox,f3eb664db7fb1df3
-3727,Ryan Janes,Ryan,Janes,,1981-08-22,190.5,185.0,76.0,Orthodox,b59037262c8fe060
-3728,Ryan Jensen,Ryan,Jensen,,1977-09-20,185.4,185.0,76.0,Orthodox,aae99701b21554e4
-3729,Ryan Jimmo,Ryan,Jimmo,The Big Deal,1981-11-27,185.4,205.0,73.0,Orthodox,bc3ec52ef70fc155
-3730,Ryan Keenan,Ryan,Keenan,,1985-06-15,177.8,170.0,,,a72b20136239ba39
-3731,Ryan LaFlare,Ryan,LaFlare,,1983-10-01,185.4,170.0,74.0,Southpaw,4c7781da8c6cae93
-3732,Ryan Larson,Ryan,Larson,,1980-12-30,,170.0,,,7107e53ebd7435fb
-3733,Ryan Loder,Ryan,Loder,Man of Steel,1991-06-05,188.0,185.0,76.0,Southpaw,d5bab53a1a603aac
-3734,Ryan MacDonald,Ryan,MacDonald,Main Event,1993-03-18,180.3,135.0,71.0,Switch,35e1f9984ed64206
-3735,Ryan Madigan,Ryan,Madigan,,,182.9,170.0,,Orthodox,a8d521d913df4e31
-3736,Ryan McGillivray,Ryan,McGillivray,The Kid,1986-09-27,180.3,170.0,,,1f9c371c93dfd3a9
-3737,Ryan McGivern,Ryan,McGivern,,1980-01-17,182.9,185.0,,Orthodox,856ec65948b7d234
-3738,Ryan Parker,Ryan,Parker,,,190.5,235.0,,Southpaw,6a0b80a24f22e152
-3739,Ryan Quinn,Ryan,Quinn,,,172.7,145.0,,,cc23ed51619421a3
-3740,Ryan Roberts,Ryan,Roberts,,1978-07-16,167.6,155.0,,Orthodox,35dc6220b113b7ec
-3741,Ryan Spann,Ryan,Spann,Superman,1991-08-24,195.6,205.0,79.0,Orthodox,a67f5afa8d6a1b80
-3742,Ryan Stonitsch,Ryan,Stonitsch,,1977-02-03,175.3,170.0,,Southpaw,8d477c3fbe001f9d
-3743,Ryan Thomas,Ryan,Thomas,The Tank Engine,1984-11-05,182.9,170.0,,Orthodox,b732b326c362fb62
-3744,Ryan Tobar,Ryan,Tobar,,,,155.0,,,57481f1f10530c61
-3745,Ryo Chonan,Ryo,Chonan,Piranah,1976-10-08,175.3,170.0,70.0,Orthodox,55a7b2d4e54ffac9
-3746,Ryo Kawamura,Ryo,Kawamura,,1981-06-29,180.3,205.0,,Orthodox,9e91d7fd2720e241
-3747,Ryo Tajima,Ryo,Tajima,,1999-08-14,,135.0,,,34fbfc3f65b64645
-3748,Ryoga Arimoto,Ryoga,Arimoto,,1998-12-07,,125.0,,,e0e1801e8721af17
-3749,Ryuho Miyaguchi,Ryuho,Miyaguchi,,1998-01-27,,135.0,,,f1a9c0998c683782
-3750,Ryuichi Murata,Ryuichi,Murata,,,172.7,183.0,,Orthodox,e3a6c6d6d0ac0815
-3751,Ryuki Ueyama,Ryuki,Ueyama,,1976-04-17,180.3,180.0,,Southpaw,bcd124bcd3d5be46
-3752,Ryuta Sakurai,Ryuta,Sakurai,,,170.2,183.0,,Orthodox,ff9578cdbfabd323
-3753,Saad Awad,Saad,Awad,Assassin,1983-06-07,180.3,155.0,,,da603332ad41f165
-3754,Sabah Homasi,Sabah,Homasi,,1988-10-19,182.9,170.0,72.0,Orthodox,71f048adbfed5b49
-3755,Sabina Mazo,Sabina,Mazo,Colombian Queen,1997-03-25,170.2,125.0,70.0,Orthodox,70d2329a92864fdb
-3756,Saeed Hosseini,Saeed,Hosseini,,,,,,,21f2974fd08085e3
-3757,Sage Northcutt,Sage,Northcutt,Super,1996-03-01,182.9,170.0,71.0,Orthodox,ed9d8ee3a4239b1c
-3758,Sai Wang,Sai,Wang,The Fire Kylin,1986-01-14,182.9,170.0,,Southpaw,efb9a43415a56d34
-3759,Said Nurmagomedov,Said,Nurmagomedov,,1992-04-05,172.7,135.0,70.0,Orthodox,0fd5f4b838e890cc
-3760,Saidyokub Kakhramonov,Saidyokub,Kakhramonov,,1995-11-14,172.7,135.0,69.0,Orthodox,50a28b9f8314e008
-3761,Saimon Oliveira,Saimon,Oliveira,,1991-04-21,162.6,135.0,72.0,Orthodox,72ea1984c52019b5
-3762,Sako Chivitchian,Sako,Chivitchian,,1984-03-11,180.3,155.0,,Orthodox,9f7787e56a6bc0f4
-3763,Salim Touahri,Salim,Touahri,Grizzly,1989-09-28,177.8,170.0,72.0,Orthodox,cbf1c7ba5408a66f
-3764,Salvador Becerra,Salvador,Becerra,,,175.3,155.0,,,4fd76e7ba8313457
-3765,Salvador Woods,Salvador,Woods,,1985-02-05,180.3,170.0,,,8de471543d9c933e
-3766,Sam Adkins,Sam,Adkins,The Experience,1965-04-26,190.5,225.0,,Orthodox,0e9869d712e81f8f
-3767,Sam Alvey,Sam,Alvey,Smile'N,1986-05-06,188.0,185.0,75.0,Southpaw,d156513a19acf856
-3768,Sam Fulton,Sam,Fulton,,,,,,,1f5f75658551f2d3
-3769,Sam Greco,Sam,Greco,,1967-05-03,188.0,205.0,,Orthodox,6d12031661db8ac8
-3770,Sam Hoger,Sam,Hoger,The Alaskan Assassin,1980-06-28,188.0,205.0,,Orthodox,84a067c46306a737
-3771,Sam Hughes,Sam,Hughes,Sampage,1992-06-28,165.1,115.0,64.0,Orthodox,e94085e821bd81de
-3772,Sam Liera,Sam,Liera,,,,,,,421ccfc6ddb17958
-3773,Sam Oropeza,Sam,Oropeza,,,188.0,170.0,,,6b8db407d49c6e4b
-3774,Sam Patterson,Sam,Patterson,,1996-04-30,190.5,170.0,78.0,Orthodox,8b6e5dc2ba1edbe7
-3775,Sam Sicilia,Sam,Sicilia,,1986-02-01,172.7,145.0,67.0,Orthodox,b8aef0faf4ce9b31
-3776,Sam Spengler,Sam,Spengler,The Ram,,180.3,185.0,,Orthodox,221b2a3070c7ce3e
-3777,Sam Stout,Sam,Stout,Hands of Stone,1984-04-23,175.3,155.0,70.0,Orthodox,501b07aec9b8fc2d
-3778,Sam Watford,Sam,Watford,,,,155.0,,,1836639ecf9b6e7f
-3779,Samandar Murodov,Samandar,Murodov,,1999-08-28,185.4,170.0,75.0,Orthodox,6f4d199c0adc06f5
-3780,Sammy Morgan,Sammy,Morgan,The Squeeze,1981-09-28,177.8,170.0,,Orthodox,2067a177a2842fbf
-3781,Samuel Sanches,Samuel,Sanches,The Prodigy,2003-01-28,177.8,155.0,74.0,Orthodox,438d497617ecb16e
-3782,Samuel Silva,Samuel,Silva,Caveira,1996-01-02,182.9,155.0,72.0,Orthodox,04e0507b94014dbb
-3783,Samy Schiavo,Samy,Schiavo,,1975-12-24,172.7,155.0,,Orthodox,1208ffc5be6e31ad
-3784,Sanae Kikuta,Sanae,Kikuta,,1971-09-10,175.3,200.0,,Orthodox,e4bde462b043d3e1
-3785,Sandra Lavado,Sandra,Lavado,Peruvian Zombie,1994-05-03,170.2,115.0,66.0,Orthodox,aa6da8cb3a26da04
-3786,Sanford Alton Meeks,Sanford Alton,Meeks,,1994-04-05,195.6,265.0,75.0,Orthodox,27c59ac201539d10
-3787,SangHoon Yoo,SangHoon,Yoo,Assassin,1990-01-18,182.9,170.0,74.0,Orthodox,00b490982afd1b17
-3788,SangWon Kim,SangWon,Kim,No Problem,1993-09-01,175.3,145.0,69.0,Orthodox,e9712cad24948ce1
-3789,Sangwook Kim,Sangwook,Kim,Frogman,1993-10-17,182.9,155.0,71.0,Orthodox,a264d4e9a4d6bfe4
-3790,Santiago Luna,Santiago,Luna,BorderBoy,2004-08-06,175.3,135.0,74.0,Orthodox,faf317c665546a36
-3791,Santiago Ponzinibbio,Santiago,Ponzinibbio,Argentine Dagger,1986-09-26,182.9,170.0,73.0,Orthodox,6d1bffff14897645
-3792,Santo Curatolo,Santo,Curatolo,,1995-01-18,160.0,125.0,62.0,Southpaw,b8b765e320a8db39
-3793,Saparbeg Safarov,Saparbeg,Safarov,,1986-10-14,185.4,185.0,78.0,Orthodox,88d7b6d8230e1f3f
-3794,Sara McMann,Sara,McMann,,1980-09-24,167.6,135.0,66.0,Orthodox,7be74a12d7352df2
-3795,Sarah Alpar,Sarah,Alpar,Too Sweet,1991-06-01,162.6,135.0,63.0,Southpaw,49b130de1da2e1bf
-3796,Sarah D'alelio,Sarah,D'alelio,The Monster,1980-12-13,170.2,145.0,,,ac45450f75d14f16
-3797,Sarah Frota,Sarah,Frota,A Treta,1987-04-14,167.6,125.0,69.0,Southpaw,1641ef250e9de19b
-3798,Sarah Kaufman,Sarah,Kaufman,,1985-09-20,165.1,135.0,66.0,Orthodox,36df8e119aec6175
-3799,Sarah Moras,Sarah,Moras,Cheesecake,1988-04-30,170.2,135.0,67.0,Orthodox,539ed332b3078821
-3800,Sarah Payant,Sarah,Payant,Soulja,,162.6,115.0,,,748d4e35f846a029
-3801,Sasha Palatnikov,Sasha,Palatnikov,,1989-03-15,185.4,170.0,72.0,Switch,a6c20202c701e5ca
-3802,Satoru Kitaoka,Satoru,Kitaoka,,1980-02-04,167.6,154.0,,,e2ac5bb645f33088
-3803,Satoshi Honma,Satoshi,Honma,,1968-05-19,185.4,205.0,,Orthodox,d2b1c1317a39f6c6
-3804,Satoshi Ishii,Satoshi,Ishii,,1986-12-19,180.3,240.0,,Orthodox,c8a49ff2acb6f3c5
-3805,Saul Elizondo,Saul,Elizondo,,1985-07-17,170.2,135.0,,,e295b96f135d758a
-3806,Saygid Izagakhmaev,Saygid,Izagakhmaev,,1994-09-03,,170.0,,,de26d906f2874dd4
-3807,Scott Adams,Scott,Adams,,,182.9,225.0,,Southpaw,2620f3eb21c79614
-3808,Scott Askham,Scott,Askham,,1988-05-20,190.5,185.0,75.0,Southpaw,06827d70c53ff0d9
-3809,Scott Baker,Scott,Baker,,,182.9,210.0,,,7d5b12de1625984e
-3810,Scott Bessac,Scott,Bessac,,,193.0,245.0,,,3f24c96753dbd9f9
-3811,Scott Bills,Scott,Bills,,,177.8,170.0,,,53f02bbc41d99432
-3812,Scott Carson,Scott,Carson,,,188.0,215.0,,,1e3302f9ab6f549a
-3813,Scott Ettling,Scott,Ettling,,,,135.0,,,74b5736f1df40be3
-3814,Scott Ferrozzo,Scott,Ferrozzo,The Pitbull,1965-04-26,180.3,323.0,,Orthodox,977081bc01197656
-3815,Scott Fiedler,Scott,Fiedler,,,193.0,235.0,,Orthodox,0ec821423baa26bd
-3816,Scott Graham,Scott,Graham,,,193.0,185.0,,Orthodox,6e4acc2c115215b5
-3817,Scott Harper,Scott,Harper,,1972-04-14,182.9,185.0,,Orthodox,14a433bccba87016
-3818,Scott Holtzman,Scott,Holtzman,Hot Sauce,1983-09-30,175.3,155.0,69.0,Orthodox,df1eb4354d18a906
-3819,Scott Jorgensen,Scott,Jorgensen,Young Guns,1982-09-17,165.1,135.0,66.0,Orthodox,0b64d0fed453ef7f
-3820,Scott Junk,Scott,Junk,,1978-12-17,185.4,265.0,,Orthodox,ac70a4f1db1b8c40
-3821,Scott Lighty,Scott,Lighty,,1978-10-15,188.0,205.0,,,998c8890a8dde1eb
-3822,Scott McAfee,Scott,McAfee,,1983-08-23,172.7,155.0,,Orthodox,7e7d81bf162a5ec1
-3823,Scott McDonald,Scott,McDonald,,,,,,,08ae3100bf2100ed
-3824,Scott Morris,Scott,Morris,,,177.8,210.0,,Orthodox,be9d259be012e8a4
-3825,Scott Norton,Scott,Norton,Hollywood,1973-03-15,177.8,170.0,,Orthodox,f21a3d68fb9df387
-3826,Scott Shaffer,Scott,Shaffer,,,170.2,145.0,,Orthodox,5c38639f860a5542
-3827,Scott Smith,Scott,Smith,Hands of Steel,1979-05-21,182.9,185.0,70.0,Orthodox,3410cf010558dc8b
-3828,Scott Ventimiglia,Scott,Ventimiglia,Meant to Kill Ya,1972-11-17,180.3,185.0,,,6e62bb64f7cc5026
-3829,Sean Alvarez,Sean,Alvarez,,1971-07-14,182.9,235.0,,Orthodox,e741536153227386
-3830,Sean Bassett,Sean,Bassett,,,,155.0,,,2c733e059462c1dc
-3831,Sean Brady,Sean,Brady,,1992-11-23,177.8,170.0,72.0,Orthodox,45f7cb591c3ab00b
-3832,Sean Daugherty,Sean,Daugherty,,1975-12-04,182.9,175.0,,,a683f9ddb70aa4bd
-3833,Sean Gannon,Sean,Gannon,The Cannon,,190.5,265.0,,Southpaw,6d7886b094b471ac
-3834,Sean Gauci,Sean,Gauci,,1996-10-07,165.1,125.0,64.0,Switch,d758f272d94f5866
-3835,Sean Holden,Sean,Holden,,1984-09-17,177.8,170.0,,,acbb9c76f5894e36
-3836,Sean Lally,Sean,Lally,The Unpredictable One,1990-11-04,182.9,170.0,,Orthodox,e62ce041bb7aeb1f
-3837,Sean Loeffler,Sean,Loeffler,The Destroyer,1982-05-23,190.5,185.0,,Orthodox,d3d1ff3f3dfa0931
-3838,Sean McCorkle,Sean,McCorkle,,1976-07-17,200.7,265.0,81.0,Orthodox,008dc37cca279def
-3839,Sean O'Connell,Sean,O'Connell,The Real OC,1983-09-02,185.4,205.0,74.0,Orthodox,cb52f9490c2dc069
-3840,Sean O'Haire,Sean,O'Haire,,1971-02-25,195.6,270.0,,Orthodox,46effbd1135423c5
-3841,Sean O'Malley,Sean,O'Malley,Suga,1994-10-24,180.3,135.0,72.0,Switch,b50a426a33da0012
-3842,Sean Pierson,Sean,Pierson,The Punisher,1976-03-10,182.9,170.0,76.0,Southpaw,0d506315895efffc
-3843,Sean Salmon,Sean,Salmon,,1977-09-11,177.8,185.0,,Southpaw,7c0847d3854a95f2
-3844,Sean Santella,Sean,Santella,Shorty Rock,1984-10-25,165.1,125.0,,,39792c2f42c9f527
-3845,Sean Sharaf,Sean,Sharaf,The Smoke,1993-07-11,190.5,252.0,77.0,Orthodox,0f3a990526c5e706
-3846,Sean Sherk,Sean,Sherk,The Muscle Shark,1973-08-05,167.6,155.0,67.0,Orthodox,029880cdbf5ca089
-3847,Sean Soriano,Sean,Soriano,,1989-10-06,175.3,145.0,70.0,Orthodox,bd5403efbaa445c0
-3848,Sean Spencer,Sean,Spencer,Black Magic,1987-06-25,177.8,170.0,74.0,Orthodox,ab850a77a0fa487d
-3849,Sean Strickland,Sean,Strickland,,1991-02-27,185.4,185.0,76.0,Orthodox,0d8011111be000b2
-3850,Sean Wilson,Sean,Wilson,P-Town,1982-10-20,172.7,145.0,,,b8e6393c39cb9740
-3851,Sean Woodson,Sean,Woodson,The Sniper,1992-06-07,188.0,145.0,78.0,Orthodox,4682bc59d5f55145
-3852,Sebastian Szalay,Sebastian,Szalay,Seb,1994-02-03,167.6,145.0,66.0,Orthodox,f201f21cf2c79eb2
-3853,Sedriques Dumas,Sedriques,Dumas,The Reaper,1995-08-06,188.0,185.0,79.0,Orthodox,4e6738062d469256
-3854,Seichi Ikemoto,Seichi,Ikemoto,,1975-08-24,180.3,168.0,,Orthodox,81f38d1640c4e70d
-3855,Semmy Schilt,Semmy,Schilt,Hightower,1973-10-27,208.3,265.0,,Orthodox,d5ed14b2153c6ed2
-3856,Seo Hee Ham,Seo Hee,Ham,,1987-03-08,157.5,115.0,62.0,Southpaw,165c244bcca3ed26
-3857,Seokhyeon Ko,Seokhyeon,Ko,The Korean Tyson,1993-09-24,177.8,170.0,71.0,Southpaw,4a07b1988477502c
-3858,SeongChan Hong,SeongChan,Hong,Honey Badger,1989-11-28,170.2,155.0,69.0,Orthodox,10d4575f497face4
-3859,Sergei Kharitonov,Sergei,Kharitonov,,1980-08-18,182.9,245.0,,Orthodox,0693b2eab79198ea
-3860,Sergei Pavlovich,Sergei,Pavlovich,,1992-05-13,190.5,257.0,84.0,Southpaw,f14cf73e51b29254
-3861,Sergey Ignatov,Sergey,Ignatov,,,175.3,210.0,,Orthodox,df9e9c1f65805d29
-3862,Sergey Khandozhko,Sergey,Khandozhko,Honda,1992-05-19,185.4,170.0,74.0,Orthodox,90da09db03e41748
-3863,Sergey Morozov,Sergey,Morozov,,1989-06-14,167.6,135.0,67.0,Orthodox,2f6a993c7f547c13
-3864,Serghei Spivac,Serghei,Spivac,Polar Bear,1995-01-24,190.5,260.0,78.0,Orthodox,e2f6b2769aaedd6c
-3865,Sergio Gomez,Sergio,Gomez,,1982-04-29,167.6,155.0,,Orthodox,af1e5c64b8663aa0
-3866,Sergio Moraes,Sergio,Moraes,The Panther,1982-07-23,182.9,170.0,72.0,Orthodox,1bcaac2d99b90fce
-3867,Sergio Pettis,Sergio,Pettis,,1993-08-18,167.6,125.0,69.0,Orthodox,de75d1c45a39e221
-3868,Serhiy Sidey,Serhiy,Sidey,,1996-07-04,180.3,135.0,72.0,Switch,1a2bf44edb8055b6
-3869,Seth Baczynski,Seth,Baczynski,The Polish Pistola,1981-10-26,190.5,170.0,75.0,Orthodox,fd5b6598a3b70c0a
-3870,Seth Dikun,Seth,Dikun,,1980-08-05,177.8,135.0,69.0,Orthodox,eb42d4febfafefd1
-3871,Seth Kleinbeck,Seth,Kleinbeck,Mass Destruction,1973-07-25,188.0,185.0,,,8ad022dd81224f61
-3872,Seth Petruzelli,Seth,Petruzelli,The Silverback,1979-12-03,182.9,205.0,76.0,Orthodox,93b9496275bbbf80
-3873,SeungGuk Choi,SeungGuk,Choi,,1996-12-26,167.6,125.0,64.0,Orthodox,adccbc19b22e19af
-3874,SeungWoo Choi,SeungWoo,Choi,Sting,1992-11-03,182.9,145.0,74.0,Orthodox,a68575214ecad140
-3875,Shah Kamali,Shah,Kamali,,1998-10-25,,265.0,,,a46ab6c64d321c2d
-3876,Shaheen Santana,Shaheen,Santana,Shazam,1991-06-04,185.4,155.0,75.0,Orthodox,19809d475ed832d5
-3877,Shamar Bailey,Shamar,Bailey,,1982-09-22,175.3,155.0,75.0,Southpaw,e2b8186b618b00c4
-3878,Shamil Abdurakhimov,Shamil,Abdurakhimov,Abrek,1981-09-02,190.5,235.0,76.0,Orthodox,2f5cbecbbe18bac4
-3879,Shamil Gamzatov,Shamil,Gamzatov,,1990-08-09,188.0,205.0,76.0,Orthodox,0d980975001ae3d8
-3880,Shamil Gaziev,Shamil,Gaziev,,1990-02-10,193.0,265.0,78.0,Orthodox,6747ccd6d1acd266
-3881,Shana Dobson,Shana,Dobson,Danger,1989-03-30,167.6,125.0,69.0,Orthodox,122ac9b816d8b71c
-3882,Shana Olsen,Shana,Olsen,Rock Solid,1980-12-17,170.2,145.0,,,dfbb95ca0c143988
-3883,Shane Burgos,Shane,Burgos,Hurricane,1991-03-19,180.3,145.0,75.0,Orthodox,98d961097baaf308
-3884,Shane Campbell,Shane,Campbell,Shaolin,1987-01-21,182.9,155.0,71.0,Orthodox,784285b7ae7dd85f
-3885,Shane Carwin,Shane,Carwin,The Engineer,1975-01-04,188.0,265.0,80.0,Orthodox,68dd7b3783c19f9c
-3886,Shane Howell,Shane,Howell,,1983-11-28,172.7,125.0,,Orthodox,a7de976620f2ed13
-3887,Shane Nelson,Shane,Nelson,Sugar,1984-11-29,175.3,155.0,70.0,Southpaw,2db7fa8db6bc9632
-3888,Shane Primm,Shane,Primm,,1984-07-30,190.5,205.0,,Orthodox,5114f1b5ad4cdf72
-3889,Shane Roller,Shane,Roller,,1979-07-14,177.8,155.0,72.0,Orthodox,75e0d3cc2262b732
-3890,Shane Young,Shane,Young,Smokin',1993-07-31,172.7,145.0,72.0,Orthodox,4cd8b03aee1d0138
-3891,Shane del Rosario,Shane,del Rosario,,1983-09-23,193.0,250.0,,Southpaw,85980f5da429c0a6
-3892,Shanelle Dyer,Shanelle,Dyer,The Nightmare,2001-04-23,167.6,115.0,65.0,Orthodox,cfbb3edab781dfd2
-3893,Shang Zhifa,Shang,Zhifa,Northeast Flying Tiger,1986-03-15,170.2,125.0,63.0,Orthodox,5a7350645bc9bd6e
-3894,Shanna Young,Shanna,Young,The Shanimal,1991-02-20,170.2,125.0,65.0,Orthodox,568bbad0eaced57c
-3895,Shannon Clark,Shannon,Clark,MMA Barbie,1992-07-07,165.1,125.0,64.0,Orthodox,7ae36b3791e0969a
-3896,Shannon Gugerty,Shannon,Gugerty,,1981-12-30,177.8,155.0,71.0,Orthodox,9f1641c08cf8fbe2
-3897,Shannon Ritch,Shannon,Ritch,The Cannon,1970-09-27,175.3,190.0,,Orthodox,1c7cce2f5c17160d
-3898,Shannon Ross,Shannon,Ross,The Turkish Delight,1989-05-12,167.6,125.0,66.0,Switch,51c655162e462ceb
-3899,Shara Magomedov,Shara,Magomedov,Bullet,1994-05-16,188.0,185.0,73.0,Orthodox,06734ca9d88dec3a
-3900,Shaun Etchell,Shaun,Etchell,The Buzzsaw,1993-08-05,170.2,125.0,68.0,Switch,ea9bfe9c25037bba
-3901,Shauna Bannon,Shauna,Bannon,Mama B,1993-10-23,165.1,115.0,65.0,Switch,9c442aaf149ea982
-3902,Shavkat Rakhmonov,Shavkat,Rakhmonov,Nomad,1994-10-23,185.4,170.0,77.0,Orthodox,01afe0916a40c7c5
-3903,Shawn Bunch,Shawn,Bunch,Bunch the Great,1983-03-19,165.1,135.0,,,6e9af164ab91a229
-3904,Shawn Jordan,Shawn,Jordan,The Savage,1984-10-21,182.9,260.0,75.0,Southpaw,ca2efc9d7d523c43
-3905,Shawn Teed,Shawn,Teed,,1992-02-13,195.6,265.0,,Orthodox,5bb70ebd65075c5c
-3906,Shayilan Nuerdanbieke,Shayilan,Nuerdanbieke,Wolverine,1994-05-04,172.7,145.0,69.0,Orthodox,0a73acff6325c1e2
-3907,Shayna Baszler,Shayna,Baszler,The Queen of Spades,1980-08-08,170.2,135.0,,Orthodox,8ef4a91ac694b7ce
-3908,Sheila Gaff,Sheila,Gaff,The German Tank,1989-12-29,165.1,135.0,,Orthodox,837d30395faca41e
-3909,Sheldon Westcott,Sheldon,Westcott,,1984-08-20,185.4,170.0,71.0,Southpaw,ec2d13a87d3d9541
-3910,Shelton Graves,Shelton,Graves,The Gravedigger,1985-10-23,188.0,255.0,76.0,Southpaw,642862d6d63605cd
-3911,Shem Rock,Shem,Rock,,1993-11-05,,155.0,,,52b6bf4528130e86
-3912,Sherman Pendergarst,Sherman,Pendergarst,The Tank,1967-08-01,185.4,235.0,,Orthodox,e670f8cc2969a789
-3913,Sherrard Blackledge,Sherrard,Blackledge,The Thriller,1993-08-16,180.3,155.0,75.0,Orthodox,0e5c79b3594ff0ad
-3914,Sherron Leggett,Sherron,Leggett,Rob Roy,1978-10-27,172.7,155.0,,Southpaw,4f670b7972fa0a2e
-3915,Sheymon Moraes,Sheymon,Moraes,,1990-10-11,172.7,145.0,72.0,Orthodox,0d62719b1dcf7c40
-3916,Shi Ming,Shi,Ming,,1994-11-14,157.5,115.0,60.0,Orthodox,d683f4870742b273
-3917,Shimon Smotritsky,Shimon,Smotritsky,The Assassin,2000-08-22,188.0,170.0,74.0,Orthodox,1b0491ef0f9c965e
-3918,Shin Haraguchi,Shin,Haraguchi,,1998-11-27,165.1,145.0,68.0,Switch,05b17ae24e6bba81
-3919,Shingo Kohara,Shingo,Kohara,,,167.6,135.0,,,44c233770075cea1
-3920,Shinsho Anzai,Shinsho,Anzai,Animal,1985-12-01,170.2,170.0,70.0,Orthodox,4665f9f909cd7214
-3921,Shinya Aoki,Shinya,Aoki,Tobikan Judan,1983-05-09,180.3,154.0,,Southpaw,79ded75550efc139
-3922,Sho Patrick Usami,Sho Patrick,Usami,Savage,2000-05-08,175.3,155.0,70.0,Orthodox,fe30c5f5cc3e028b
-3923,Shogo Sato,Shogo,Sato,Tora,1993-06-08,170.2,170.0,66.0,Southpaw,c982b98d33825763
-3924,Shohei Nose,Shohei,Nose,,1997-10-19,167.6,135.0,68.0,Switch,6b0e83b094f816ac
-3925,Shoji Maruyama,Shoji,Maruyama,,1983-04-24,170.2,139.0,,Orthodox,c046100aea0dba9a
-3926,Shonie Carter,Shonie,Carter,Mr. International,1972-05-03,177.8,170.0,,Southpaw,7b6e40a73b567072
-3927,Shonte Barnes,Shonte,Barnes,Shyne,1987-02-09,180.3,185.0,76.0,Southpaw,e575b6ff678c1aca
-3928,Shungo Oyama,Shungo,Oyama,,1974-04-11,180.3,185.0,,Southpaw,47b7e4e60813b7b2
-3929,Shunichi Shimizu,Shunichi,Shimizu,,1985-01-31,165.1,135.0,,Orthodox,10657c60ce349e0f
-3930,Shuya Kamikubo,Shuya,Kamikubo,Stealth,1993-04-12,165.1,135.0,68.0,Switch,a46fa1c7972548d0
-3931,Siala Siliga,Siala,Siliga,Mighty Mo,1970-10-08,185.4,290.0,,Orthodox,3cf68c1d17f66af7
-3932,Sidney Outlaw,Sidney,Outlaw,,1992-04-11,172.7,170.0,74.0,Orthodox,871ce0b4a01922b6
-3933,Sidney Silva,Sidney,Silva,,1972-02-27,190.5,170.0,,Southpaw,a6c32678efd4f434
-3934,Sijara Eubanks,Sijara,Eubanks,SarJ,1985-04-27,162.6,125.0,67.0,Orthodox,4234f0097c83fa62
-3935,Silvana Gomez Juarez,Silvana,Gomez Juarez,La Malvada,1984-12-06,160.0,115.0,65.0,Orthodox,b4880ef2f838d4e1
-3936,Sim Kai Xiong,Sim,Kai Xiong,Kobra,1997-09-06,167.6,135.0,67.0,Orthodox,79e2cb1e813f881b
-3937,Simeon Thoresen,Simeon,Thoresen,The Grin,1984-03-14,185.4,170.0,79.0,Orthodox,fea8acf9bfcf09ec
-3938,Simon Biyong,Simon,Biyong,,1991-04-05,,205.0,,,27ab7257bf6a3b65
-3939,Sione Latu,Sione,Latu,,,182.9,215.0,,,5898357a45a73674
-3940,Sirwan Kakai,Sirwan,Kakai,Zohan,1989-10-03,165.1,135.0,,Orthodox,2525a853486ee670
-3941,Siyar Bahadurzada,Siyar,Bahadurzada,The Great,1984-04-17,180.3,170.0,73.0,Orthodox,aec185309b4843d0
-3942,Slim Trabelsi,Slim,Trabelsi,,1993-05-09,190.5,235.0,,,ff2ec83f44000f78
-3943,So Yul Kim,So Yul,Kim,,1997-05-25,,115.0,,,864c07a7ff90caae
-3944,Soa Palelei,Soa,Palelei,The Hulk,1977-07-12,193.0,265.0,81.0,Orthodox,60029bcf496bd707
-3945,Sodiq Yusuff,Sodiq,Yusuff,Super,1993-05-19,175.3,155.0,71.0,Orthodox,94426bb170c88115
-3946,Sofia Montenegro,Sofia,Montenegro,La Bruja,1999-06-18,167.6,125.0,67.0,Orthodox,8b1b051038354655
-3947,Soichi Nishida,Soichi,Nishida,,,180.3,320.0,,Orthodox,6810d8d2dd557cf9
-3948,Sokun Koh,Sokun,Koh,,,185.4,205.0,,,6d8ef8706781c49e
-3949,Solomon Hutcherson,Solomon,Hutcherson,King,1972-08-31,180.3,185.0,,Southpaw,155bfc7ed36622df
-3950,Solomon Renfro,Solomon,Renfro,The Black Dragon,1997-02-05,175.3,170.0,72.0,Switch,ce6b5b93a96dd15b
-3951,Song Kenan,Song,Kenan,The Assassin,1990-03-10,182.9,170.0,71.0,Orthodox,32490e80ddab1e5a
-3952,Song Yadong,Song,Yadong,Kung Fu Kid,1997-12-02,172.7,135.0,67.0,Orthodox,efb96bf3e9ada36f
-3953,Sora Rakhmonova,Sora,Rakhmonova,,1998-06-21,,125.0,,,63ff619c52ff7976
-3954,Sovannahry Em,Sovannahry,Em,The Sweet Savage,1992-06-26,162.6,135.0,,,45c8fed13a62fe92
-3955,Spencer Fisher,Spencer,Fisher,The King,1976-05-09,170.2,155.0,68.0,Southpaw,f34312c2ccfa0e00
-3956,Spencer Hearns,Spencer,Hearns,,,180.3,185.0,,,d85cf12439945941
-3957,Spike Carlyle,Spike,Carlyle,Alpha Ginger,1993-05-06,172.7,145.0,71.0,Switch,be68b375707dcb85
-3958,Stanislav Nedkov,Stanislav,Nedkov,Stucky,1981-12-09,180.3,205.0,71.0,Orthodox,1d4bbaabd8b60173
-3959,Stefan Klever,Stefan,Klever,,,,185.0,,Orthodox,bc3876891e155bb5
-3960,Stefan Leko,Stefan,Leko,Blitz,1974-06-03,188.0,215.0,,Orthodox,d56bb6dff2ae77eb
-3961,Stefan Sekulic,Stefan,Sekulic,,1992-02-12,182.9,170.0,75.0,Southpaw,348dff4e03bd18c6
-3962,Stefan Struve,Stefan,Struve,Skyscraper,1988-02-18,210.8,265.0,84.0,Orthodox,ebc1f40e00e0c481
-3963,Stephan Bonnar,Stephan,Bonnar,The American Psycho,1977-04-04,193.0,205.0,79.0,Orthodox,c6a33ff198aaaeeb
-3964,Stephanie Egger,Stephanie,Egger,,1988-08-12,167.6,135.0,68.0,Orthodox,5e6294b37bbef029
-3965,Stephanie Frausto,Stephanie,Frausto,Lil Bovy,1990-09-20,157.5,115.0,61.0,Orthodox,fee02819a271c050
-3966,Stephanie Luciano,Stephanie,Luciano,Rondinha,1999-12-16,167.6,115.0,65.0,Orthodox,1b35af4d1529adf6
-3967,Stephanie Webber,Stephanie,Webber,,,167.6,135.0,,,d44a84409bf0da64
-3968,Stephen Banaszak,Stephen,Banaszak,,1990-12-07,182.9,145.0,,,4c4b44e3cf5815b3
-3969,Stephen Bass,Stephen,Bass,Bigfish,1982-11-14,175.3,145.0,,Orthodox,1cecc8fe6748a532
-3970,Stephen Ledbetter,Stephen,Ledbetter,,1982-06-30,175.3,145.0,,Orthodox,56ec58954158966a
-3971,Stephen Palling,Stephen,Palling,Bozo,1967-01-29,162.6,143.0,,,ab7c212de9f66af0
-3972,Stephen Regman,Stephen,Regman,,1991-08-05,180.3,185.0,76.0,Orthodox,24d98df7556ac8af
-3973,Stephen Thompson,Stephen,Thompson,Wonderboy,1983-02-11,182.9,170.0,75.0,Orthodox,4a28cb716c19157a
-3974,Sterling Ford,Sterling,Ford,,1986-03-12,177.8,155.0,,,a71ce6ff0b4a9dbb
-3975,Steve Berger,Steve,Berger,The Red Nosed Pitbull,1973-05-20,180.3,170.0,,Orthodox,21b1132949f2a9b0
-3976,Steve Bosse,Steve,Bosse,The Boss,1981-07-29,180.3,205.0,72.0,Orthodox,e023fa2e648ea0f1
-3977,Steve Bruno,Steve,Bruno,Hollywood,1981-11-03,177.8,170.0,,Orthodox,2f3f12002564bb55
-3978,Steve Byrnes,Steve,Byrnes,The Sergeant,,182.9,170.0,,Orthodox,43612456979e5d5e
-3979,Steve Cantwell,Steve,Cantwell,The Robot,1986-12-08,188.0,185.0,75.0,Orthodox,f1f9e48a0d150757
-3980,Steve Erceg,Steve,Erceg,Astroboy,1995-07-27,172.7,125.0,68.0,Orthodox,32ab52e5de93092d
-3981,Steve Garcia,Steve,Garcia,Mean Machine,1992-05-22,182.9,145.0,75.0,Southpaw,97cf1a2c7c5e7889
-3982,Steve Hadsel,Steve,Hadsel,,,172.7,170.0,,,99793cf88c5adeee
-3983,Steve Jennum,Steve,Jennum,,,177.8,215.0,,Orthodox,ad047e3073a775f3
-3984,Steve Judson,Steve,Judson,,,180.3,230.0,,Orthodox,6ece1d2ab1bed31d
-3985,Steve Kennedy,Steve,Kennedy,The Steamrolla,1983-03-07,180.3,170.0,,Orthodox,185fb0200a4605e6
-3986,Steve Kozola,Steve,Kozola,,,,155.0,,,fc36e2352dccf2a4
-3987,Steve Lopez,Steve,Lopez,,1984-07-30,180.3,155.0,,Orthodox,6085ceb59087514b
-3988,Steve Mann,Steve,Mann,,,185.4,170.0,,,0eef1bf99afd4ff2
-3989,Steve Mensing,Steve,Mensing,The Machine,1977-12-06,180.3,185.0,,Orthodox,3bc27ec15facbcf3
-3990,Steve Montgomery,Steve,Montgomery,The Creepy Weasel,1990-12-19,193.0,185.0,,Southpaw,6e92eb1242b46636
-3991,Steve Nelmark,Steve,Nelmark,The Sandman,,182.9,240.0,,Orthodox,13e62d766b709aa6
-3992,Steve Ramirez,Steve,Ramirez,,,170.2,125.0,,,4311e9d23604205c
-3993,Steve Steinbeiss,Steve,Steinbeiss,The Hooligan,1981-05-05,190.5,185.0,75.0,Orthodox,0b5b6876c2a4723f
-3994,Steve Vigneault,Steve,Vigneault,Lionheart,1978-02-14,177.8,185.0,,Orthodox,6888e31ce88f5b17
-3995,Steve White,Steve,White,,,180.3,175.0,,,d181689653115b6a
-3996,Steven Asplund,Steven,Asplund,Concrete,1998-07-16,195.6,261.0,78.0,Orthodox,e56cee1ad697db04
-3997,Steven Ciaccio,Steven,Ciaccio,Stryker,,182.9,170.0,,,eaebaa6801338ea1
-3998,Steven Graham,Steven,Graham,,,185.4,290.0,,Orthodox,3e514f437c51ce0a
-3999,Steven Koslow,Steven,Koslow,Obi Won Shinobi The Pillow,1997-01-22,170.2,125.0,69.0,Switch,84512339473dd300
-4000,Steven Nguyen,Steven,Nguyen,The Ninja,1993-05-19,180.3,145.0,73.0,Switch,69037fc7730e4225
-4001,Steven Peterson,Steven,Peterson,Ocho,1990-05-29,177.8,145.0,70.0,Orthodox,b93c06d09d1c4ac0
-4002,Steven Siler,Steven,Siler,Super,1987-02-15,180.3,145.0,70.0,Orthodox,d188a3b817860ec6
-4003,Stevie Lynch,Stevie,Lynch,,,177.8,170.0,,Orthodox,710d93f1508f7104
-4004,Stevie Ray,Stevie,Ray,Braveheart,1990-03-25,177.8,155.0,70.0,Southpaw,31a13532e724ca2b
-4005,Stewart Nicoll,Stewart,Nicoll,Kakamora,1996-04-11,165.1,125.0,65.0,Orthodox,2bd98ab77a8daa75
-4006,Stipe Miocic,Stipe,Miocic,,1982-08-19,193.0,240.0,80.0,Orthodox,d28dee5c705991df
-4007,Stoney Hale,Stoney,Hale,The Skuller,1979-10-18,182.9,,,,206a7d47eb62170e
-4008,SuYoung You,SuYoung,You,Yoo-Jitsu,1995-12-11,167.6,135.0,65.0,Orthodox,a474aade8eb3a8f0
-4009,Sulangrangbo,,Sulangrangbo,,2005-07-17,175.3,135.0,66.0,Southpaw,1dd1a3aacde66f72
-4010,Sultan Aliev,Sultan,Aliev,,1984-09-17,180.3,170.0,74.0,Orthodox,e70de1859b7ee78e
-4011,Suman Mokhtarian,Suman,Mokhtarian,,1992-06-13,172.7,145.0,72.0,Orthodox,192520689012c7e4
-4012,Sumit Kumar,Sumit,Kumar,The Indian Kid,2000-09-09,165.1,125.0,66.0,Orthodox,a0a625221e0dd339
-4013,Sumudaerji,,Sumudaerji,The Tibetan Eagle,1996-01-20,172.7,125.0,72.0,Southpaw,3cf18e01cb6cbde3
-4014,Sung Bin Jo,Sung Bin,Jo,Korean Falcon,1992-07-17,182.9,145.0,72.0,Orthodox,6e0e977beb909837
-4015,Syuri Kondo,Syuri,Kondo,,1989-02-08,162.6,115.0,66.0,Orthodox,a851c35f58199231
-4016,TJ Brown,TJ,Brown,Downtown,1990-05-22,175.3,145.0,72.0,Switch,d31cbcdd7d69536d
-4017,TJ Cook,TJ,Cook,,1982-09-08,,205.0,,,fa238ecfd048f7d8
-4018,TJ Dillashaw,TJ,Dillashaw,,1986-02-07,167.6,135.0,67.0,Orthodox,c849740a3ff51931
-4019,TJ Grant,TJ,Grant,,1984-02-26,177.8,155.0,72.0,Orthodox,a26198ba5093147e
-4020,TJ Hepburn,TJ,Hepburn,The Carnivore,,170.2,155.0,,,e1acbb6352ca3551
-4021,TJ Laramie,TJ,Laramie,,1997-10-15,167.6,145.0,66.0,Orthodox,cd2e5a390821fb48
-4022,TJ O'Brien,TJ,O'Brien,The Spider,1987-01-01,188.0,155.0,,Orthodox,d25b93992f285953
-4023,TJ Waldburger,TJ,Waldburger,,1988-04-25,180.3,170.0,75.0,Orthodox,8f2939f5fd9cca1e
-4024,Tabatha Ricci,Tabatha,Ricci,Baby Shark,1995-02-21,154.9,115.0,61.0,Orthodox,d25240135aee03e5
-4025,Tadao Yasuda,Tadao,Yasuda,,1963-10-09,193.0,310.0,,Orthodox,49e7e05f902479ca
-4026,Tae Hyun Bang,Tae Hyun,Bang,Supernatural,1983-04-15,175.3,155.0,71.0,Switch,9a2d3567abc02e34
-4027,Tae Hyun Lee,Tae Hyun,Lee,,1975-01-17,198.1,295.0,,Orthodox,de99da2c0d18d34a
-4028,Tafon Nchukwi,Tafon,Nchukwi,Da Don,1994-10-14,182.9,185.0,77.0,Orthodox,6aae253467e8f9ce
-4029,Tagir Ulanbekov,Tagir,Ulanbekov,,1991-08-07,170.2,125.0,70.0,Southpaw,f00ac08ab056af5d
-4030,Tai Bowden,Tai,Bowden,,,180.3,230.0,,,2efbc83a6b9b7f86
-4031,Tai Tuivasa,Tai,Tuivasa,Bam Bam,1993-03-16,188.0,264.0,75.0,Southpaw,c62fbc117d57b943
-4032,Taiei Kin,Taiei,Kin,,1970-07-08,180.3,185.0,,Orthodox,c7ac79839e86ce33
-4033,Taiga Iwasaki,Taiga,Iwasaki,,1997-07-07,185.4,185.0,73.0,Orthodox,5b08af4fbc987f9c
-4034,Taila Santos,Taila,Santos,,1993-06-22,167.6,125.0,68.0,Orthodox,f7467152fd9f18a2
-4035,Tainara Lisboa,Tainara,Lisboa,Thai Panther,1991-03-02,170.2,135.0,67.0,Orthodox,2c5f5749569eef66
-4036,Taiyilake Nueraji,Taiyilake,Nueraji,Super Saiyan,2001-01-12,188.0,170.0,75.0,Southpaw,7498b3ac79a3b948
-4037,Takafumi Otsuka,Takafumi,Otsuka,,,167.6,139.0,,Orthodox,6b8f28da9a483049
-4038,Takahiro Oba,Takahiro,Oba,,,172.7,200.0,,Southpaw,7139cd2ae4bf6a29
-4039,Takanori Gomi,Takanori,Gomi,The Fireball Kid,1978-09-22,170.2,155.0,70.0,Southpaw,3be081c29bf734d9
-4040,Takashi Sato,Takashi,Sato,Ten,1990-06-09,177.8,170.0,73.0,Southpaw,8abac218746e04ca
-4041,Takashi Sugiura,Takashi,Sugiura,,1970-05-31,180.3,225.0,,Southpaw,06c60fc2c8dcd7bd
-4042,Takaya Suzuki,Takaya,Suzuki,,2004-09-04,,125.0,,,81d59c1e07478361
-4043,Takayo Hashi,Takayo,Hashi,,1977-10-02,162.6,135.0,,Orthodox,ae4343d29c68e9d0
-4044,Takayuki Okada,Takayuki,Okada,Giant Ochiai,,185.4,290.0,,Orthodox,32541eb5d12668b4
-4045,Takenori Sato,Takenori,Sato,,1985-06-08,177.8,170.0,,Southpaw,276c60b14b571dd4
-4046,Takeru Uchida,Takeru,Uchida,,2002-09-30,165.1,125.0,68.0,Southpaw,1d76f07ffdd765c2
-4047,Takeshi Inoue,Takeshi,Inoue,Lion,1980-03-18,172.7,145.0,,,a61a0cd2829e5d4e
-4048,Takeshi Yamazaki,Takeshi,Yamazaki,,,172.7,139.0,,Southpaw,d1d20e651e6cbc02
-4049,Takeya Mizugaki,Takeya,Mizugaki,,1983-12-16,170.2,135.0,69.0,Orthodox,48e093ea1f43a053
-4050,Talita Alencar,Talita,Alencar,Problem Child,1990-10-17,154.9,115.0,58.0,Orthodox,d35298b6df168456
-4051,Talita Bernardo,Talita,Bernardo,,1987-03-04,162.6,135.0,68.0,Orthodox,5b2325cd70dbe2ea
-4052,Talita Nogueira,Talita,Nogueira,Treta,1985-10-13,177.8,145.0,,,a3d1d060f9af97fe
-4053,Tallison Teixeira,Tallison,Teixeira,Xicao,1999-12-07,200.7,258.0,83.0,Orthodox,17923f676f100e16
-4054,Tamdan McCrory,Tamdan,McCrory,The Barncat,1986-11-05,193.0,185.0,76.0,Switch,eff47295daf721a6
-4055,Tamires Vidal,Tamires,Vidal,Tractor,1998-07-27,167.6,135.0,68.0,Orthodox,4f3064faf17aa711
-4056,Taneisha Tennant,Taneisha,Tennant,Triple Threat,1989-06-15,170.2,145.0,70.0,Orthodox,87911d22a79d3203
-4057,Tanner Boser,Tanner,Boser,The Bulldozer,1991-08-02,188.0,205.0,75.0,Orthodox,04c8b08b16a5b99e
-4058,Tarec Saffiedine,Tarec,Saffiedine,Sponge,1986-09-06,177.8,170.0,70.0,Switch,0749d968e932df53
-4059,Tateki Matsuda,Tateki,Matsuda,Tech,1986-02-27,170.2,125.0,,Orthodox,3a524c6700addc24
-4060,Tatiana Suarez,Tatiana,Suarez,,1990-12-19,165.1,115.0,66.0,Southpaw,b08012bbe542592a
-4061,Tatsuro Taira,Tatsuro,Taira,The Best,2000-01-27,170.2,125.0,70.0,Orthodox,4461d7e47375a895
-4062,Tatsuya Ando,Tatsuya,Ando,Kirinji,1990-04-26,162.6,145.0,68.0,Southpaw,17615148dd4be6f6
-4063,Tatsuya Iwasaki,Tatsuya,Iwasaki,,,175.3,205.0,,Orthodox,243b07fc65ccbb16
-4064,Tatsuya Kawajiri,Tatsuya,Kawajiri,Crusher,1978-05-08,170.2,145.0,69.0,Orthodox,80d918336163b80c
-4065,Tatsuya Mizuno,Tatsuya,Mizuno,,1981-06-02,185.4,205.0,,Southpaw,478c8706bdb92440
-4066,Tatsuya Saika,Tatsuya,Saika,Yanbo,1990-09-18,182.9,155.0,73.0,Orthodox,cc4e571964b084d4
-4067,Taylor Callens,Taylor,Callens,,1991-05-21,177.8,155.0,,,53d471e9bf5f2fc8
-4068,Taylor Johnson,Taylor,Johnson,Tombstone,1990-11-09,182.9,185.0,74.0,Switch,552b09cbf13b6328
-4069,Taylor Lapilus,Taylor,Lapilus,Double Impact,1992-04-08,167.6,135.0,73.0,Southpaw,8b1ed83b02303075
-4070,Taylor Moore,Taylor,Moore,,1993-10-16,177.8,135.0,70.0,Southpaw,26927dab41dbd5fc
-4071,Taylor Roberts,Taylor,Roberts,,,180.3,170.0,,,c5ec23983dc2d8f4
-4072,Te Edwards,Te,Edwards,,1990-09-11,172.7,155.0,72.0,Orthodox,ef44e4ea9050f2ea
-4073,Tebaris Gordon,Tebaris,Gordon,Boom,1988-07-19,185.4,265.0,,Orthodox,68c4ca70067bf282
-4074,Tecia Pennington,Tecia,Pennington,Tiny Tornado,1989-08-16,154.9,115.0,60.0,Orthodox,31ef8b67e13495b3
-4075,Tedd Williams,Tedd,Williams,,1969-12-19,185.4,275.0,,Orthodox,b63e800c18e011b5
-4076,Teddy Ash,Teddy,Ash,Bear,1989-12-27,185.4,185.0,73.0,Switch,a373085066dbfb54
-4077,Teemu Packalen,Teemu,Packalen,Pacu,1987-05-22,185.4,155.0,75.0,Orthodox,8f4eeaf7a0df7c1a
-4078,Teila Tuli,Teila,Tuli,,1969-06-14,182.9,430.0,,Orthodox,96eff1a628adcc7f
-4079,Tereza Bleda,Tereza,Bleda,,2001-11-30,175.3,125.0,71.0,Orthodox,59c438c81fbf3ece
-4080,Terrance McKinney,Terrance,McKinney,T. Wrecks,1994-09-15,177.8,155.0,73.0,Switch,809bd1a871491508
-4081,Terrance Saeteurn,Terrance,Saeteurn,Wrong Turn,1995-05-30,167.6,125.0,67.0,Orthodox,a78f7a9135eb6249
-4082,Terrell Brown,Terrell,Brown,,1983-04-13,,185.0,,,85df85a4e276c90e
-4083,Terrence Mitchell,Terrence,Mitchell,,1989-12-30,177.8,135.0,74.0,Orthodox,f3ca6908f78efebe
-4084,Terrion Ware,Terrion,Ware,Flash,1986-03-31,172.7,135.0,71.0,Orthodox,ba5e253af86db1a8
-4085,Terry Etim,Terry,Etim,,1986-01-11,185.4,155.0,73.0,Orthodox,33011768c3c4dc9a
-4086,Terry Martin,Terry,Martin,,1980-10-10,172.7,185.0,71.0,Orthodox,6a92caba39b64752
-4087,Teruto Ishihara,Teruto,Ishihara,Yashabo,1991-07-23,170.2,135.0,69.0,Southpaw,88cd34d836b4ebcd
-4088,Tetsuji Kato,Tetsuji,Kato,,,,155.0,,Orthodox,542db012217ecb83
-4089,Tetsuya Seki,Tetsuya,Seki,,1994-02-08,177.8,155.0,,,5e1062e066c601e6
-4090,Thaddeus Luster,Thaddeus,Luster,,,190.5,210.0,,,505934897b8b4824
-4091,Thales Leites,Thales,Leites,,1981-09-06,185.4,185.0,78.0,Orthodox,cfb65863d5099327
-4092,Thanh Le,Thanh,Le,,1985-08-28,175.3,145.0,74.0,Orthodox,882b3f5a0774d575
-4093,Themba Gorimbo,Themba,Gorimbo,Mamba,1991-01-23,185.4,170.0,77.0,Orthodox,40f3cb27fc7305a1
-4094,Theo Haig,Theo,Haig,,1996-08-23,188.0,185.0,77.0,Orthodox,8a213af406eb2dd4
-4095,Theo Rlayang,Theo,Rlayang,Jungle King,1994-08-10,170.2,145.0,65.0,Orthodox,8aabef76351401d0
-4096,Thiago Alves,Thiago,Alves,Pitbull,1983-10-03,175.3,170.0,70.0,Orthodox,31ee470ef5dc8d7f
-4097,Thiago Moises,Thiago,Moises,,1995-03-23,175.3,155.0,70.0,Orthodox,d945aae53e3e54e6
-4098,Thiago Perpetuo,Thiago,Perpetuo,Bodao,1987-12-14,177.8,170.0,,Orthodox,c1a5d3843596df92
-4099,Thiago Santos,Thiago,Santos,Marreta,1984-01-07,188.0,205.0,76.0,Orthodox,dea070ed4a2a8281
-4100,Thiago Silva,Thiago,Silva,,1982-11-12,188.0,205.0,74.0,Orthodox,2924886ee9c4c527
-4101,Thiago Tavares,Thiago,Tavares,,1984-11-08,170.2,145.0,70.0,Orthodox,8a59d346dc976a10
-4102,Thibault Gouti,Thibault,Gouti,GT,1987-02-27,177.8,155.0,72.0,Orthodox,51e86de150ee8be6
-4103,Thomas Almeida,Thomas,Almeida,Thominhas,1991-07-31,170.2,145.0,70.0,Southpaw,2b074403b7c6cdb4
-4104,Thomas Campbell,Thomas,Campbell,,,,,,,d060014a5a039829
-4105,Thomas Denny,Thomas,Denny,The Wildman,1971-04-19,177.8,170.0,,Orthodox,a11a6ee8eeb03c18
-4106,Thomas Diagne,Thomas,Diagne,,1983-09-03,185.4,154.0,,,8567466ae167216b
-4107,Thomas Gifford,Thomas,Gifford,The Young Lion,1992-07-26,185.4,155.0,75.0,Orthodox,e7f51d9f9e9259e7
-4108,Thomas Longacre,Thomas,Longacre,,,175.3,145.0,,Orthodox,989be26791d0aad4
-4109,Thomas Paull,Thomas,Paull,Juggernaut,1994-10-15,170.2,155.0,67.0,Orthodox,dda67d7d3df6b406
-4110,Thomas Petersen,Thomas,Petersen,The Train,1995-03-30,185.4,264.0,74.0,Southpaw,764d39074a352e33
-4111,Thomas Ramirez,Thomas,Ramirez,,,185.4,410.0,,Sideways,ea398c802d9998ee
-4112,Ti Haitao,Ti,Haitao,,,,135.0,,,3848cd6cac73e091
-4113,Tiago dos Santos e Silva,Tiago,dos Santos e Silva,Trator,1987-04-12,175.3,145.0,70.0,Orthodox,8ce87f7e3a9baed2
-4114,Tiffany Masters,Tiffany,Masters,Rainbow Renegade,1994-07-31,160.0,115.0,65.0,Orthodox,ca743f96dd2063d5
-4115,Tiki Ghosn,Tiki,Ghosn,,1977-02-09,177.8,170.0,,Orthodox,cb6783c39c01d896
-4116,Tim Boetsch,Tim,Boetsch,The Barbarian,1981-01-28,182.9,185.0,74.0,Orthodox,c80095f6092271a7
-4117,Tim Caron,Tim,Caron,The Bear,1987-07-24,185.4,185.0,,Orthodox,b80ea4880f25c187
-4118,Tim Catalfo,Tim,Catalfo,Obake,,180.3,235.0,,Orthodox,6ca68b636fbc1f18
-4119,Tim Credeur,Tim,Credeur,,1977-07-09,190.5,185.0,75.0,Orthodox,89b8d1bf1ff09d1d
-4120,Tim Elliott,Tim,Elliott,,1986-12-24,170.2,125.0,66.0,Southpaw,c96d9178c9ed9e62
-4121,Tim Gorman,Tim,Gorman,The Psycho,1983-04-29,165.1,135.0,,Southpaw,c10eb2f12c489f6d
-4122,Tim Hague,Tim,Hague,The Trashing Machine,1983-05-09,193.0,260.0,76.0,Orthodox,219a254e15d60135
-4123,Tim Kennedy,Tim,Kennedy,,1979-09-01,180.3,185.0,74.0,Orthodox,3c660c90d48fc80d
-4124,Tim Lajcik,Tim,Lajcik,The Bohemian,1965-06-21,185.4,225.0,,Orthodox,c7e9d15cfce52f1d
-4125,Tim McKenzie,Tim,McKenzie,,1982-07-21,182.9,185.0,74.0,Orthodox,9ca265dfe8323db3
-4126,Tim Means,Tim,Means,The Dirty Bird,1984-02-20,188.0,170.0,75.0,Orthodox,4b47e71384a9522f
-4127,Tim Roman,Tim,Roman,,1985-06-08,185.4,170.0,,,3b83fec860a45ca1
-4128,Tim Stout,Tim,Stout,,1979-02-09,180.3,185.0,,,e1a4568fec1fc24f
-4129,Tim Sylvia,Tim,Sylvia,The Maine-iac,1976-03-05,203.2,265.0,80.0,Orthodox,2a542ee8a8b83559
-4130,Tim Williams,Tim,Williams,The South Jersey Strangler,1986-07-03,188.0,185.0,76.0,Orthodox,990bd63726a577f8
-4131,Timmy Cuamba,Timmy,Cuamba,Twilight,1999-02-08,175.3,145.0,71.0,Orthodox,0e46690e55a8df75
-4132,Timo Feucht,Timo,Feucht,,1996-01-18,190.5,205.0,79.0,Orthodox,8c21eb9fd7c4c203
-4133,Timothy Johnson,Timothy,Johnson,,1985-03-13,190.5,265.0,77.0,Southpaw,cc900af167fbedfd
-4134,Timur Valiev,Timur,Valiev,Lucky,1990-01-19,167.6,135.0,67.0,Orthodox,45e738622ea2c02c
-4135,Tina Lahdemaki,Tina,Lahdemaki,Jelly Bean,1988-05-28,157.5,115.0,,Orthodox,e5ca2bc2451a5956
-4136,Tito Jones,Tito,Jones,,1981-07-31,172.7,145.0,,Southpaw,7b223a22a6c26868
-4137,Tito Ortiz,Tito,Ortiz,The People's Champ,1975-01-23,190.5,205.0,74.0,Orthodox,2f732dd9210d301f
-4138,Tobias Harila,Tobias,Harila,Bad Intention,1994-01-13,,,,,4d1e92b61bcef308
-4139,Toby Misech,Toby,Misech,2 Quick,1988-03-07,172.7,145.0,,Southpaw,3f87218a7aca84c4
-4140,Todd Brown,Todd,Brown,Bulldog,1976-12-13,180.3,205.0,,Orthodox,9b68bf67c5695185
-4141,Todd Butler,Todd,Butler,,,185.4,200.0,,Southpaw,3fed746acfd026dd
-4142,Todd Duffee,Todd,Duffee,,1985-12-06,190.5,260.0,78.0,Orthodox,bda04c573563cc2e
-4143,Todd Gouwenberg,Todd,Gouwenberg,,1974-09-25,185.4,205.0,,Orthodox,c44acf87e376c62b
-4144,Todd Lally,Todd,Lally,,,170.2,145.0,,Orthodox,7d06092326c52528
-4145,Todd Medina,Todd,Medina,El Tiburon,,177.8,193.0,,Southpaw,b60391da771deefe
-4146,Todd Moore,Todd,Moore,,1983-12-30,175.3,170.0,71.0,Southpaw,e31502e3f79d00c5
-4147,Tofiq Musayev,Tofiq,Musayev,,1989-12-15,175.3,155.0,69.0,Orthodox,ae81a3ac7b260411
-4148,Toki Matsui,Toki,Matsui,,1999-09-08,167.6,125.0,65.0,Orthodox,56cc76c55cee8410
-4149,Tokimitsu Ishizawa,Tokimitsu,Ishizawa,Kendo Ka Shin,1968-08-05,182.9,185.0,,Orthodox,f3155a94ca420126
-4150,Tokitaka Nakanishi,Tokitaka,Nakanishi,Toky,1996-07-28,167.6,135.0,66.0,Orthodox,eb9446a4f44e19cf
-4151,Tom Aaron,Tom,Aaron,,1978-07-13,,155.0,,,93fe7332d16c6ad9
-4152,Tom Aspinall,Tom,Aspinall,,1993-04-11,195.6,256.0,78.0,Orthodox,399afbabc02376b5
-4153,Tom Blackledge,Tom,Blackledge,,,,205.0,,Orthodox,2adb11835acd815b
-4154,Tom Breese,Tom,Breese,,1991-09-26,190.5,185.0,73.0,Southpaw,1588b787bda7b540
-4155,Tom DeBlass,Tom,DeBlass,,1982-05-14,182.9,185.0,,Orthodox,0bcfe2513cb3bc39
-4156,Tom Duquesnoy,Tom,Duquesnoy,Fire Kid,1993-06-21,170.2,135.0,68.0,Orthodox,e979c76341f19b22
-4157,Tom Egan,Tom,Egan,,,180.3,170.0,,Orthodox,eae4aec1a5a8ff01
-4158,Tom Erikson,Tom,Erikson,The Big Cat,,190.5,280.0,,Orthodox,7b9a85e5ff31ef47
-4159,Tom Gallicchio,Tom,Gallicchio,Da Tank,1986-09-23,177.8,170.0,,Southpaw,cc81c92fe2254935
-4160,Tom Lawlor,Tom,Lawlor,Filthy,1983-05-15,182.9,205.0,74.0,Southpaw,4d44f37107f01b9b
-4161,Tom Murphy,Tom,Murphy,,1974-11-19,188.0,227.0,,Southpaw,62918a2118de08b2
-4162,Tom Niinimaki,Tom,Niinimaki,Stoneface,1982-07-25,175.3,145.0,69.0,Orthodox,5fceb45939fc0c8a
-4163,Tom Nolan,Tom,Nolan,Big Train,2000-03-08,190.5,155.0,73.0,Southpaw,6c3b2525436cf5d4
-4164,Tom Sauer,Tom,Sauer,,1970-11-11,185.4,263.0,,,36ab6af06e312b41
-4165,Tom Tuggle,Tom,Tuggle,The Law,,188.0,250.0,,Orthodox,b9aa7d230865b5fe
-4166,Tom Watson,Tom,Watson,Kong,1982-07-13,185.4,185.0,73.0,Orthodox,6809c31286b08d97
-4167,Tomasz Drwal,Tomasz,Drwal,Gorilla,1982-01-22,185.4,205.0,76.0,Orthodox,679a9054e2815943
-4168,Tommy Cuozzi Jr.,Tommy,Cuozzi Jr.,Little T,1999-08-31,175.3,145.0,71.0,Orthodox,eb49fe2f85ae9526
-4169,Tommy Gantt,Tommy,Gantt,,1993-01-09,180.3,155.0,76.0,Orthodox,de83f920fd302871
-4170,Tommy Hayden,Tommy,Hayden,Wild Card,1986-03-11,175.3,145.0,,Southpaw,0871254cd790c250
-4171,Tommy Lee,Tommy,Lee,,1977-01-20,170.2,145.0,,Orthodox,806975e1b4f47b27
-4172,Tommy McMillen,Tommy,McMillen,Gun,1997-12-15,182.9,145.0,74.0,Orthodox,6b0a6def604de298
-4173,Tommy Petersen,Tommy,Petersen,,,,155.0,,,7aabd61419f747d1
-4174,Tommy Speer,Tommy,Speer,,1984-08-20,177.8,170.0,71.0,Orthodox,1411c630ba711b64
-4175,Tomohiko Hashimoto,Tomohiko,Hashimoto,,,182.9,250.0,,Orthodox,a890f9a791ed615d
-4176,Tomomi Iwama,Tomomi,Iwama,,,160.0,155.0,,Orthodox,ac5f67109accb482
-4177,Tomoya Miyashita,Tomoya,Miyashita,,,170.2,139.0,,Southpaw,c9885b1b7c7055a0
-4178,Tony Bonello,Tony,Bonello,The Gun,,188.0,185.0,,,702a72aa7a266d86
-4179,Tony DeSouza,Tony,DeSouza,,1974-07-26,182.9,170.0,70.0,Southpaw,6ad9058b7c7898b0
-4180,Tony Ferguson,Tony,Ferguson,El Cucuy,1984-02-12,180.3,170.0,76.0,Orthodox,22a92d7f62195791
-4181,Tony Fryklund,Tony,Fryklund,The Freak,1971-03-26,182.9,185.0,,Orthodox,253de74457bd6374
-4182,Tony Gravely,Tony,Gravely,,1991-09-28,165.1,135.0,69.0,Orthodox,601964f9654f911a
-4183,Tony Halme,Tony,Halme,,1963-01-06,190.5,300.0,,Orthodox,bad28b7b34f334de
-4184,Tony Johnson,Tony,Johnson,,1983-05-02,188.0,205.0,76.0,Orthodox,3641a0d117e9bc6c
-4185,Tony Johnson,Tony,Johnson,,,185.4,265.0,,,a45bab49951a45cd
-4186,Tony Juarez,Tony,Juarez,,,,155.0,,,97f3692d5444a80a
-4187,Tony Kelley,Tony,Kelley,Primetime,1987-01-21,175.3,135.0,70.0,Switch,1a08b01fdabb6ae2
-4188,Tony Petarra,Tony,Petarra,,,180.3,196.0,,Orthodox,c61f66d8c3fd5f07
-4189,Tony Sims,Tony,Sims,,1985-10-14,180.3,155.0,70.0,Southpaw,57bad6a84230f0c9
-4190,Tony Sylvester,Tony,Sylvester,,1978-01-27,185.4,225.0,,Southpaw,87b7df65c30008c4
-4191,Tonya Evinger,Tonya,Evinger,Triple Threat,1981-06-04,170.2,135.0,70.0,Orthodox,b12a1d19ee383b7c
-4192,Top Noi Kiwram,Top Noi,Kiwram,,1992-08-15,165.1,125.0,67.0,Southpaw,e065b4a42a6c2c79
-4193,Tor Troeng,Tor,Troeng,The Hammer,1983-01-25,188.0,185.0,,Orthodox,8abf70f79e9e27c2
-4194,Torrance Taylor,Torrance,Taylor,,,170.2,155.0,,,88e53ec16b801740
-4195,Torrez Finney,Torrez,Finney,The Punisher,1998-10-24,172.7,185.0,75.0,Orthodox,fbb60f24af5d5a02
-4196,Toshiomi Kazama,Toshiomi,Kazama,,1997-05-15,170.2,135.0,69.0,Orthodox,148bb103cfbf123e
-4197,Townsend Saunders,Townsend,Saunders,,,165.1,170.0,,Orthodox,20bd6c3e03c46ee6
-4198,Tra Telligman,Tra,Telligman,Trauma,1965-02-07,188.0,233.0,,Orthodox,1dab0d1d81dd06db
-4199,Tracy Cortez,Tracy,Cortez,,1993-12-10,165.1,125.0,65.0,Orthodox,68d4a891e5cf2029
-4200,Travis Browne,Travis,Browne,Hapa,1982-07-17,198.1,255.0,79.0,Orthodox,3236bf606fe9fa5b
-4201,Travis Calanoc,Travis,Calanoc,The Dark Knight,,172.7,145.0,,Orthodox,90d28fee0af74f2d
-4202,Travis Fulton,Travis,Fulton,The Ironman,1977-05-29,182.9,240.0,,Orthodox,911fb265462f0d94
-4203,Travis Galbraith,Travis,Galbraith,The Gladiator,1981-05-18,182.9,170.0,,Orthodox,06dc1a58663579d2
-4204,Travis Johnson,Travis,Johnson,,,,205.0,,,443835675e8fc6ca
-4205,Travis Lutter,Travis,Lutter,The Serial Killer,1973-05-12,180.3,185.0,75.0,Orthodox,622f015c81a9b13a
-4206,Travis Wiuff,Travis,Wiuff,The Diesel,1978-03-15,190.5,205.0,,Orthodox,7f9f528cb72a6ed1
-4207,Tre'ston Vines,Tre'ston,Vines,TVTime,1996-06-18,185.4,185.0,79.0,Orthodox,563a1d42bb0e3cef
-4208,Trenell Young,Trenell,Young,Savant,1976-06-19,167.6,145.0,,Orthodox,bf5183e1c1afc3b2
-4209,Trent Jenkins,Trent,Jenkins,,,188.0,185.0,,,02fc8f50f56eb307
-4210,Trent Miller,Trent,Miller,The Terminator,1995-10-31,175.3,185.0,72.0,Orthodox,2b6a37a97541a4fd
-4211,Tresean Gore,Tresean,Gore,Mr. Vicious,1994-06-21,182.9,185.0,75.0,Switch,147e70aa6cc48cfc
-4212,Treston Thomison,Treston,Thomison,,,172.7,145.0,,,ed5f04f833459877
-4213,Trevin Giles,Trevin,Giles,,1992-08-06,182.9,170.0,74.0,Orthodox,b27a1fcb56a3035a
-4214,Trevin Jones,Trevin,Jones,5 Star,1990-08-04,170.2,135.0,70.0,Southpaw,ec23c1be628d8057
-4215,Trevor Harris,Trevor,Harris,,,167.6,145.0,,,0e98b05d3cf6d271
-4216,Trevor Peek,Trevor,Peek,,1995-01-09,175.3,145.0,70.0,Switch,0bc697c5936a2d0a
-4217,Trevor Prangley,Trevor,Prangley,,1972-08-24,185.4,185.0,75.0,Orthodox,f5ff7bcdcfeba3ad
-4218,Trevor Smith,Trevor,Smith,Hot Sauce,1981-01-05,190.5,185.0,75.0,Orthodox,f797f0c57a83353e
-4219,Trey Houston,Trey,Houston,,,180.3,185.0,,,c6668eeb261588d3
-4220,Trey Ogden,Trey,Ogden,Shamurai,1989-11-14,180.3,155.0,72.0,Orthodox,cfc3e7bb44685289
-4221,Trey Waters,Trey,Waters,The Truth,1995-02-21,195.6,170.0,77.0,Orthodox,31dbfbe4e7a6727c
-4222,Tristan Arenal,Tristan,Arenal,,,,155.0,,,9c9455912d917e4e
-4223,Tristan Connelly,Tristan,Connelly,Boondock,1985-12-12,177.8,145.0,68.0,Orthodox,2ebfbe72ed703925
-4224,Troy Mandaloniz,Troy,Mandaloniz,Rude Boy,1980-02-01,175.3,170.0,,Orthodox,725a834930c2b5bf
-4225,Tsuyoshi Kohsaka,Tsuyoshi,Kohsaka,TK,1970-03-06,180.3,225.0,,Orthodox,b76ed59283d3559c
-4226,Tsuyoshi Kurihara,Tsuyoshi,Kurihara,,1973-07-13,177.8,185.0,,Orthodox,032b65d5fff611b2
-4227,Tsuyoshi Tamakairiki,Tsuyoshi,Tamakairiki,,,182.9,220.0,,Orthodox,eaa0a728cc91ef60
-4228,Tucker Lutz,Tucker,Lutz,Top Gun,1994-07-12,172.7,145.0,72.0,Orthodox,7832f2f62f04178f
-4229,Tuco Tokkos,Tuco,Tokkos,,1990-06-30,193.0,205.0,76.0,Orthodox,3e8118c1ab52f211
-4230,Tulio Palhares,Tulio,Palhares,,,,180.0,,,e8c170a64dc920ac
-4231,Turrell Galloway,Turrell,Galloway,,,160.0,145.0,,,7e654edcddd71550
-4232,Ty Flores,Ty,Flores,Big Medicine,1993-12-22,190.5,205.0,73.0,Switch,4bb0f74d5e26f89a
-4233,Ty Miller,Ty,Miller,Thriller,2000-06-04,188.0,170.0,77.0,Orthodox,0859524157a19045
-4234,Tyler Diamond,Tyler,Diamond,,1991-03-18,170.2,145.0,69.0,Orthodox,f5f6419c5f00abad
-4235,Tyler Hill,Tyler,Hill,,1991-08-10,190.5,170.0,,Switch,006efbb0c1621fd7
-4236,Tyler Stinson,Tyler,Stinson,The Evolution,1986-01-17,190.5,170.0,,,2cf520143e76cd2e
-4237,Tyler Toner,Tyler,Toner,,1983-03-31,172.7,145.0,70.0,Orthodox,8e893f269d5696b2
-4238,Tyra Parker,Tyra,Parker,,,165.1,115.0,,Orthodox,64be3dc99eaa42b6
-4239,Tyrell Fortune,Tyrell,Fortune,,2004-10-19,,125.0,,,bc7f4b2d4c2724a2
-4240,Tyron Woodley,Tyron,Woodley,The Chosen One,1982-04-07,175.3,170.0,74.0,Orthodox,effd9de9937996f8
-4241,Tyrone Roberts,Tyrone,Roberts,Native Warrior,,175.3,185.0,,Orthodox,d1e6a6536ee62517
-4242,Tyson Griffin,Tyson,Griffin,,1984-04-20,167.6,145.0,68.0,Orthodox,20205040232ed0f3
-4243,Tyson Nam,Tyson,Nam,,1983-10-06,170.2,125.0,68.0,Orthodox,6e00cfffd54653c4
-4244,Tyson Pedro,Tyson,Pedro,,1991-09-17,190.5,205.0,79.0,Orthodox,49e96ff8ab781589
-4245,Ulysses Gomez,Ulysses,Gomez,Useless,1983-05-25,167.6,125.0,,Orthodox,1e35aa8955794580
-4246,Umar Nurmagomedov,Umar,Nurmagomedov,,1996-01-03,172.7,135.0,69.0,Orthodox,2b6fc1c02736833d
-4247,Uran Satybaldiev,Uran,Satybaldiev,Gorilla,1994-08-10,193.0,205.0,79.0,Orthodox,02f484417a6fa69d
-4248,Uriah Hall,Uriah,Hall,Prime Time,1984-07-31,182.9,185.0,79.0,Orthodox,65578a75fa7900e3
-4249,Urijah Faber,Urijah,Faber,The California Kid,1979-05-14,167.6,135.0,67.0,Orthodox,78114b7199cef90c
-4250,Uros Medic,Uros,Medic,The Doctor,1993-04-25,185.4,170.0,71.0,Southpaw,681399317dbf4701
-4251,Vadym Kutsyi,Vadym,Kutsyi,,1991-07-18,182.9,170.0,71.0,Orthodox,aeb2bcd4371f40d5
-4252,Vagner Rocha,Vagner,Rocha,Ceara,1982-06-06,177.8,155.0,73.0,Orthodox,d403b1a6f278c95e
-4253,Val Woodburn,Val,Woodburn,The Animal,1993-08-10,172.7,170.0,74.0,Orthodox,7a47e068f8017019
-4254,Valentijn Overeem,Valentijn,Overeem,,1976-08-17,190.5,230.0,,Orthodox,20e403a1acfef130
-4255,Valentina Shevchenko,Valentina,Shevchenko,Bullet,1988-03-07,165.1,125.0,66.0,Southpaw,132deb59abae64b1
-4256,Valeri Ignatov,Valeri,Ignatov,,,175.3,170.0,,Orthodox,7b6ce3a9460565b5
-4257,Valerie Letourneau,Valerie,Letourneau,Trouble,1983-04-29,170.2,115.0,68.0,Orthodox,46a2f24feb258ae0
-4258,Valesca Machado,Valesca,Machado,Tina Black,1996-05-06,162.6,115.0,63.0,Orthodox,a1a91dbf41a029c4
-4259,Valmir Lazaro,Valmir,Lazaro,Bidu,1985-08-15,182.9,155.0,73.0,Orthodox,777dea713da2441d
-4260,Valter Walker,Valter,Walker,The Clean Monster,1997-12-14,198.1,265.0,78.0,Orthodox,f5779a2303ed76ec
-4261,Vanessa Demopoulos,Vanessa,Demopoulos,Lil Monster,1988-09-22,157.5,125.0,59.0,Orthodox,2c483cf443f38ece
-4262,Vanessa Melo,Vanessa,Melo,,1988-03-27,165.1,135.0,65.0,Orthodox,9b7dfb3b7d99926a
-4263,Vanilto Antunes,Vanilto,Antunes,,1994-12-28,182.9,170.0,72.0,Orthodox,cc49ada1ea955b13
-4264,Vaughan Lee,Vaughan,Lee,,1982-10-15,167.6,125.0,66.0,Orthodox,8bb6f4479685bbcc
-4265,Vernon Ramos Ho,Vernon,Ramos Ho,,1992-06-03,167.6,170.0,,Orthodox,30b577b112bef42d
-4266,Vernon White,Vernon,White,Tiger,1971-12-03,182.9,205.0,,Southpaw,12458872d6afae1b
-4267,Veronica Hardy,Veronica,Hardy,,1995-10-30,162.6,125.0,64.0,Southpaw,4798e823ada58fe9
-4268,Veta Arteaga,Veta,Arteaga,,,170.2,125.0,,,91e3388e69060e69
-4269,Viacheslav Borshchev,Viacheslav,Borshchev,Slava Claus,1992-01-08,180.3,155.0,69.0,Orthodox,19c591115a58982c
-4270,Vicente Luque,Vicente,Luque,The Silent Assassin,1991-11-27,180.3,170.0,75.0,Orthodox,6d4b63c767106d3a
-4271,Victor Altamirano,Victor,Altamirano,El Magnifico,1991-01-23,172.7,125.0,70.0,Switch,dc7927cd622676a7
-4272,Victor Dias,Victor,Dias,Crazy Horse,1990-12-26,167.6,125.0,69.0,Orthodox,f7202b3130421d27
-4273,Victor Henry,Victor,Henry,La Mangosta,1987-05-04,170.2,135.0,68.0,Switch,eb8d8c2a95cfccb8
-4274,Victor Hugo,Victor,Hugo,Striker,1992-11-22,170.2,135.0,71.0,Orthodox,f264ba50b007f39e
-4275,Victor Jones,Victor,Jones,,,,145.0,,,04f0471f221db717
-4276,Victor Madrigal,Victor,Madrigal,Periquito,1990-08-16,170.2,135.0,71.0,Orthodox,cc63a5f0089d8ba9
-4277,Victor Martinez,Victor,Martinez,The Brick,1991-07-17,172.7,155.0,70.0,Orthodox,3e708ce33b6b18e6
-4278,Victor Reyna,Victor,Reyna,Kelevra,1986-08-05,180.3,170.0,74.0,Southpaw,e9bbcc6530e4cbe6
-4279,Victor Rodriguez,Victor,Rodriguez,Vicious,1992-09-05,165.1,125.0,67.0,Switch,f6e5972c9d16c40e
-4280,Victor Valenzuela,Victor,Valenzuela,Psicosis,1994-02-09,,170.0,,,078695e385ec2f57
-4281,Victor Valenzuela,Victor,Valenzuela,Joe Boxer,,177.8,155.0,,,de277a4abcfeea46
-4282,Victor Valimaki,Victor,Valimaki,The Matrix,,182.9,205.0,,Orthodox,663b76da637402c3
-4283,Victoria Leonardo,Victoria,Leonardo,Fury,1990-02-16,165.1,125.0,64.0,Orthodox,9dedfdd91070ddd8
-4284,Vik Grujic,Vik,Grujic,The Spartan,1977-02-06,180.3,170.0,73.0,Orthodox,1e7483dbff40b84b
-4285,Viktor Pesta,Viktor,Pesta,,1990-07-15,190.5,240.0,77.0,Orthodox,202b0467521c9d6f
-4286,Viktoriia Dudakova,Viktoriia,Dudakova,,1999-01-26,165.1,115.0,67.0,Orthodox,6c9b66b43663f2f7
-4287,Vinc Pichel,Vinc,Pichel,From Hell,1982-11-23,177.8,155.0,72.0,Orthodox,c77a953488e5607d
-4288,Vince Cachero,Vince,Cachero,The Anomaly,1989-11-07,167.6,145.0,68.0,Orthodox,ed2a8cc402173781
-4289,Vince Morales,Vince,Morales,Vandetta,1990-11-12,170.2,135.0,70.0,Orthodox,37098a6e6c27fb66
-4290,Vince Murdock,Vince,Murdock,,1991-03-21,167.6,145.0,64.0,Orthodox,4b90384d7c3519b8
-4291,Vincent Eazelle,Vincent,Eazelle,The Real Deal,1980-12-07,180.3,155.0,,,ec421d5de0aea624
-4292,Vinicius Cenci,Vinicius,Cenci,Chambinho,1995-11-24,185.4,155.0,74.0,Orthodox,f21a152aaa3e95c6
-4293,Vinicius Magalhaes,Vinicius,Magalhaes,Draculinho,1971-07-30,,145.0,,,1b583c64c23f0c7f
-4294,Vinicius Moreira,Vinicius,Moreira,Mamute,1989-02-28,193.0,205.0,76.0,Orthodox,acb36c908d415c4a
-4295,Vinicius Oliveira,Vinicius,Oliveira,LokDog,1995-11-30,175.3,135.0,70.0,Switch,18d01f7f8338ae72
-4296,Vinicius Queiroz,Vinicius,Queiroz,Spartan,1983-08-29,200.7,220.0,,Orthodox,2a8502954f49e682
-4297,Vinicius Salvador,Vinicius,Salvador,,1996-07-24,170.2,135.0,70.0,Southpaw,65cdf4ec31143d86
-4298,Vinny Magalhaes,Vinny,Magalhaes,Pezao,1984-07-02,190.5,205.0,75.0,Orthodox,88a9bc81271ccd89
-4299,Virgil Zwicker,Virgil,Zwicker,RezDog,1982-06-26,188.0,205.0,74.0,,0c277f3ff66b0208
-4300,Virna Jandiroba,Virna,Jandiroba,Carcara,1988-05-30,160.0,115.0,64.0,Orthodox,7dda2cf308f24a02
-4301,Viscardi Andrade,Viscardi,Andrade,,1984-03-08,180.3,170.0,75.0,Orthodox,d221ee27afc7a60e
-4302,Vitaly Minakov,Vitaly,Minakov,,1985-02-06,188.0,249.0,,,56c975c4a2b357a5
-4303,Vitor Belfort,Vitor,Belfort,The Phenom,1977-04-01,182.9,185.0,74.0,Southpaw,0ee783aa00e468f0
-4304,Vitor Costa,Vitor,Costa,,2000-09-19,188.0,185.0,75.0,Orthodox,c41cbb5bf944ca54
-4305,Vitor Miranda,Vitor,Miranda,Lex Luthor,1979-03-10,185.4,185.0,77.0,Orthodox,4bcb6eb12b4ad4aa
-4306,Vitor Petrino,Vitor,Petrino,,1997-08-28,188.0,265.0,77.0,Orthodox,71171fc96445bf65
-4307,Vitor Ribeiro,Vitor,Ribeiro,Shaolin,1979-02-24,172.7,154.0,,Orthodox,a757c06bbdba61d2
-4308,Vitor Vianna,Vitor,Vianna,,,,205.0,,Orthodox,744f50016c39c26c
-4309,Viviane Araujo,Viviane,Araujo,Vivi,1986-11-21,162.6,125.0,68.0,Orthodox,36541f1e6c5d4955
-4310,Viviane Pereira,Viviane,Pereira,Sucuri,1993-08-28,154.9,115.0,63.0,Orthodox,d50382dc0565a9e1
-4311,Vladimir Matyushenko,Vladimir,Matyushenko,The Janitor,1971-01-04,182.9,205.0,74.0,Orthodox,ccdd90bd1fc7dab6
-4312,Volkan Oezdemir,Volkan,Oezdemir,No Time,1989-09-19,188.0,205.0,75.0,Orthodox,0845c81e37d3bcb3
-4313,Waachiim Spiritwolf,Waachiim,Spiritwolf,Native Warrior,,172.7,170.0,,,71caa995674203aa
-4314,Wade Shipp,Wade,Shipp,The Nightmare,1975-02-09,190.5,245.0,,Orthodox,a9a314cc77d90b6e
-4315,Wagner Campos,Wagner,Campos,Galeto,1981-07-31,167.6,145.0,,Southpaw,db6d5f691aea3fd3
-4316,Wagner Prado,Wagner,Prado,Caldeirao,1986-12-30,182.9,205.0,74.0,Southpaw,7f6ef4e1227600bc
-4317,Wagner Silva,Wagner,Silva,Wagnao,1987-02-07,182.9,170.0,,Orthodox,fb79582c410d049e
-4318,Wagner da Conceicao Martins,Wagner da Conceicao,Martins,Zuluzinho,1978-05-19,200.7,390.0,,Orthodox,563d051c9e769b24
-4319,Wagnney Fabiano,Wagnney,Fabiano,The Silencer,1975-07-14,167.6,145.0,69.0,Southpaw,40389d39a92f5bfa
-4320,Waldo Cortes Acosta,Waldo,Cortes Acosta,Salsa Boy,1991-10-03,193.0,260.0,78.0,Orthodox,fc08099550072fe4
-4321,Walel Watson,Walel,Watson,The Gazelle,1984-07-16,180.3,135.0,75.0,Orthodox,92aafa8f4b26269b
-4322,Wallen Del Rosario,Wallen,Del Rosario,,1993-03-18,162.6,125.0,67.0,Orthodox,a62f85f6a6c19a4c
-4323,Wallid Ismail,Wallid,Ismail,,1968-02-23,170.2,205.0,,Orthodox,da6dfd09cca1d705
-4324,Walt Harris,Walt,Harris,The Big Ticket,1983-06-10,195.6,250.0,77.0,Southpaw,03f982ca3735070c
-4325,Walter Smith-Cotito,Walter,Smith-Cotito,,,172.7,135.0,,,625b65b45c1c6888
-4326,Wanderlei Silva,Wanderlei,Silva,The Axe Murderer,1976-07-03,180.3,205.0,74.0,Orthodox,a1f6999fe57236e0
-4327,Wang Cong,Wang,Cong,The Joker,1992-05-15,167.6,125.0,66.0,Southpaw,2997e7fe3c9d3d4a
-4328,Wang Guan,Wang,Guan,The Dongbei Tiger,1986-03-14,175.3,145.0,71.0,Orthodox,dd12382f28296f7b
-4329,War Machine,War,Machine,,1981-11-30,180.3,170.0,,Orthodox,cd7bafbeee1f29a0
-4330,Warlley Alves,Warlley,Alves,,1991-01-04,180.3,185.0,72.0,Orthodox,d317a5e2b3f88c5f
-4331,Wataru Sakata,Wataru,Sakata,,1973-03-11,175.3,195.0,,Southpaw,d7907a9a968e4d29
-4332,Wataru Yamauchi,Wataru,Yamauchi,,1999-06-22,167.6,125.0,68.0,Orthodox,d8bf3df51ff3a270
-4333,Waylon Kennell,Waylon,Kennell,,,182.9,185.0,,,9b8a73b59be8d786
-4334,Waylon Lowe,Waylon,Lowe,,1980-10-31,170.2,145.0,,Southpaw,28f62d866c59c709
-4335,Wayne Cole,Wayne,Cole,,,185.4,205.0,,Orthodox,2eab7a6c8b0ed8cc
-4336,Wayne Phillips,Wayne,Phillips,,1983-06-17,,185.0,,,09a82bd51ff61376
-4337,Wellington Turman,Wellington,Turman,The Prodigy,1996-07-22,182.9,170.0,72.0,Orthodox,4dcfb28c011c11b2
-4338,Wendell Oliveira Marques,Wendell,Oliveira Marques,The Machine,1983-06-01,177.8,170.0,,Orthodox,32c03df3c9760069
-4339,Wes Albritton,Wes,Albritton,,,177.8,188.0,,Orthodox,184b955181bdef52
-4340,Wes Combs,Wes,Combs,The Soldier,1973-06-18,188.0,205.0,,Orthodox,a85998eb79650b2c
-4341,Wes Schultz,Wes,Schultz,Party Time,1996-08-09,188.0,185.0,77.0,Orthodox,b4443fae47e7eb9d
-4342,Wes Shivers,Wes,Shivers,,,203.2,,,,ad863b0d57952c57
-4343,Wes Sims,Wes,Sims,The Project,1979-08-04,208.3,260.0,,Orthodox,e0f7c4f3f67bc808
-4344,Wesley Correira,Wesley,Correira,Cabbage,1978-11-11,190.5,260.0,,Orthodox,4e9fb05d7e5e61b8
-4345,Wesley Little,Wesley,Little,,,193.0,205.0,,,008c6e1a25751575
-4346,Westin Wilson,Westin,Wilson,,1989-01-24,185.4,145.0,73.0,Southpaw,7b3503352cd53abb
-4347,Will Brooks,Will,Brooks,Ill,1986-10-08,177.8,155.0,72.0,Orthodox,b6e6c3b1dcaae0a1
-4348,Will Campuzano,Will,Campuzano,,1986-05-27,175.3,125.0,70.0,Orthodox,901cddcbfa079097
-4349,Will Chope,Will,Chope,The Kill,1990-09-08,193.0,145.0,,Switch,db5dc7cb80d7d418
-4350,Will Currie,Will,Currie,Drago,1998-11-12,190.5,185.0,76.0,Switch,b8ff02d5703eca3a
-4351,Will Kerr,Will,Kerr,,1982-10-21,177.8,155.0,69.0,Orthodox,ef61d9f5176b3200
-4352,Will Ribeiro,Will,Ribeiro,,1983-02-17,172.7,135.0,,Orthodox,8f4616698508f24d
-4353,Will Santiago,Will,Santiago,The Brown Bomber,1983-02-08,170.2,185.0,,Orthodox,4920292f5d9b76df
-4354,Willamy Freire,Willamy,Freire,Chiquerim,1987-07-28,172.7,155.0,,Orthodox,f1f37d667bcd0d27
-4355,William Gomis,William,Gomis,Jaguar,1997-06-13,182.9,145.0,73.0,Southpaw,e1d40e8782d80bc2
-4356,William Knight,William,Knight,Knightmare,1988-04-03,177.8,205.0,73.0,Orthodox,5da33b8fbfa5ee95
-4357,William Macario,William,Macario,Patolino,1991-07-01,180.3,170.0,75.0,Orthodox,ed74afc8b5b47a61
-4358,Willian Colorado,Willian,Colorado,,1986-06-21,177.8,135.0,72.0,,dfc7f0a2d91ad337
-4359,Willie Gates,Willie,Gates,,1987-01-21,172.7,125.0,72.0,Orthodox,6ded9184b2284645
-4360,Willie Parks,Willie,Parks,Slick,1983-11-04,177.8,185.0,,,86ad0ae839331bd7
-4361,Willie Peeters,Willie,Peeters,,1965-10-26,175.3,220.0,,Orthodox,e7bfdb5e0112891e
-4362,Wilson Gouveia,Wilson,Gouveia,,1978-10-03,185.4,185.0,76.0,Orthodox,af5b208e97f5d382
-4363,Wilson Reis,Wilson,Reis,,1985-01-06,162.6,125.0,65.0,Southpaw,5aedf14771ca82d2
-4364,Windri Patilima,Windri,Patilima,,1993-07-19,167.6,155.0,71.0,Southpaw,66d42e9503fa108e
-4365,Won Jin Eoh,Won Jin,Eoh,,,170.2,160.0,,Orthodox,bc7cf284c1c2f16e
-4366,Won Sik Park,Won Sik,Park,Parky,,180.3,154.0,,Orthodox,9df394db5ca103eb
-4367,WonBin Ki,WonBin,Ki,The Danger,1991-02-11,180.3,155.0,73.0,Orthodox,aaeb55084b198a39
-4368,Wu Yanan,Wu,Yanan,Mulan,1996-04-18,172.7,135.0,66.0,Orthodox,fdbefee0827e1567
-4369,Wulijiburen,,Wulijiburen,Beast Master,1989-03-01,175.3,135.0,69.0,Orthodox,2296125b6c362355
-4370,Wuziazibieke Jiahefu,Wuziazibieke,Jiahefu,Prairie Kitty,1990-04-09,175.3,145.0,70.0,Orthodox,2d077e22886298be
-4371,Xavier Foupa-Pokam,Xavier,Foupa-Pokam,Professor X,1982-07-03,185.4,185.0,,Open Stance,ec33146e43e58933
-4372,Xavier Franklin,Xavier,Franklin,Mr. Benjamin,1996-10-15,167.6,135.0,66.0,Southpaw,90957a918e26bf9c
-4373,Xavier Siller,Xavier,Siller,Young Guns,1994-06-06,165.1,125.0,,,9a08c2753184ac6d
-4374,Xiao Long,Xiao,Long,,1998-04-13,172.7,135.0,70.0,Orthodox,86bace9e4ad85542
-4375,Xie Bin,Xie,Bin,The Stalker,1998-02-28,177.8,145.0,72.0,Orthodox,e415ea6f8d41c917
-4376,Xiong Jingnan,Xiong,Jingnan,The Panda,1988-01-12,,115.0,,,2cdb479a0ef0ee1d
-4377,Xue Do Won,Xue Do,Won,,,170.2,165.0,,,daa89f01e1c0f42a
-4378,Yadier del Valle,Yadier,del Valle,The Cuban Problem,1996-07-29,175.3,145.0,69.0,Southpaw,70380ccdc81915b8
-4379,Yair Rodriguez,Yair,Rodriguez,El Pantera,1992-10-06,180.3,145.0,71.0,Orthodox,cbf5e6f231b55443
-4380,Yamato Nishikawa,Yamato,Nishikawa,,2002-12-06,170.2,155.0,,Orthodox,7beecbe0a08cf002
-4381,Yan Cabral,Yan,Cabral,,1983-05-13,180.3,155.0,73.0,Orthodox,7cdd3e5d3aa9cb39
-4382,Yan Pellerin,Yan,Pellerin,Wild Thing,,180.3,205.0,,Orthodox,bfe95ec546692b13
-4383,Yan Qihui,Yan,Qihui,Queen Kong,1996-10-21,160.0,125.0,62.0,Orthodox,5c9c2e247c836b67
-4384,Yan Xiaonan,Yan,Xiaonan,,1989-06-16,165.1,115.0,63.0,Orthodox,c41d426cc7326d1b
-4385,Yana Santos,Yana,Santos,,1989-11-11,167.6,135.0,68.0,Orthodox,3143bf892608139a
-4386,Yanal Ashmouz,Yanal,Ashmouz,Red Fox,1995-03-31,175.3,155.0,69.0,Orthodox,c739c2995a275314
-4387,Yancy Medeiros,Yancy,Medeiros,,1987-09-07,177.8,155.0,75.0,Orthodox,813550bc53b15fb0
-4388,Yanis Ghemmouri,Yanis,Ghemmouri,The Desert Warrior,1995-01-24,175.3,135.0,69.0,Orthodox,eb70e786bbdf1d16
-4389,Yao Zhikui,Yao,Zhikui,The Conqueror,1991-02-07,165.1,125.0,64.0,Orthodox,5ea918ea81b7dee2
-4390,Yaotzin Meza,Yaotzin,Meza,,1981-02-04,175.3,145.0,71.0,Orthodox,3623bd267a2eef2e
-4391,Yaroslav Amosov,Yaroslav,Amosov,,1993-09-09,,185.0,,,f139d6836efd43dd
-4392,Yasuhiro Urushitani,Yasuhiro,Urushitani,,1976-09-08,165.1,125.0,,Southpaw,c34e5849184b08c3
-4393,Yasuhito Namekawa,Yasuhito,Namekawa,,1974-10-27,175.3,205.0,,Orthodox,6083f497c22cc075
-4394,Yazan Hajeh,Yazan,Hajeh,Yazzle Dazzle,1992-09-04,175.3,145.0,,Orthodox,4955c524c2a71469
-4395,Yazmin Jauregui,Yazmin,Jauregui,,1999-02-28,160.0,115.0,64.0,Orthodox,40cb680ae1cd331f
-4396,YeDam Seo,YeDam,Seo,,1992-03-20,160.0,115.0,63.0,Orthodox,762572d67204fadb
-4397,Yi Sak Lee,Yi Sak,Lee,,2000-01-01,,185.0,,,e6666480a830f764
-4398,Yibugele,,Yibugele,Eagle,1989-11-13,170.2,145.0,69.0,Southpaw,cc2fcae2c0dc501d
-4399,Yin Shuai,Yin,Shuai,Black Panther,1997-01-01,165.1,125.0,66.0,Southpaw,a78dc3910554dbae
-4400,Yizha,,Yizha,,1997-01-08,170.2,145.0,71.0,Orthodox,3f11fd1751fa83b1
-4401,Yoel Romero,Yoel,Romero,Soldier of God,1977-04-30,182.9,185.0,73.0,Southpaw,f77c68bb4be8516d
-4402,Yohan Banks,Yohan,Banks,,,,,,,c50ea21fe9ef478d
-4403,Yohan Lainesse,Yohan,Lainesse,White Lion,1992-08-14,185.4,170.0,76.0,Orthodox,f998f5c102250d6e
-4404,Yoislandy Izquierdo,Yoislandy,Izquierdo,Cuba,1984-01-09,180.3,155.0,,Southpaw,afc2a7ce0c763bd5
-4405,Yoji Anjo,Yoji,Anjo,Mr. 200%,1967-03-28,180.3,205.0,,Orthodox,e06fd1260ac865a7
-4406,Yoko Takahashi,Yoko,Takahashi,,1973-04-20,172.7,150.0,,,01f86e2d604e2f3c
-4407,Yokthai Sithoar,Yokthai,Sithoar,,1974-12-25,170.2,143.0,,,436cdea7bdfdc016
-4408,Yorgan De Castro,Yorgan,De Castro,The Mad Titan,1986-12-19,182.9,250.0,74.0,Orthodox,1eff7bc0f815b270
-4409,Yosdenis Cedeno,Yosdenis,Cedeno,Pink Panther,1985-02-12,172.7,155.0,69.0,Orthodox,3e61082025db8137
-4410,Yoshiaki Yatsu,Yoshiaki,Yatsu,,1956-07-19,185.4,165.0,,Orthodox,620be7e0712d431b
-4411,Yoshihiro Akiyama,Yoshihiro,Akiyama,,1975-07-29,177.8,170.0,75.0,Orthodox,b0550072e5f0afa7
-4412,Yoshihiro Nakao,Yoshihiro,Nakao,Kiss,1972-06-25,182.9,220.0,,Southpaw,e18012194473e8b0
-4413,Yoshihiro Takayama,Yoshihiro,Takayama,,1968-09-19,195.6,280.0,,Orthodox,d856a0080ac09ed7
-4414,Yoshihisa Yamamoto,Yoshihisa,Yamamoto,,1970-07-04,188.0,220.0,,Southpaw,eed2b71d77d95416
-4415,Yoshiki Takahashi,Yoshiki,Takahashi,Kazuo,1969-03-13,180.3,199.0,,Southpaw,6420efac0578988b
-4416,Yoshinori Horie,Yoshinori,Horie,,1995-05-10,172.7,145.0,70.0,Orthodox,3fa7688bfe48a493
-4417,Yoshiro Maeda,Yoshiro,Maeda,,1981-10-31,170.2,139.0,68.0,Southpaw,a4bf17bd3ba3423b
-4418,Yoshiyuki Yoshida,Yoshiyuki,Yoshida,Zenko,1974-05-10,180.3,170.0,70.0,Southpaw,ab8900ae1f1dfd4c
-4419,Yosuke Nishijima,Yosuke,Nishijima,,1973-05-15,175.3,205.0,,Orthodox,5cde96e0a1a1fffe
-4420,Youmin Shin,Youmin,Shin,,,,135.0,,,b94ac19bad67a389
-4421,Young Hwang,Young,Hwang,,1988-09-02,175.3,135.0,,,8588d14c4952b9fa
-4422,Young Sam Jung,Young Sam,Jung,,1985-10-27,172.7,139.0,,Orthodox,13104eaed3ae96c3
-4423,YoungJae Song,YoungJae,Song,Super Rookie,1996-01-03,170.2,145.0,70.0,Orthodox,0efb0d4ebb950fcb
-4424,Yousri Belgaroui,Yousri,Belgaroui,,1992-06-02,195.6,185.0,79.0,Orthodox,7674b836ce0698a0
-4425,Youssef Zalal,Youssef,Zalal,The Moroccan Devil,1996-09-04,177.8,145.0,72.0,Switch,52c2ae6d2f2d2613
-4426,Yudi Cahyadi,Yudi,Cahyadi,Sanda,,,145.0,,,8c457cf7da551d4b
-4427,Yuele Huang,Yuele,Huang,,2000-07-04,,145.0,,,1c8b9f4d89b92e1b
-4428,Yuhi Sano,Yuhi,Sano,,1965-02-02,180.3,243.0,,Orthodox,4c12aa7ca246e7a4
-4429,Yui Chul Nam,Yui Chul,Nam,The Korean Bulldozer,1981-07-16,175.3,145.0,,Orthodox,a00ec21cfbba17b6
-4430,Yuito Yanagawa,Yuito,Yanagawa,,2000-10-16,,145.0,,,7c592bf20095fd17
-4431,Yuji Ephoevi-Ga,Yuji,Ephoevi-Ga,The Chef,1999-10-19,182.9,155.0,75.0,Switch,919fc4bc3edf4de7
-4432,Yuji Hisamatsu,Yuji,Hisamatsu,,1971-09-18,177.8,185.0,,,8332a607df696345
-4433,Yuji Nagata,Yuji,Nagata,,1968-04-24,182.9,225.0,,Orthodox,e49c2db95e572dc8
-4434,Yuki Ishikawa,Yuki,Ishikawa,,,180.3,205.0,,Orthodox,119ebea97e914dcf
-4435,Yuki Kondo,Yuki,Kondo,,1975-07-17,180.3,183.0,,Southpaw,1fe7adb23b3eedfb
-4436,Yuki Sasaki,Yuki,Sasaki,,1976-09-12,188.0,185.0,,Orthodox,e5c38954c006f15c
-4437,Yukio Sakaguchi,Yukio,Sakaguchi,,1973-07-26,175.3,185.0,,Orthodox,94a5aaf573f780ad
-4438,Yukiya Naito,Yukiya,Naito,,,185.4,205.0,,Orthodox,7be328bb3c2ea22e
-4439,Yuma Horiuchi,Yuma,Horiuchi,Ichiban,1997-09-22,167.6,125.0,67.0,Switch,f6c1ce7cfd600662
-4440,YunSeong Jang,YunSeong,Jang,,2002-11-04,182.9,170.0,72.0,Orthodox,c7b0081edfef4bc7
-4441,Yuneisy Duben,Yuneisy,Duben,,1996-07-08,162.6,125.0,65.0,Orthodox,c3d2b9bcb4cead6b
-4442,Yunosuke Minami,Yunosuke,Minami,,2000-09-10,,135.0,,,9f2c07bd65fde55c
-4443,Yura Naito,Yura,Naito,2 FACE,1996-04-26,182.9,185.0,74.0,Orthodox,50c469e0cb73be10
-4444,Yuri Panferov,Yuri,Panferov,The Russian Polar Bear,1996-08-30,185.4,185.0,72.0,Orthodox,36d811b015635b67
-4445,Yuri Vaulin,Yuri,Vaulin,,,193.0,197.0,,Southpaw,4679a38cced7c64a
-4446,Yuri Villefort,Yuri,Villefort,,1991-03-23,182.9,170.0,73.0,Orthodox,0fb1e2694a39a02f
-4447,Yurij Kiseliov,Yurij,Kiseliov,Playboy,,172.7,185.0,,Orthodox,51d2aaaca56e5b40
-4448,Yusaku Kinoshita,Yusaku,Kinoshita,,2000-08-21,182.9,170.0,71.0,Southpaw,21b5c82c1b89dab1
-4449,Yusaku Nakamura,Yusaku,Nakamura,,1986-06-21,165.1,145.0,,,03e8df49c4a059ba
-4450,Yushin Okami,Yushin,Okami,Thunder,1981-07-21,188.0,170.0,75.0,Southpaw,acff437707625fc7
-4451,Yusuke Imamura,Yusuke,Imamura,,,172.7,220.0,,Orthodox,2ce6541127b0e232
-4452,Yusuke Kasuya,Yusuke,Kasuya,,1989-11-16,170.2,155.0,,Southpaw,3058888c33149a53
-4453,Yusuke Kawaguchi,Yusuke,Kawaguchi,,1980-08-14,182.9,255.0,,,fa2320781bfe4f49
-4454,Yusup Saadulaev,Yusup,Saadulaev,Maestro,1985-03-31,167.6,135.0,,,b1669a810fae4220
-4455,Yuta Sasaki,Yuta,Sasaki,Ulka,1989-10-07,177.8,125.0,71.0,Southpaw,7c3c48cf54a2848e
-4456,Yuya Shirai,Yuya,Shirai,,1980-04-02,172.7,168.0,,Orthodox,a79bfbc01b2264d6
-4457,Yves Edwards,Yves,Edwards,,1976-09-30,175.3,155.0,73.0,Southpaw,5f04e3d58d9ce982
-4458,Yves Jabouin,Yves,Jabouin,Tiger,1979-05-30,170.2,135.0,68.0,Orthodox,b4eeac608fc82f88
-4459,Zabit Magomedsharipov,Zabit,Magomedsharipov,,1991-03-01,185.4,145.0,73.0,Orthodox,87aa9fb63d6b51a1
-4460,Zac Pauga,Zac,Pauga,The High Chief,1988-02-25,188.0,205.0,76.0,Orthodox,56f7d7ee06be4aab
-4461,Zach Light,Zach,Light,,1974-02-06,172.7,170.0,,Orthodox,5d7c18191b8aa432
-4462,Zach Makovsky,Zach,Makovsky,Fun Size,1983-04-19,162.6,125.0,64.0,Southpaw,57ab4d7c0bc09a30
-4463,Zach Reese,Zach,Reese,Savage,1994-03-24,193.0,185.0,77.0,Switch,23dec7c47cb418f8
-4464,Zach Rosol,Zach,Rosol,,,,243.0,,,208b6926916867c7
-4465,Zach Skinner,Zach,Skinner,,,167.6,145.0,,Orthodox,c337c3c85b1871e0
-4466,Zach Underwood,Zach,Underwood,,,188.0,185.0,,,1e310618d02ff93b
-4467,Zach Zane,Zach,Zane,The Hurricane,1989-12-14,170.2,145.0,69.0,Southpaw,cc3878d1ab41a5fa
-4468,Zachary Borrego,Zachary,Borrego,The Dragon,1996-07-18,188.0,185.0,78.0,Switch,b8fdb2903a2582a8
-4469,Zachary Micklewright,Zachary,Micklewright,,1976-08-21,182.9,155.0,74.0,Southpaw,a36a14985a57a1c6
-4470,Zachary Scroggin,Zachary,Scroggin,,1996-03-09,190.5,170.0,74.0,Orthodox,03dee485905dbc9f
-4471,Zak Bucia,Zak,Bucia,,,177.8,170.0,,,6bbb8dc6e128779e
-4472,Zak Cummings,Zak,Cummings,,1984-08-02,182.9,205.0,75.0,Southpaw,4ba8d454f762005d
-4473,Zak Ottow,Zak,Ottow,The Barbarian,1986-12-22,180.3,170.0,72.0,Orthodox,47cd337b86b1af92
-4474,Zane Frazier,Zane,Frazier,Nasty,,195.6,250.0,,Orthodox,d3711d3784b76255
-4475,Zarah Fairn,Zarah,Fairn,Infinite,1983-12-10,172.7,135.0,72.0,Orthodox,862b0b3375aa4b6e
-4476,Zarrukh Adashev,Zarrukh,Adashev,The Lion,1992-07-29,165.1,125.0,65.0,Southpaw,79cb2a690b9ba5e8
-4477,Zelg Galesic,Zelg,Galesic,Benkei,1979-02-16,188.0,185.0,,Orthodox,8a1b4330c7957961
-4478,Zelim Imadaev,Zelim,Imadaev,,1995-01-25,182.9,170.0,76.0,Orthodox,7f0f171414d0a287
-4479,Zhalgas Zhumagulov,Zhalgas,Zhumagulov,,1988-08-29,162.6,125.0,66.0,Switch,55fa6ce3e522c8bb
-4480,Zhang Lipeng,Zhang,Lipeng,The Warrior,1990-03-10,180.3,155.0,71.0,Southpaw,7b310409440c9102
-4481,Zhang Mingyang,Zhang,Mingyang,Mountain Tiger,1998-08-16,188.0,205.0,75.0,Orthodox,8a65fd9ba31fd3f7
-4482,Zhang Qinghe,Zhang,Qinghe,,2001-11-05,170.2,135.0,67.0,Southpaw,45c7979c71751fcf
-4483,Zhang Tiequan,Zhang,Tiequan,The Wolf,1978-07-25,172.7,155.0,69.0,Orthodox,c23e3d4875340d8d
-4484,Zhang Weili,Zhang,Weili,Magnum,1989-08-13,162.6,115.0,63.0,Switch,1ebe20ebbfa15e29
-4485,Zhang Zhenyang,Zhang,Zhenyang,,,,155.0,,,286e1d61fb315355
-4486,Zhou Kun,Zhou,Kun,Mandrill,,,125.0,,,d027fff39a34a9df
-4487,Zhu Kangjie,Zhu,Kangjie,,1996-01-16,172.7,145.0,70.0,Orthodox,6f4ec5aa3eced219
-4488,Zoila Frausto,Zoila,Frausto,Warrior Princess,,162.6,135.0,,Orthodox,040d3b4c735541aa
-4489,Zubaira Tukhugov,Zubaira,Tukhugov,Warrior,1991-01-15,172.7,155.0,68.0,Orthodox,aceffa19749c4dc0
-4490,Zviad Lazishvili,Zviad,Lazishvili,,1991-10-25,167.6,135.0,69.0,Orthodox,41498c2d1a87b154
-4491,Zygimantas Ramaska,Zygimantas,Ramaska,,1996-12-27,180.3,145.0,71.0,Orthodox,641ca2c2ed91b93c
+3633,Rodrigo Vera,Rodrigo,Vera,El Gato Loco,1995-10-18,,145.0,,,2b266e623e20737a
+3634,Rodrigo de Lima,Rodrigo,de Lima,Monstro,1991-03-12,170.2,155.0,,Orthodox,a4dc47001f202bcd
+3635,Roger Bowling,Roger,Bowling,Relentless,1982-12-05,175.3,155.0,68.0,Orthodox,3b9f723e2720a238
+3636,Roger Carroll,Roger,Carroll,The Leprechaun,,177.8,170.0,,,572a89dbe1f76761
+3637,Roger Gracie,Roger,Gracie,,1981-09-26,193.0,185.0,79.0,Orthodox,a6bbd3df469c6bea
+3638,Roger Hollett,Roger,Hollett,The Hulk,1978-10-08,180.3,205.0,,Orthodox,27d65e9d0fba61ea
+3639,Roger Huerta,Roger,Huerta,El Matador,1983-05-20,175.3,155.0,70.0,Orthodox,daf1b84aebd6602b
+3640,Roger Narvaez,Roger,Narvaez,Silverback,1983-09-09,190.5,185.0,,Southpaw,3a12a2f096a6d975
+3641,Roger Zapata,Roger,Zapata,Viva,1986-05-09,180.3,170.0,,Southpaw,fe5ca7ef93c3f6a7
+3642,Rogerio Bontorin,Rogerio,Bontorin,,1992-04-25,165.1,125.0,67.0,Orthodox,07a2bdaa0afdd831
+3643,Rogerio Nogueira,Rogerio,Nogueira,Minotouro,1976-06-02,188.0,205.0,75.0,Southpaw,73e09f837f3b5ecc
+3644,Roland Delorme,Roland,Delorme,,1983-12-18,175.3,135.0,71.0,Orthodox,173acb3f920082b8
+3645,Roland Payne,Roland,Payne,,,175.3,205.0,,Orthodox,2e04a3b4a2011b97
+3646,Rolando Bedoya,Rolando,Bedoya,The Machine,1997-01-13,180.3,155.0,74.0,Orthodox,40a456a25d52ee65
+3647,Rolando Delgado,Rolando,Delgado,Roli,1981-11-22,190.5,155.0,77.0,Orthodox,37b1696e6d115957
+3648,Rolando Dy,Rolando,Dy,Dy Incredible,1990-08-11,172.7,145.0,69.0,Orthodox,55ed59d541f8b90c
+3649,Rolando Perez,Rolando,Perez,,,172.7,135.0,,Orthodox,4a9e305633f3ef47
+3650,Roldan Sangcha'an,Roldan,Sangcha'an,The Executioner,1990-12-04,162.6,125.0,,Orthodox,57887765f831e228
+3651,Rolles Gracie,Rolles,Gracie,,1978-07-14,193.0,242.0,,Orthodox,e4a9dbade7c7e1a7
+3652,Roman Bogatov,Roman,Bogatov,,1990-12-15,172.7,155.0,73.0,Orthodox,d61316139d68dbe3
+3653,Roman Bravo-Young,Roman,Bravo-Young,,,,205.0,,,37ce890a4670b287
+3654,Roman Dolidze,Roman,Dolidze,,1988-07-15,188.0,185.0,76.0,Orthodox,327d5f279895110d
+3655,Roman Kopylov,Roman,Kopylov,,1991-05-04,182.9,185.0,75.0,Southpaw,9d83f6da776ff7d6
+3656,Roman Mitichyan,Roman,Mitichyan,,1978-09-04,177.8,170.0,,Orthodox,2961be02cfb0d2c1
+3657,Roman Salazar,Roman,Salazar,El Gallito,1988-02-21,170.2,135.0,,Orthodox,72c4b253d2f5ebf2
+3658,Roman Zentsov,Roman,Zentsov,The Russian Hammer,1973-09-10,185.4,230.0,,Orthodox,3144121470023e9a
+3659,Romie Aram,Romie,Aram,,1977-12-02,177.8,170.0,,Orthodox,73ef22f25d0f70e2
+3660,Ron Faircloth,Ron,Faircloth,,1979-08-16,175.3,205.0,,Orthodox,453ee00c3e1ae9dd
+3661,Ron Fields,Ron,Fields,Killing,1974-11-18,188.0,200.0,,Orthodox,6e380a4d73ab4f0e
+3662,Ron Henderson,Ron,Henderson,,,177.8,125.0,,,498f0d066396ec59
+3663,Ron Keslar,Ron,Keslar,,,,185.0,,,b84f34b425dfd24b
+3664,Ron Sparks,Ron,Sparks,The Monster,,195.6,265.0,,,743fd9080892501d
+3665,Ron Stallings,Ron,Stallings,The Choir Boy,1983-01-25,188.0,170.0,75.0,Southpaw,6dd758d34da8d254
+3666,Ron Waterman,Ron,Waterman,H20,1965-11-23,188.0,280.0,,Orthodox,efaf544314bb5c2e
+3667,Ron van Clief,Ron,van Clief,The Black Dragon,1943-01-25,177.8,190.0,,Orthodox,23ab42947c1990e3
+3668,Ronal Siahaan,Ronal,Siahaan,Naga Sakti,1996-05-05,170.2,125.0,71.0,Southpaw,762226efa2b01654
+3669,Ronald Carillo,Ronald,Carillo,,,,125.0,,,cbd022eaf2ac546a
+3670,Ronald Jhun,Ronald,Jhun,The Machine Gun,1970-09-21,180.3,170.0,,Orthodox,b9e871af730f826c
+3671,Ronaldo Candido,Ronaldo,Candido,Pacman,1989-04-24,167.6,125.0,,Southpaw,23fbe02caabcd214
+3672,Ronaldo Rodriguez,Ronaldo,Rodriguez,Lazy Boy,1999-05-07,167.6,125.0,65.0,Orthodox,f2900678e98f6d6a
+3673,Ronda Rousey,Ronda,Rousey,Rowdy,1987-02-01,170.2,135.0,66.0,Orthodox,8bdac25ce0bb874d
+3674,Rongzhu,,Rongzhu,,2000-03-07,175.3,155.0,71.0,Orthodox,a13d755965a4ec9f
+3675,Ronnie Lawrence,Ronnie,Lawrence,The Heat,1992-06-13,172.7,135.0,68.0,Switch,e7e01e266a9d4342
+3676,Ronny Markes,Ronny,Markes,,1988-04-21,185.4,185.0,75.0,Orthodox,bd21a1e3d41c97ee
+3677,Rony Jason,Rony,Jason,,1984-03-21,170.2,145.0,73.0,Orthodox,b71ce838b01f2cad
+3678,Rony Sefo,Rony,Sefo,,,175.3,225.0,,Orthodox,d6b68eaf4b68b160
+3679,Ronys Torres,Ronys,Torres,,1975-08-13,170.2,155.0,,Orthodox,cce79e827569f26e
+3680,Roosevelt Roberts,Roosevelt,Roberts,The Predator,1994-02-11,188.0,155.0,73.0,Orthodox,37c5366d18ed6c05
+3681,Roque Conceicao,Roque,Conceicao,,1999-10-27,,125.0,,Orthodox,b4ebc1539a08054b
+3682,Roque Martinez,Roque,Martinez,,1986-03-04,177.8,250.0,72.0,Orthodox,2c5a0b8317f8f27a
+3683,Rory MacDonald,Rory,MacDonald,Red King,1989-07-22,182.9,170.0,76.0,Orthodox,cbd5d3cdd862e90e
+3684,Rory Markham,Rory,Markham,,1982-03-25,182.9,170.0,71.0,Orthodox,23a16ebe733e3041
+3685,Rory Singer,Rory,Singer,Outburst,1976-05-28,188.0,185.0,77.0,Orthodox,546015aa2ad945fd
+3686,Rose Conceicao,Rose,Conceicao,,1997-05-13,139.7,115.0,65.0,Orthodox,a76c07e8e4c76e9a
+3687,Rose Namajunas,Rose,Namajunas,Thug,1992-06-29,165.1,125.0,65.0,Orthodox,47b63240018d5d86
+3688,Roshan Mainam,Roshan,Mainam,The Indian Notorious,,,135.0,,,b301292b1bc92bdb
+3689,Roshaun Jones,Roshaun,Jones,,,172.7,135.0,,,8a9f54b9056b07f5
+3690,Rosi Sexton,Rosi,Sexton,The Surgeon,1977-07-16,160.0,135.0,,Orthodox,5dfe71ade71f3a4b
+3691,Ross Ebanez,Ross,Ebanez,The Boss,1975-05-18,175.3,154.0,,Southpaw,a5b0bd216d8ba84e
+3692,Ross Pearson,Ross,Pearson,The Real Deal,1984-09-26,172.7,155.0,69.0,Orthodox,4f732e58ed907eff
+3693,Ross Pointon,Ross,Pointon,The Gladiator,1980-02-18,172.7,170.0,,Orthodox,7215953cd5c6254d
+3694,Rostem Akman,Rostem,Akman,,1991-12-19,177.8,170.0,72.0,Switch,1fc64507a0cb38cf
+3695,Rousimar Palhares,Rousimar,Palhares,Toquinho,1980-02-26,172.7,170.0,71.0,Orthodox,8ddf9c51c5fdea75
+3696,Roxanne Modafferi,Roxanne,Modafferi,The Happy Warrior,1982-09-24,170.2,125.0,69.0,Orthodox,4498b382c65a7faa
+3697,Roy Boughton,Roy,Boughton,Black Dynamite,,182.9,205.0,,,2aaf0181432adf0b
+3698,Roy Jones,Roy,Jones,,1983-10-26,,205.0,,,be8dfcf0442812b1
+3699,Roy Nelson,Roy,Nelson,Big Country,1976-06-20,182.9,263.0,73.0,Orthodox,3f7c14c7eca7195d
+3700,Roybert Echeverria,Roybert,Echeverria,The Unbroken,1995-08-21,165.1,125.0,67.0,Switch,20b13e96668caaa4
+3701,Royce Alger,Royce,Alger,,,177.8,199.0,,Orthodox,669a3cb6e394f515
+3702,Royce Gracie,Royce,Gracie,,1966-12-12,185.4,175.0,,Southpaw,429e7d3725852ce9
+3703,Royler Gracie,Royler,Gracie,,1965-12-06,172.7,150.0,,Southpaw,b807814d977682eb
+3704,Royston Wee,Royston,Wee,,1986-11-15,170.2,135.0,67.0,Orthodox,b9c03e7a4557e542
+3705,Ruan Potts,Ruan,Potts,Fangzz,1978-02-23,188.0,247.0,75.0,Orthodox,7e208569469c8bc8
+3706,Ruben Villareal,Ruben,Villareal,Warpath,1970-05-01,193.0,265.0,,Orthodox,39f68882def7a507
+3707,Rubens Xavier,Rubens,Xavier,Macula,,190.5,220.0,,Orthodox,e6dac752a2418a88
+3708,Rubin Williams,Rubin,Williams,Mr. Hollywood,1976-04-09,185.4,185.0,,Orthodox,6f812143641ceff8
+3709,Rudy Bears,Rudy,Bears,,,180.3,170.0,,Southpaw,74f13066b1417ef3
+3710,Rudyard Moncayo,Rudyard,Moncayo,,,177.8,195.0,,Orthodox,02d276b7d62b3472
+3711,Ruel Panales,Ruel,Panales,,1996-12-07,165.1,125.0,67.0,Southpaw,2742f028399bf8c7
+3712,Rui Imura,Rui,Imura,,1999-03-24,177.8,135.0,69.0,Southpaw,bb56173e2275e622
+3713,Rulon Gardner,Rulon,Gardner,,1971-08-16,190.5,265.0,,Orthodox,4f7e290e71d60f87
+3714,Ruslan Magomedov,Ruslan,Magomedov,Leopard,1986-11-26,190.5,242.0,78.0,Orthodox,369e1ce458ef50a6
+3715,Russell Doane,Russell,Doane,,1986-08-13,170.2,135.0,70.0,Orthodox,f50d95223751e6ca
+3716,Russell Patrick,Russell,Patrick,,,175.3,145.0,,,eafedba0617ced81
+3717,Rustam Khabilov,Rustam,Khabilov,Tiger,1986-11-04,172.7,155.0,73.0,Orthodox,9b7694d064a8a0ad
+3718,Ryan Bader,Ryan,Bader,Darth,1983-06-07,188.0,205.0,74.0,Orthodox,c0ab242c40decc55
+3719,Ryan Bastianelli,Ryan,Bastianelli,Relentless,,165.1,135.0,,,29508aff4d93cbbe
+3720,Ryan Benoit,Ryan,Benoit,Baby Face,1989-08-25,165.1,125.0,68.0,Orthodox,20999e27ddd94bda
+3721,Ryan Couture,Ryan,Couture,,1982-08-27,177.8,155.0,73.0,Orthodox,46fd223e3ced39b3
+3722,Ryan Diaz,Ryan,Diaz,,,,145.0,,,ceee5dd37253199a
+3723,Ryan Gandra,Ryan,Gandra,Problema,1995-05-08,185.4,185.0,74.0,Orthodox,e463ce0a2ca474f4
+3724,Ryan Gracie,Ryan,Gracie,,1974-08-14,175.3,200.0,,Orthodox,0c3838c8f7c620c2
+3725,Ryan Hall,Ryan,Hall,The Wizard,1985-02-22,177.8,145.0,70.0,Southpaw,8866c6f509c19089
+3726,Ryan Hayes,Ryan,Hayes,,,,,,,a620638435de0628
+3727,Ryan Healy,Ryan,Healy,The Irish Assassin,1983-07-20,185.4,155.0,,Orthodox,f3eb664db7fb1df3
+3728,Ryan Janes,Ryan,Janes,,1981-08-22,190.5,185.0,76.0,Orthodox,b59037262c8fe060
+3729,Ryan Jensen,Ryan,Jensen,,1977-09-20,185.4,185.0,76.0,Orthodox,aae99701b21554e4
+3730,Ryan Jimmo,Ryan,Jimmo,The Big Deal,1981-11-27,185.4,205.0,73.0,Orthodox,bc3ec52ef70fc155
+3731,Ryan Keenan,Ryan,Keenan,,1985-06-15,177.8,170.0,,,a72b20136239ba39
+3732,Ryan LaFlare,Ryan,LaFlare,,1983-10-01,185.4,170.0,74.0,Southpaw,4c7781da8c6cae93
+3733,Ryan Larson,Ryan,Larson,,1980-12-30,,170.0,,,7107e53ebd7435fb
+3734,Ryan Loder,Ryan,Loder,Man of Steel,1991-06-05,188.0,185.0,76.0,Southpaw,d5bab53a1a603aac
+3735,Ryan MacDonald,Ryan,MacDonald,Main Event,1993-03-18,180.3,135.0,71.0,Switch,35e1f9984ed64206
+3736,Ryan Madigan,Ryan,Madigan,,,182.9,170.0,,Orthodox,a8d521d913df4e31
+3737,Ryan McGillivray,Ryan,McGillivray,The Kid,1986-09-27,180.3,170.0,,,1f9c371c93dfd3a9
+3738,Ryan McGivern,Ryan,McGivern,,1980-01-17,182.9,185.0,,Orthodox,856ec65948b7d234
+3739,Ryan Parker,Ryan,Parker,,,190.5,235.0,,Southpaw,6a0b80a24f22e152
+3740,Ryan Quinn,Ryan,Quinn,,,172.7,145.0,,,cc23ed51619421a3
+3741,Ryan Roberts,Ryan,Roberts,,1978-07-16,167.6,155.0,,Orthodox,35dc6220b113b7ec
+3742,Ryan Spann,Ryan,Spann,Superman,1991-08-24,195.6,205.0,79.0,Orthodox,a67f5afa8d6a1b80
+3743,Ryan Stonitsch,Ryan,Stonitsch,,1977-02-03,175.3,170.0,,Southpaw,8d477c3fbe001f9d
+3744,Ryan Thomas,Ryan,Thomas,The Tank Engine,1984-11-05,182.9,170.0,,Orthodox,b732b326c362fb62
+3745,Ryan Tobar,Ryan,Tobar,,,,155.0,,,57481f1f10530c61
+3746,Ryo Chonan,Ryo,Chonan,Piranah,1976-10-08,175.3,170.0,70.0,Orthodox,55a7b2d4e54ffac9
+3747,Ryo Kawamura,Ryo,Kawamura,,1981-06-29,180.3,205.0,,Orthodox,9e91d7fd2720e241
+3748,Ryo Tajima,Ryo,Tajima,,1999-08-14,,135.0,,,34fbfc3f65b64645
+3749,Ryoga Arimoto,Ryoga,Arimoto,,1998-12-07,,125.0,,,e0e1801e8721af17
+3750,Ryuho Miyaguchi,Ryuho,Miyaguchi,,1998-01-27,,135.0,,,f1a9c0998c683782
+3751,Ryuichi Murata,Ryuichi,Murata,,,172.7,183.0,,Orthodox,e3a6c6d6d0ac0815
+3752,Ryuki Ueyama,Ryuki,Ueyama,,1976-04-17,180.3,180.0,,Southpaw,bcd124bcd3d5be46
+3753,Ryuta Sakurai,Ryuta,Sakurai,,,170.2,183.0,,Orthodox,ff9578cdbfabd323
+3754,Saad Awad,Saad,Awad,Assassin,1983-06-07,180.3,155.0,,,da603332ad41f165
+3755,Sabah Homasi,Sabah,Homasi,,1988-10-19,182.9,170.0,72.0,Orthodox,71f048adbfed5b49
+3756,Sabina Mazo,Sabina,Mazo,Colombian Queen,1997-03-25,170.2,125.0,70.0,Orthodox,70d2329a92864fdb
+3757,Saeed Hosseini,Saeed,Hosseini,,,,,,,21f2974fd08085e3
+3758,Sage Northcutt,Sage,Northcutt,Super,1996-03-01,182.9,170.0,71.0,Orthodox,ed9d8ee3a4239b1c
+3759,Sai Wang,Sai,Wang,The Fire Kylin,1986-01-14,182.9,170.0,,Southpaw,efb9a43415a56d34
+3760,Said Nurmagomedov,Said,Nurmagomedov,,1992-04-05,172.7,135.0,70.0,Orthodox,0fd5f4b838e890cc
+3761,Saidyokub Kakhramonov,Saidyokub,Kakhramonov,,1995-11-14,172.7,135.0,69.0,Orthodox,50a28b9f8314e008
+3762,Saimon Oliveira,Saimon,Oliveira,,1991-04-21,162.6,135.0,72.0,Orthodox,72ea1984c52019b5
+3763,Sako Chivitchian,Sako,Chivitchian,,1984-03-11,180.3,155.0,,Orthodox,9f7787e56a6bc0f4
+3764,Salim Touahri,Salim,Touahri,Grizzly,1989-09-28,177.8,170.0,72.0,Orthodox,cbf1c7ba5408a66f
+3765,Salvador Becerra,Salvador,Becerra,,,175.3,155.0,,,4fd76e7ba8313457
+3766,Salvador Woods,Salvador,Woods,,1985-02-05,180.3,170.0,,,8de471543d9c933e
+3767,Sam Adkins,Sam,Adkins,The Experience,1965-04-26,190.5,225.0,,Orthodox,0e9869d712e81f8f
+3768,Sam Alvey,Sam,Alvey,Smile'N,1986-05-06,188.0,185.0,75.0,Southpaw,d156513a19acf856
+3769,Sam Fulton,Sam,Fulton,,,,,,,1f5f75658551f2d3
+3770,Sam Greco,Sam,Greco,,1967-05-03,188.0,205.0,,Orthodox,6d12031661db8ac8
+3771,Sam Hoger,Sam,Hoger,The Alaskan Assassin,1980-06-28,188.0,205.0,,Orthodox,84a067c46306a737
+3772,Sam Hughes,Sam,Hughes,Sampage,1992-06-28,165.1,115.0,64.0,Orthodox,e94085e821bd81de
+3773,Sam Liera,Sam,Liera,,,,,,,421ccfc6ddb17958
+3774,Sam Oropeza,Sam,Oropeza,,,188.0,170.0,,,6b8db407d49c6e4b
+3775,Sam Patterson,Sam,Patterson,,1996-04-30,190.5,170.0,78.0,Orthodox,8b6e5dc2ba1edbe7
+3776,Sam Sicilia,Sam,Sicilia,,1986-02-01,172.7,145.0,67.0,Orthodox,b8aef0faf4ce9b31
+3777,Sam Spengler,Sam,Spengler,The Ram,,180.3,185.0,,Orthodox,221b2a3070c7ce3e
+3778,Sam Stout,Sam,Stout,Hands of Stone,1984-04-23,175.3,155.0,70.0,Orthodox,501b07aec9b8fc2d
+3779,Sam Watford,Sam,Watford,,,,155.0,,,1836639ecf9b6e7f
+3780,Samandar Murodov,Samandar,Murodov,,1999-08-28,185.4,170.0,75.0,Orthodox,6f4d199c0adc06f5
+3781,Sammy Morgan,Sammy,Morgan,The Squeeze,1981-09-28,177.8,170.0,,Orthodox,2067a177a2842fbf
+3782,Samuel Sanches,Samuel,Sanches,The Prodigy,2003-01-28,177.8,155.0,74.0,Orthodox,438d497617ecb16e
+3783,Samuel Silva,Samuel,Silva,Caveira,1996-01-02,182.9,155.0,72.0,Orthodox,04e0507b94014dbb
+3784,Samy Schiavo,Samy,Schiavo,,1975-12-24,172.7,155.0,,Orthodox,1208ffc5be6e31ad
+3785,Sanae Kikuta,Sanae,Kikuta,,1971-09-10,175.3,200.0,,Orthodox,e4bde462b043d3e1
+3786,Sandra Lavado,Sandra,Lavado,Peruvian Zombie,1994-05-03,170.2,115.0,66.0,Orthodox,aa6da8cb3a26da04
+3787,Sanford Alton Meeks,Sanford Alton,Meeks,,1994-04-05,195.6,265.0,75.0,Orthodox,27c59ac201539d10
+3788,SangHoon Yoo,SangHoon,Yoo,Assassin,1990-01-18,182.9,170.0,74.0,Orthodox,00b490982afd1b17
+3789,SangWon Kim,SangWon,Kim,No Problem,1993-09-01,175.3,145.0,69.0,Orthodox,e9712cad24948ce1
+3790,Sangwook Kim,Sangwook,Kim,Frogman,1993-10-17,182.9,155.0,71.0,Orthodox,a264d4e9a4d6bfe4
+3791,Santiago Luna,Santiago,Luna,BorderBoy,2004-08-06,175.3,135.0,74.0,Orthodox,faf317c665546a36
+3792,Santiago Ponzinibbio,Santiago,Ponzinibbio,Argentine Dagger,1986-09-26,182.9,170.0,73.0,Orthodox,6d1bffff14897645
+3793,Santo Curatolo,Santo,Curatolo,,1995-01-18,160.0,125.0,62.0,Southpaw,b8b765e320a8db39
+3794,Saparbeg Safarov,Saparbeg,Safarov,,1986-10-14,185.4,185.0,78.0,Orthodox,88d7b6d8230e1f3f
+3795,Sara McMann,Sara,McMann,,1980-09-24,167.6,135.0,66.0,Orthodox,7be74a12d7352df2
+3796,Sarah Alpar,Sarah,Alpar,Too Sweet,1991-06-01,162.6,135.0,63.0,Southpaw,49b130de1da2e1bf
+3797,Sarah D'alelio,Sarah,D'alelio,The Monster,1980-12-13,170.2,145.0,,,ac45450f75d14f16
+3798,Sarah Frota,Sarah,Frota,A Treta,1987-04-14,167.6,125.0,69.0,Southpaw,1641ef250e9de19b
+3799,Sarah Kaufman,Sarah,Kaufman,,1985-09-20,165.1,135.0,66.0,Orthodox,36df8e119aec6175
+3800,Sarah Moras,Sarah,Moras,Cheesecake,1988-04-30,170.2,135.0,67.0,Orthodox,539ed332b3078821
+3801,Sarah Payant,Sarah,Payant,Soulja,,162.6,115.0,,,748d4e35f846a029
+3802,Sasha Palatnikov,Sasha,Palatnikov,,1989-03-15,185.4,170.0,72.0,Switch,a6c20202c701e5ca
+3803,Satoru Kitaoka,Satoru,Kitaoka,,1980-02-04,167.6,154.0,,,e2ac5bb645f33088
+3804,Satoshi Honma,Satoshi,Honma,,1968-05-19,185.4,205.0,,Orthodox,d2b1c1317a39f6c6
+3805,Satoshi Ishii,Satoshi,Ishii,,1986-12-19,180.3,240.0,,Orthodox,c8a49ff2acb6f3c5
+3806,Saul Elizondo,Saul,Elizondo,,1985-07-17,170.2,135.0,,,e295b96f135d758a
+3807,Saygid Izagakhmaev,Saygid,Izagakhmaev,,1994-09-03,,170.0,,,de26d906f2874dd4
+3808,Scott Adams,Scott,Adams,,,182.9,225.0,,Southpaw,2620f3eb21c79614
+3809,Scott Askham,Scott,Askham,,1988-05-20,190.5,185.0,75.0,Southpaw,06827d70c53ff0d9
+3810,Scott Baker,Scott,Baker,,,182.9,210.0,,,7d5b12de1625984e
+3811,Scott Bessac,Scott,Bessac,,,193.0,245.0,,,3f24c96753dbd9f9
+3812,Scott Bills,Scott,Bills,,,177.8,170.0,,,53f02bbc41d99432
+3813,Scott Carson,Scott,Carson,,,188.0,215.0,,,1e3302f9ab6f549a
+3814,Scott Ettling,Scott,Ettling,,,,135.0,,,74b5736f1df40be3
+3815,Scott Ferrozzo,Scott,Ferrozzo,The Pitbull,1965-04-26,180.3,323.0,,Orthodox,977081bc01197656
+3816,Scott Fiedler,Scott,Fiedler,,,193.0,235.0,,Orthodox,0ec821423baa26bd
+3817,Scott Graham,Scott,Graham,,,193.0,185.0,,Orthodox,6e4acc2c115215b5
+3818,Scott Harper,Scott,Harper,,1972-04-14,182.9,185.0,,Orthodox,14a433bccba87016
+3819,Scott Holtzman,Scott,Holtzman,Hot Sauce,1983-09-30,175.3,155.0,69.0,Orthodox,df1eb4354d18a906
+3820,Scott Jorgensen,Scott,Jorgensen,Young Guns,1982-09-17,165.1,135.0,66.0,Orthodox,0b64d0fed453ef7f
+3821,Scott Junk,Scott,Junk,,1978-12-17,185.4,265.0,,Orthodox,ac70a4f1db1b8c40
+3822,Scott Lighty,Scott,Lighty,,1978-10-15,188.0,205.0,,,998c8890a8dde1eb
+3823,Scott McAfee,Scott,McAfee,,1983-08-23,172.7,155.0,,Orthodox,7e7d81bf162a5ec1
+3824,Scott McDonald,Scott,McDonald,,,,,,,08ae3100bf2100ed
+3825,Scott Morris,Scott,Morris,,,177.8,210.0,,Orthodox,be9d259be012e8a4
+3826,Scott Norton,Scott,Norton,Hollywood,1973-03-15,177.8,170.0,,Orthodox,f21a3d68fb9df387
+3827,Scott Shaffer,Scott,Shaffer,,,170.2,145.0,,Orthodox,5c38639f860a5542
+3828,Scott Smith,Scott,Smith,Hands of Steel,1979-05-21,182.9,185.0,70.0,Orthodox,3410cf010558dc8b
+3829,Scott Ventimiglia,Scott,Ventimiglia,Meant to Kill Ya,1972-11-17,180.3,185.0,,,6e62bb64f7cc5026
+3830,Sean Alvarez,Sean,Alvarez,,1971-07-14,182.9,235.0,,Orthodox,e741536153227386
+3831,Sean Bassett,Sean,Bassett,,,,155.0,,,2c733e059462c1dc
+3832,Sean Brady,Sean,Brady,,1992-11-23,177.8,170.0,72.0,Orthodox,45f7cb591c3ab00b
+3833,Sean Daugherty,Sean,Daugherty,,1975-12-04,182.9,175.0,,,a683f9ddb70aa4bd
+3834,Sean Gannon,Sean,Gannon,The Cannon,,190.5,265.0,,Southpaw,6d7886b094b471ac
+3835,Sean Gauci,Sean,Gauci,,1996-10-07,165.1,125.0,64.0,Switch,d758f272d94f5866
+3836,Sean Holden,Sean,Holden,,1984-09-17,177.8,170.0,,,acbb9c76f5894e36
+3837,Sean Lally,Sean,Lally,The Unpredictable One,1990-11-04,182.9,170.0,,Orthodox,e62ce041bb7aeb1f
+3838,Sean Loeffler,Sean,Loeffler,The Destroyer,1982-05-23,190.5,185.0,,Orthodox,d3d1ff3f3dfa0931
+3839,Sean McCorkle,Sean,McCorkle,,1976-07-17,200.7,265.0,81.0,Orthodox,008dc37cca279def
+3840,Sean O'Connell,Sean,O'Connell,The Real OC,1983-09-02,185.4,205.0,74.0,Orthodox,cb52f9490c2dc069
+3841,Sean O'Haire,Sean,O'Haire,,1971-02-25,195.6,270.0,,Orthodox,46effbd1135423c5
+3842,Sean O'Malley,Sean,O'Malley,Suga,1994-10-24,180.3,135.0,72.0,Switch,b50a426a33da0012
+3843,Sean Pierson,Sean,Pierson,The Punisher,1976-03-10,182.9,170.0,76.0,Southpaw,0d506315895efffc
+3844,Sean Salmon,Sean,Salmon,,1977-09-11,177.8,185.0,,Southpaw,7c0847d3854a95f2
+3845,Sean Santella,Sean,Santella,Shorty Rock,1984-10-25,165.1,125.0,,,39792c2f42c9f527
+3846,Sean Sharaf,Sean,Sharaf,The Smoke,1993-07-11,190.5,252.0,77.0,Orthodox,0f3a990526c5e706
+3847,Sean Sherk,Sean,Sherk,The Muscle Shark,1973-08-05,167.6,155.0,67.0,Orthodox,029880cdbf5ca089
+3848,Sean Soriano,Sean,Soriano,,1989-10-06,175.3,145.0,70.0,Orthodox,bd5403efbaa445c0
+3849,Sean Spencer,Sean,Spencer,Black Magic,1987-06-25,177.8,170.0,74.0,Orthodox,ab850a77a0fa487d
+3850,Sean Strickland,Sean,Strickland,,1991-02-27,185.4,185.0,76.0,Orthodox,0d8011111be000b2
+3851,Sean Wilson,Sean,Wilson,P-Town,1982-10-20,172.7,145.0,,,b8e6393c39cb9740
+3852,Sean Woodson,Sean,Woodson,The Sniper,1992-06-07,188.0,145.0,78.0,Orthodox,4682bc59d5f55145
+3853,Sebastian Szalay,Sebastian,Szalay,Seb,1994-02-03,167.6,145.0,66.0,Orthodox,f201f21cf2c79eb2
+3854,Sedriques Dumas,Sedriques,Dumas,The Reaper,1995-08-06,188.0,185.0,79.0,Orthodox,4e6738062d469256
+3855,Seichi Ikemoto,Seichi,Ikemoto,,1975-08-24,180.3,168.0,,Orthodox,81f38d1640c4e70d
+3856,Semmy Schilt,Semmy,Schilt,Hightower,1973-10-27,208.3,265.0,,Orthodox,d5ed14b2153c6ed2
+3857,Seo Hee Ham,Seo Hee,Ham,,1987-03-08,157.5,115.0,62.0,Southpaw,165c244bcca3ed26
+3858,Seokhyeon Ko,Seokhyeon,Ko,The Korean Tyson,1993-09-24,177.8,170.0,71.0,Southpaw,4a07b1988477502c
+3859,SeongChan Hong,SeongChan,Hong,Honey Badger,1989-11-28,170.2,155.0,69.0,Orthodox,10d4575f497face4
+3860,Sergei Kharitonov,Sergei,Kharitonov,,1980-08-18,182.9,245.0,,Orthodox,0693b2eab79198ea
+3861,Sergei Pavlovich,Sergei,Pavlovich,,1992-05-13,190.5,257.0,84.0,Southpaw,f14cf73e51b29254
+3862,Sergey Ignatov,Sergey,Ignatov,,,175.3,210.0,,Orthodox,df9e9c1f65805d29
+3863,Sergey Khandozhko,Sergey,Khandozhko,Honda,1992-05-19,185.4,170.0,74.0,Orthodox,90da09db03e41748
+3864,Sergey Morozov,Sergey,Morozov,,1989-06-14,167.6,135.0,67.0,Orthodox,2f6a993c7f547c13
+3865,Serghei Spivac,Serghei,Spivac,Polar Bear,1995-01-24,190.5,260.0,78.0,Orthodox,e2f6b2769aaedd6c
+3866,Sergio Gomez,Sergio,Gomez,,1982-04-29,167.6,155.0,,Orthodox,af1e5c64b8663aa0
+3867,Sergio Moraes,Sergio,Moraes,The Panther,1982-07-23,182.9,170.0,72.0,Orthodox,1bcaac2d99b90fce
+3868,Sergio Pettis,Sergio,Pettis,,1993-08-18,167.6,125.0,69.0,Orthodox,de75d1c45a39e221
+3869,Serhiy Sidey,Serhiy,Sidey,,1996-07-04,180.3,135.0,72.0,Switch,1a2bf44edb8055b6
+3870,Seth Baczynski,Seth,Baczynski,The Polish Pistola,1981-10-26,190.5,170.0,75.0,Orthodox,fd5b6598a3b70c0a
+3871,Seth Dikun,Seth,Dikun,,1980-08-05,177.8,135.0,69.0,Orthodox,eb42d4febfafefd1
+3872,Seth Kleinbeck,Seth,Kleinbeck,Mass Destruction,1973-07-25,188.0,185.0,,,8ad022dd81224f61
+3873,Seth Petruzelli,Seth,Petruzelli,The Silverback,1979-12-03,182.9,205.0,76.0,Orthodox,93b9496275bbbf80
+3874,SeungGuk Choi,SeungGuk,Choi,,1996-12-26,167.6,125.0,64.0,Orthodox,adccbc19b22e19af
+3875,SeungWoo Choi,SeungWoo,Choi,Sting,1992-11-03,182.9,145.0,74.0,Orthodox,a68575214ecad140
+3876,Shah Kamali,Shah,Kamali,,1998-10-25,,265.0,,,a46ab6c64d321c2d
+3877,Shaheen Santana,Shaheen,Santana,Shazam,1991-06-04,185.4,155.0,75.0,Orthodox,19809d475ed832d5
+3878,Shamar Bailey,Shamar,Bailey,,1982-09-22,175.3,155.0,75.0,Southpaw,e2b8186b618b00c4
+3879,Shamil Abdurakhimov,Shamil,Abdurakhimov,Abrek,1981-09-02,190.5,235.0,76.0,Orthodox,2f5cbecbbe18bac4
+3880,Shamil Gamzatov,Shamil,Gamzatov,,1990-08-09,188.0,205.0,76.0,Orthodox,0d980975001ae3d8
+3881,Shamil Gaziev,Shamil,Gaziev,,1990-02-10,193.0,265.0,78.0,Orthodox,6747ccd6d1acd266
+3882,Shana Dobson,Shana,Dobson,Danger,1989-03-30,167.6,125.0,69.0,Orthodox,122ac9b816d8b71c
+3883,Shana Olsen,Shana,Olsen,Rock Solid,1980-12-17,170.2,145.0,,,dfbb95ca0c143988
+3884,Shane Burgos,Shane,Burgos,Hurricane,1991-03-19,180.3,145.0,75.0,Orthodox,98d961097baaf308
+3885,Shane Campbell,Shane,Campbell,Shaolin,1987-01-21,182.9,155.0,71.0,Orthodox,784285b7ae7dd85f
+3886,Shane Carwin,Shane,Carwin,The Engineer,1975-01-04,188.0,265.0,80.0,Orthodox,68dd7b3783c19f9c
+3887,Shane Howell,Shane,Howell,,1983-11-28,172.7,125.0,,Orthodox,a7de976620f2ed13
+3888,Shane Nelson,Shane,Nelson,Sugar,1984-11-29,175.3,155.0,70.0,Southpaw,2db7fa8db6bc9632
+3889,Shane Primm,Shane,Primm,,1984-07-30,190.5,205.0,,Orthodox,5114f1b5ad4cdf72
+3890,Shane Roller,Shane,Roller,,1979-07-14,177.8,155.0,72.0,Orthodox,75e0d3cc2262b732
+3891,Shane Young,Shane,Young,Smokin',1993-07-31,172.7,145.0,72.0,Orthodox,4cd8b03aee1d0138
+3892,Shane del Rosario,Shane,del Rosario,,1983-09-23,193.0,250.0,,Southpaw,85980f5da429c0a6
+3893,Shanelle Dyer,Shanelle,Dyer,The Nightmare,2001-04-23,167.6,115.0,65.0,Orthodox,cfbb3edab781dfd2
+3894,Shang Zhifa,Shang,Zhifa,Northeast Flying Tiger,1986-03-15,170.2,125.0,63.0,Orthodox,5a7350645bc9bd6e
+3895,Shanna Young,Shanna,Young,The Shanimal,1991-02-20,170.2,125.0,65.0,Orthodox,568bbad0eaced57c
+3896,Shannon Clark,Shannon,Clark,MMA Barbie,1992-07-07,165.1,125.0,64.0,Orthodox,7ae36b3791e0969a
+3897,Shannon Gugerty,Shannon,Gugerty,,1981-12-30,177.8,155.0,71.0,Orthodox,9f1641c08cf8fbe2
+3898,Shannon Ritch,Shannon,Ritch,The Cannon,1970-09-27,175.3,190.0,,Orthodox,1c7cce2f5c17160d
+3899,Shannon Ross,Shannon,Ross,The Turkish Delight,1989-05-12,167.6,125.0,66.0,Switch,51c655162e462ceb
+3900,Shara Magomedov,Shara,Magomedov,Bullet,1994-05-16,188.0,185.0,73.0,Orthodox,06734ca9d88dec3a
+3901,Shaun Etchell,Shaun,Etchell,The Buzzsaw,1993-08-05,170.2,125.0,68.0,Switch,ea9bfe9c25037bba
+3902,Shauna Bannon,Shauna,Bannon,Mama B,1993-10-23,165.1,115.0,65.0,Switch,9c442aaf149ea982
+3903,Shavkat Rakhmonov,Shavkat,Rakhmonov,Nomad,1994-10-23,185.4,170.0,77.0,Orthodox,01afe0916a40c7c5
+3904,Shawn Bunch,Shawn,Bunch,Bunch the Great,1983-03-19,165.1,135.0,,,6e9af164ab91a229
+3905,Shawn Jordan,Shawn,Jordan,The Savage,1984-10-21,182.9,260.0,75.0,Southpaw,ca2efc9d7d523c43
+3906,Shawn Teed,Shawn,Teed,,1992-02-13,195.6,265.0,,Orthodox,5bb70ebd65075c5c
+3907,Shayilan Nuerdanbieke,Shayilan,Nuerdanbieke,Wolverine,1994-05-04,172.7,145.0,69.0,Orthodox,0a73acff6325c1e2
+3908,Shayna Baszler,Shayna,Baszler,The Queen of Spades,1980-08-08,170.2,135.0,,Orthodox,8ef4a91ac694b7ce
+3909,Sheila Gaff,Sheila,Gaff,The German Tank,1989-12-29,165.1,135.0,,Orthodox,837d30395faca41e
+3910,Sheldon Westcott,Sheldon,Westcott,,1984-08-20,185.4,170.0,71.0,Southpaw,ec2d13a87d3d9541
+3911,Shelton Graves,Shelton,Graves,The Gravedigger,1985-10-23,188.0,255.0,76.0,Southpaw,642862d6d63605cd
+3912,Shem Rock,Shem,Rock,,1993-11-05,,155.0,,,52b6bf4528130e86
+3913,Sherman Pendergarst,Sherman,Pendergarst,The Tank,1967-08-01,185.4,235.0,,Orthodox,e670f8cc2969a789
+3914,Sherrard Blackledge,Sherrard,Blackledge,The Thriller,1993-08-16,180.3,155.0,75.0,Orthodox,0e5c79b3594ff0ad
+3915,Sherron Leggett,Sherron,Leggett,Rob Roy,1978-10-27,172.7,155.0,,Southpaw,4f670b7972fa0a2e
+3916,Sheymon Moraes,Sheymon,Moraes,,1990-10-11,172.7,145.0,72.0,Orthodox,0d62719b1dcf7c40
+3917,Shi Ming,Shi,Ming,,1994-11-14,157.5,115.0,60.0,Orthodox,d683f4870742b273
+3918,Shimon Smotritsky,Shimon,Smotritsky,The Assassin,2000-08-22,188.0,170.0,74.0,Orthodox,1b0491ef0f9c965e
+3919,Shin Haraguchi,Shin,Haraguchi,,1998-11-27,165.1,145.0,68.0,Switch,05b17ae24e6bba81
+3920,Shingo Kohara,Shingo,Kohara,,,167.6,135.0,,,44c233770075cea1
+3921,Shinsho Anzai,Shinsho,Anzai,Animal,1985-12-01,170.2,170.0,70.0,Orthodox,4665f9f909cd7214
+3922,Shinya Aoki,Shinya,Aoki,Tobikan Judan,1983-05-09,180.3,154.0,,Southpaw,79ded75550efc139
+3923,Sho Patrick Usami,Sho Patrick,Usami,Savage,2000-05-08,175.3,155.0,70.0,Orthodox,fe30c5f5cc3e028b
+3924,Shogo Sato,Shogo,Sato,Tora,1993-06-08,170.2,170.0,66.0,Southpaw,c982b98d33825763
+3925,Shohei Nose,Shohei,Nose,,1997-10-19,167.6,135.0,68.0,Switch,6b0e83b094f816ac
+3926,Shoji Maruyama,Shoji,Maruyama,,1983-04-24,170.2,139.0,,Orthodox,c046100aea0dba9a
+3927,Shonie Carter,Shonie,Carter,Mr. International,1972-05-03,177.8,170.0,,Southpaw,7b6e40a73b567072
+3928,Shonte Barnes,Shonte,Barnes,Shyne,1987-02-09,180.3,185.0,76.0,Southpaw,e575b6ff678c1aca
+3929,Shungo Oyama,Shungo,Oyama,,1974-04-11,180.3,185.0,,Southpaw,47b7e4e60813b7b2
+3930,Shunichi Shimizu,Shunichi,Shimizu,,1985-01-31,165.1,135.0,,Orthodox,10657c60ce349e0f
+3931,Shuya Kamikubo,Shuya,Kamikubo,Stealth,1993-04-12,165.1,135.0,68.0,Switch,a46fa1c7972548d0
+3932,Siala Siliga,Siala,Siliga,Mighty Mo,1970-10-08,185.4,290.0,,Orthodox,3cf68c1d17f66af7
+3933,Sidney Outlaw,Sidney,Outlaw,,1992-04-11,172.7,170.0,74.0,Orthodox,871ce0b4a01922b6
+3934,Sidney Silva,Sidney,Silva,,1972-02-27,190.5,170.0,,Southpaw,a6c32678efd4f434
+3935,Sijara Eubanks,Sijara,Eubanks,SarJ,1985-04-27,162.6,125.0,67.0,Orthodox,4234f0097c83fa62
+3936,Silvana Gomez Juarez,Silvana,Gomez Juarez,La Malvada,1984-12-06,160.0,115.0,65.0,Orthodox,b4880ef2f838d4e1
+3937,Sim Kai Xiong,Sim,Kai Xiong,Kobra,1997-09-06,167.6,135.0,67.0,Orthodox,79e2cb1e813f881b
+3938,Simeon Thoresen,Simeon,Thoresen,The Grin,1984-03-14,185.4,170.0,79.0,Orthodox,fea8acf9bfcf09ec
+3939,Simon Biyong,Simon,Biyong,,1991-04-05,,205.0,,,27ab7257bf6a3b65
+3940,Sione Latu,Sione,Latu,,,182.9,215.0,,,5898357a45a73674
+3941,Sirwan Kakai,Sirwan,Kakai,Zohan,1989-10-03,165.1,135.0,,Orthodox,2525a853486ee670
+3942,Siyar Bahadurzada,Siyar,Bahadurzada,The Great,1984-04-17,180.3,170.0,73.0,Orthodox,aec185309b4843d0
+3943,Slim Trabelsi,Slim,Trabelsi,,1993-05-09,190.5,235.0,,,ff2ec83f44000f78
+3944,So Yul Kim,So Yul,Kim,,1997-05-25,,115.0,,,864c07a7ff90caae
+3945,Soa Palelei,Soa,Palelei,The Hulk,1977-07-12,193.0,265.0,81.0,Orthodox,60029bcf496bd707
+3946,Sodiq Yusuff,Sodiq,Yusuff,Super,1993-05-19,175.3,155.0,71.0,Orthodox,94426bb170c88115
+3947,Sofia Montenegro,Sofia,Montenegro,La Bruja,1999-06-18,167.6,125.0,67.0,Orthodox,8b1b051038354655
+3948,Soichi Nishida,Soichi,Nishida,,,180.3,320.0,,Orthodox,6810d8d2dd557cf9
+3949,Sokun Koh,Sokun,Koh,,,185.4,205.0,,,6d8ef8706781c49e
+3950,Solomon Hutcherson,Solomon,Hutcherson,King,1972-08-31,180.3,185.0,,Southpaw,155bfc7ed36622df
+3951,Solomon Renfro,Solomon,Renfro,The Black Dragon,1997-02-05,175.3,170.0,72.0,Switch,ce6b5b93a96dd15b
+3952,Song Kenan,Song,Kenan,The Assassin,1990-03-10,182.9,170.0,71.0,Orthodox,32490e80ddab1e5a
+3953,Song Yadong,Song,Yadong,Kung Fu Kid,1997-12-02,172.7,135.0,67.0,Orthodox,efb96bf3e9ada36f
+3954,Sora Rakhmonova,Sora,Rakhmonova,,1998-06-21,,125.0,,,63ff619c52ff7976
+3955,Sovannahry Em,Sovannahry,Em,The Sweet Savage,1992-06-26,162.6,135.0,,,45c8fed13a62fe92
+3956,Spencer Fisher,Spencer,Fisher,The King,1976-05-09,170.2,155.0,68.0,Southpaw,f34312c2ccfa0e00
+3957,Spencer Hearns,Spencer,Hearns,,,180.3,185.0,,,d85cf12439945941
+3958,Spike Carlyle,Spike,Carlyle,Alpha Ginger,1993-05-06,172.7,145.0,71.0,Switch,be68b375707dcb85
+3959,Stanislav Nedkov,Stanislav,Nedkov,Stucky,1981-12-09,180.3,205.0,71.0,Orthodox,1d4bbaabd8b60173
+3960,Stefan Klever,Stefan,Klever,,,,185.0,,Orthodox,bc3876891e155bb5
+3961,Stefan Leko,Stefan,Leko,Blitz,1974-06-03,188.0,215.0,,Orthodox,d56bb6dff2ae77eb
+3962,Stefan Sekulic,Stefan,Sekulic,,1992-02-12,182.9,170.0,75.0,Southpaw,348dff4e03bd18c6
+3963,Stefan Struve,Stefan,Struve,Skyscraper,1988-02-18,210.8,265.0,84.0,Orthodox,ebc1f40e00e0c481
+3964,Stephan Bonnar,Stephan,Bonnar,The American Psycho,1977-04-04,193.0,205.0,79.0,Orthodox,c6a33ff198aaaeeb
+3965,Stephanie Egger,Stephanie,Egger,,1988-08-12,167.6,135.0,68.0,Orthodox,5e6294b37bbef029
+3966,Stephanie Frausto,Stephanie,Frausto,Lil Bovy,1990-09-20,157.5,115.0,61.0,Orthodox,fee02819a271c050
+3967,Stephanie Luciano,Stephanie,Luciano,Rondinha,1999-12-16,167.6,115.0,65.0,Orthodox,1b35af4d1529adf6
+3968,Stephanie Webber,Stephanie,Webber,,,167.6,135.0,,,d44a84409bf0da64
+3969,Stephen Banaszak,Stephen,Banaszak,,1990-12-07,182.9,145.0,,,4c4b44e3cf5815b3
+3970,Stephen Bass,Stephen,Bass,Bigfish,1982-11-14,175.3,145.0,,Orthodox,1cecc8fe6748a532
+3971,Stephen Ledbetter,Stephen,Ledbetter,,1982-06-30,175.3,145.0,,Orthodox,56ec58954158966a
+3972,Stephen Palling,Stephen,Palling,Bozo,1967-01-29,162.6,143.0,,,ab7c212de9f66af0
+3973,Stephen Regman,Stephen,Regman,,1991-08-05,180.3,185.0,76.0,Orthodox,24d98df7556ac8af
+3974,Stephen Thompson,Stephen,Thompson,Wonderboy,1983-02-11,182.9,170.0,75.0,Orthodox,4a28cb716c19157a
+3975,Sterling Ford,Sterling,Ford,,1986-03-12,177.8,155.0,,,a71ce6ff0b4a9dbb
+3976,Steve Berger,Steve,Berger,The Red Nosed Pitbull,1973-05-20,180.3,170.0,,Orthodox,21b1132949f2a9b0
+3977,Steve Bosse,Steve,Bosse,The Boss,1981-07-29,180.3,205.0,72.0,Orthodox,e023fa2e648ea0f1
+3978,Steve Bruno,Steve,Bruno,Hollywood,1981-11-03,177.8,170.0,,Orthodox,2f3f12002564bb55
+3979,Steve Byrnes,Steve,Byrnes,The Sergeant,,182.9,170.0,,Orthodox,43612456979e5d5e
+3980,Steve Cantwell,Steve,Cantwell,The Robot,1986-12-08,188.0,185.0,75.0,Orthodox,f1f9e48a0d150757
+3981,Steve Erceg,Steve,Erceg,Astroboy,1995-07-27,172.7,125.0,68.0,Orthodox,32ab52e5de93092d
+3982,Steve Garcia,Steve,Garcia,Mean Machine,1992-05-22,182.9,145.0,75.0,Southpaw,97cf1a2c7c5e7889
+3983,Steve Hadsel,Steve,Hadsel,,,172.7,170.0,,,99793cf88c5adeee
+3984,Steve Jennum,Steve,Jennum,,,177.8,215.0,,Orthodox,ad047e3073a775f3
+3985,Steve Judson,Steve,Judson,,,180.3,230.0,,Orthodox,6ece1d2ab1bed31d
+3986,Steve Kennedy,Steve,Kennedy,The Steamrolla,1983-03-07,180.3,170.0,,Orthodox,185fb0200a4605e6
+3987,Steve Kozola,Steve,Kozola,,,,155.0,,,fc36e2352dccf2a4
+3988,Steve Lopez,Steve,Lopez,,1984-07-30,180.3,155.0,,Orthodox,6085ceb59087514b
+3989,Steve Mann,Steve,Mann,,,185.4,170.0,,,0eef1bf99afd4ff2
+3990,Steve Mensing,Steve,Mensing,The Machine,1977-12-06,180.3,185.0,,Orthodox,3bc27ec15facbcf3
+3991,Steve Montgomery,Steve,Montgomery,The Creepy Weasel,1990-12-19,193.0,185.0,,Southpaw,6e92eb1242b46636
+3992,Steve Nelmark,Steve,Nelmark,The Sandman,,182.9,240.0,,Orthodox,13e62d766b709aa6
+3993,Steve Ramirez,Steve,Ramirez,,,170.2,125.0,,,4311e9d23604205c
+3994,Steve Steinbeiss,Steve,Steinbeiss,The Hooligan,1981-05-05,190.5,185.0,75.0,Orthodox,0b5b6876c2a4723f
+3995,Steve Vigneault,Steve,Vigneault,Lionheart,1978-02-14,177.8,185.0,,Orthodox,6888e31ce88f5b17
+3996,Steve White,Steve,White,,,180.3,175.0,,,d181689653115b6a
+3997,Steven Asplund,Steven,Asplund,Concrete,1998-07-16,195.6,261.0,78.0,Orthodox,e56cee1ad697db04
+3998,Steven Ciaccio,Steven,Ciaccio,Stryker,,182.9,170.0,,,eaebaa6801338ea1
+3999,Steven Graham,Steven,Graham,,,185.4,290.0,,Orthodox,3e514f437c51ce0a
+4000,Steven Koslow,Steven,Koslow,Obi Won Shinobi The Pillow,1997-01-22,170.2,125.0,69.0,Switch,84512339473dd300
+4001,Steven Nguyen,Steven,Nguyen,The Ninja,1993-05-19,180.3,145.0,73.0,Switch,69037fc7730e4225
+4002,Steven Peterson,Steven,Peterson,Ocho,1990-05-29,177.8,145.0,70.0,Orthodox,b93c06d09d1c4ac0
+4003,Steven Siler,Steven,Siler,Super,1987-02-15,180.3,145.0,70.0,Orthodox,d188a3b817860ec6
+4004,Stevie Lynch,Stevie,Lynch,,,177.8,170.0,,Orthodox,710d93f1508f7104
+4005,Stevie Ray,Stevie,Ray,Braveheart,1990-03-25,177.8,155.0,70.0,Southpaw,31a13532e724ca2b
+4006,Stewart Nicoll,Stewart,Nicoll,Kakamora,1996-04-11,165.1,125.0,65.0,Orthodox,2bd98ab77a8daa75
+4007,Stipe Miocic,Stipe,Miocic,,1982-08-19,193.0,240.0,80.0,Orthodox,d28dee5c705991df
+4008,Stoney Hale,Stoney,Hale,The Skuller,1979-10-18,182.9,,,,206a7d47eb62170e
+4009,SuYoung You,SuYoung,You,Yoo-Jitsu,1995-12-11,167.6,135.0,65.0,Orthodox,a474aade8eb3a8f0
+4010,Sulangrangbo,,Sulangrangbo,,2005-07-17,175.3,135.0,66.0,Southpaw,1dd1a3aacde66f72
+4011,Sultan Aliev,Sultan,Aliev,,1984-09-17,180.3,170.0,74.0,Orthodox,e70de1859b7ee78e
+4012,Suman Mokhtarian,Suman,Mokhtarian,,1992-06-13,172.7,145.0,72.0,Orthodox,192520689012c7e4
+4013,Sumit Kumar,Sumit,Kumar,The Indian Kid,2000-09-09,165.1,125.0,66.0,Orthodox,a0a625221e0dd339
+4014,Sumudaerji,,Sumudaerji,The Tibetan Eagle,1996-01-20,172.7,125.0,72.0,Southpaw,3cf18e01cb6cbde3
+4015,Sung Bin Jo,Sung Bin,Jo,Korean Falcon,1992-07-17,182.9,145.0,72.0,Orthodox,6e0e977beb909837
+4016,Syuri Kondo,Syuri,Kondo,,1989-02-08,162.6,115.0,66.0,Orthodox,a851c35f58199231
+4017,TJ Brown,TJ,Brown,Downtown,1990-05-22,175.3,145.0,72.0,Switch,d31cbcdd7d69536d
+4018,TJ Cook,TJ,Cook,,1982-09-08,,205.0,,,fa238ecfd048f7d8
+4019,TJ Dillashaw,TJ,Dillashaw,,1986-02-07,167.6,135.0,67.0,Orthodox,c849740a3ff51931
+4020,TJ Grant,TJ,Grant,,1984-02-26,177.8,155.0,72.0,Orthodox,a26198ba5093147e
+4021,TJ Hepburn,TJ,Hepburn,The Carnivore,,170.2,155.0,,,e1acbb6352ca3551
+4022,TJ Laramie,TJ,Laramie,,1997-10-15,167.6,145.0,66.0,Orthodox,cd2e5a390821fb48
+4023,TJ O'Brien,TJ,O'Brien,The Spider,1987-01-01,188.0,155.0,,Orthodox,d25b93992f285953
+4024,TJ Waldburger,TJ,Waldburger,,1988-04-25,180.3,170.0,75.0,Orthodox,8f2939f5fd9cca1e
+4025,Tabatha Ricci,Tabatha,Ricci,Baby Shark,1995-02-21,154.9,115.0,61.0,Orthodox,d25240135aee03e5
+4026,Tadao Yasuda,Tadao,Yasuda,,1963-10-09,193.0,310.0,,Orthodox,49e7e05f902479ca
+4027,Tae Hyun Bang,Tae Hyun,Bang,Supernatural,1983-04-15,175.3,155.0,71.0,Switch,9a2d3567abc02e34
+4028,Tae Hyun Lee,Tae Hyun,Lee,,1975-01-17,198.1,295.0,,Orthodox,de99da2c0d18d34a
+4029,Tafon Nchukwi,Tafon,Nchukwi,Da Don,1994-10-14,182.9,185.0,77.0,Orthodox,6aae253467e8f9ce
+4030,Tagir Ulanbekov,Tagir,Ulanbekov,,1991-08-07,170.2,125.0,70.0,Southpaw,f00ac08ab056af5d
+4031,Tai Bowden,Tai,Bowden,,,180.3,230.0,,,2efbc83a6b9b7f86
+4032,Tai Tuivasa,Tai,Tuivasa,Bam Bam,1993-03-16,188.0,264.0,75.0,Southpaw,c62fbc117d57b943
+4033,Taiei Kin,Taiei,Kin,,1970-07-08,180.3,185.0,,Orthodox,c7ac79839e86ce33
+4034,Taiga Iwasaki,Taiga,Iwasaki,,1997-07-07,185.4,185.0,73.0,Orthodox,5b08af4fbc987f9c
+4035,Taila Santos,Taila,Santos,,1993-06-22,167.6,125.0,68.0,Orthodox,f7467152fd9f18a2
+4036,Tainara Lisboa,Tainara,Lisboa,Thai Panther,1991-03-02,170.2,135.0,67.0,Orthodox,2c5f5749569eef66
+4037,Taiyilake Nueraji,Taiyilake,Nueraji,Super Saiyan,2001-01-12,188.0,170.0,75.0,Southpaw,7498b3ac79a3b948
+4038,Takafumi Otsuka,Takafumi,Otsuka,,,167.6,139.0,,Orthodox,6b8f28da9a483049
+4039,Takahiro Oba,Takahiro,Oba,,,172.7,200.0,,Southpaw,7139cd2ae4bf6a29
+4040,Takanori Gomi,Takanori,Gomi,The Fireball Kid,1978-09-22,170.2,155.0,70.0,Southpaw,3be081c29bf734d9
+4041,Takashi Sato,Takashi,Sato,Ten,1990-06-09,177.8,170.0,73.0,Southpaw,8abac218746e04ca
+4042,Takashi Sugiura,Takashi,Sugiura,,1970-05-31,180.3,225.0,,Southpaw,06c60fc2c8dcd7bd
+4043,Takaya Suzuki,Takaya,Suzuki,,2004-09-04,,125.0,,,81d59c1e07478361
+4044,Takayo Hashi,Takayo,Hashi,,1977-10-02,162.6,135.0,,Orthodox,ae4343d29c68e9d0
+4045,Takayuki Okada,Takayuki,Okada,Giant Ochiai,,185.4,290.0,,Orthodox,32541eb5d12668b4
+4046,Takenori Sato,Takenori,Sato,,1985-06-08,177.8,170.0,,Southpaw,276c60b14b571dd4
+4047,Takeru Uchida,Takeru,Uchida,,2002-09-30,165.1,125.0,68.0,Southpaw,1d76f07ffdd765c2
+4048,Takeshi Inoue,Takeshi,Inoue,Lion,1980-03-18,172.7,145.0,,,a61a0cd2829e5d4e
+4049,Takeshi Yamazaki,Takeshi,Yamazaki,,,172.7,139.0,,Southpaw,d1d20e651e6cbc02
+4050,Takeya Mizugaki,Takeya,Mizugaki,,1983-12-16,170.2,135.0,69.0,Orthodox,48e093ea1f43a053
+4051,Talita Alencar,Talita,Alencar,Problem Child,1990-10-17,154.9,115.0,58.0,Orthodox,d35298b6df168456
+4052,Talita Bernardo,Talita,Bernardo,,1987-03-04,162.6,135.0,68.0,Orthodox,5b2325cd70dbe2ea
+4053,Talita Nogueira,Talita,Nogueira,Treta,1985-10-13,177.8,145.0,,,a3d1d060f9af97fe
+4054,Tallison Teixeira,Tallison,Teixeira,Xicao,1999-12-07,200.7,258.0,83.0,Orthodox,17923f676f100e16
+4055,Tamdan McCrory,Tamdan,McCrory,The Barncat,1986-11-05,193.0,185.0,76.0,Switch,eff47295daf721a6
+4056,Tamires Vidal,Tamires,Vidal,Tractor,1998-07-27,167.6,135.0,68.0,Orthodox,4f3064faf17aa711
+4057,Taneisha Tennant,Taneisha,Tennant,Triple Threat,1989-06-15,170.2,145.0,70.0,Orthodox,87911d22a79d3203
+4058,Tanner Boser,Tanner,Boser,The Bulldozer,1991-08-02,188.0,205.0,75.0,Orthodox,04c8b08b16a5b99e
+4059,Tarec Saffiedine,Tarec,Saffiedine,Sponge,1986-09-06,177.8,170.0,70.0,Switch,0749d968e932df53
+4060,Tateki Matsuda,Tateki,Matsuda,Tech,1986-02-27,170.2,125.0,,Orthodox,3a524c6700addc24
+4061,Tatiana Suarez,Tatiana,Suarez,,1990-12-19,165.1,115.0,66.0,Southpaw,b08012bbe542592a
+4062,Tatsuro Taira,Tatsuro,Taira,The Best,2000-01-27,170.2,125.0,70.0,Orthodox,4461d7e47375a895
+4063,Tatsuya Ando,Tatsuya,Ando,Kirinji,1990-04-26,162.6,145.0,68.0,Southpaw,17615148dd4be6f6
+4064,Tatsuya Iwasaki,Tatsuya,Iwasaki,,,175.3,205.0,,Orthodox,243b07fc65ccbb16
+4065,Tatsuya Kawajiri,Tatsuya,Kawajiri,Crusher,1978-05-08,170.2,145.0,69.0,Orthodox,80d918336163b80c
+4066,Tatsuya Mizuno,Tatsuya,Mizuno,,1981-06-02,185.4,205.0,,Southpaw,478c8706bdb92440
+4067,Tatsuya Saika,Tatsuya,Saika,Yanbo,1990-09-18,182.9,155.0,73.0,Orthodox,cc4e571964b084d4
+4068,Taylor Callens,Taylor,Callens,,1991-05-21,177.8,155.0,,,53d471e9bf5f2fc8
+4069,Taylor Johnson,Taylor,Johnson,Tombstone,1990-11-09,182.9,185.0,74.0,Switch,552b09cbf13b6328
+4070,Taylor Lapilus,Taylor,Lapilus,Double Impact,1992-04-08,167.6,135.0,73.0,Southpaw,8b1ed83b02303075
+4071,Taylor Moore,Taylor,Moore,,1993-10-16,177.8,135.0,70.0,Southpaw,26927dab41dbd5fc
+4072,Taylor Roberts,Taylor,Roberts,,,180.3,170.0,,,c5ec23983dc2d8f4
+4073,Te Edwards,Te,Edwards,,1990-09-11,172.7,155.0,72.0,Orthodox,ef44e4ea9050f2ea
+4074,Tebaris Gordon,Tebaris,Gordon,Boom,1988-07-19,185.4,265.0,,Orthodox,68c4ca70067bf282
+4075,Tecia Pennington,Tecia,Pennington,Tiny Tornado,1989-08-16,154.9,115.0,60.0,Orthodox,31ef8b67e13495b3
+4076,Tedd Williams,Tedd,Williams,,1969-12-19,185.4,275.0,,Orthodox,b63e800c18e011b5
+4077,Teddy Ash,Teddy,Ash,Bear,1989-12-27,185.4,185.0,73.0,Switch,a373085066dbfb54
+4078,Teemu Packalen,Teemu,Packalen,Pacu,1987-05-22,185.4,155.0,75.0,Orthodox,8f4eeaf7a0df7c1a
+4079,Teila Tuli,Teila,Tuli,,1969-06-14,182.9,430.0,,Orthodox,96eff1a628adcc7f
+4080,Tereza Bleda,Tereza,Bleda,,2001-11-30,175.3,125.0,71.0,Orthodox,59c438c81fbf3ece
+4081,Terrance McKinney,Terrance,McKinney,T. Wrecks,1994-09-15,177.8,155.0,73.0,Switch,809bd1a871491508
+4082,Terrance Saeteurn,Terrance,Saeteurn,Wrong Turn,1995-05-30,167.6,125.0,67.0,Orthodox,a78f7a9135eb6249
+4083,Terrell Brown,Terrell,Brown,,1983-04-13,,185.0,,,85df85a4e276c90e
+4084,Terrence Mitchell,Terrence,Mitchell,,1989-12-30,177.8,135.0,74.0,Orthodox,f3ca6908f78efebe
+4085,Terrion Ware,Terrion,Ware,Flash,1986-03-31,172.7,135.0,71.0,Orthodox,ba5e253af86db1a8
+4086,Terry Etim,Terry,Etim,,1986-01-11,185.4,155.0,73.0,Orthodox,33011768c3c4dc9a
+4087,Terry Martin,Terry,Martin,,1980-10-10,172.7,185.0,71.0,Orthodox,6a92caba39b64752
+4088,Teruto Ishihara,Teruto,Ishihara,Yashabo,1991-07-23,170.2,135.0,69.0,Southpaw,88cd34d836b4ebcd
+4089,Tetsuji Kato,Tetsuji,Kato,,,,155.0,,Orthodox,542db012217ecb83
+4090,Tetsuya Seki,Tetsuya,Seki,,1994-02-08,177.8,155.0,,,5e1062e066c601e6
+4091,Thaddeus Luster,Thaddeus,Luster,,,190.5,210.0,,,505934897b8b4824
+4092,Thales Leites,Thales,Leites,,1981-09-06,185.4,185.0,78.0,Orthodox,cfb65863d5099327
+4093,Thanh Le,Thanh,Le,,1985-08-28,175.3,145.0,74.0,Orthodox,882b3f5a0774d575
+4094,Themba Gorimbo,Themba,Gorimbo,Mamba,1991-01-23,185.4,170.0,77.0,Orthodox,40f3cb27fc7305a1
+4095,Theo Haig,Theo,Haig,,1996-08-23,188.0,185.0,77.0,Orthodox,8a213af406eb2dd4
+4096,Theo Rlayang,Theo,Rlayang,Jungle King,1994-08-10,170.2,145.0,65.0,Orthodox,8aabef76351401d0
+4097,Thiago Alves,Thiago,Alves,Pitbull,1983-10-03,175.3,170.0,70.0,Orthodox,31ee470ef5dc8d7f
+4098,Thiago Moises,Thiago,Moises,,1995-03-23,175.3,155.0,70.0,Orthodox,d945aae53e3e54e6
+4099,Thiago Perpetuo,Thiago,Perpetuo,Bodao,1987-12-14,177.8,170.0,,Orthodox,c1a5d3843596df92
+4100,Thiago Santos,Thiago,Santos,Marreta,1984-01-07,188.0,205.0,76.0,Orthodox,dea070ed4a2a8281
+4101,Thiago Silva,Thiago,Silva,,1982-11-12,188.0,205.0,74.0,Orthodox,2924886ee9c4c527
+4102,Thiago Tavares,Thiago,Tavares,,1984-11-08,170.2,145.0,70.0,Orthodox,8a59d346dc976a10
+4103,Thibault Gouti,Thibault,Gouti,GT,1987-02-27,177.8,155.0,72.0,Orthodox,51e86de150ee8be6
+4104,Thomas Almeida,Thomas,Almeida,Thominhas,1991-07-31,170.2,145.0,70.0,Southpaw,2b074403b7c6cdb4
+4105,Thomas Campbell,Thomas,Campbell,,,,,,,d060014a5a039829
+4106,Thomas Denny,Thomas,Denny,The Wildman,1971-04-19,177.8,170.0,,Orthodox,a11a6ee8eeb03c18
+4107,Thomas Diagne,Thomas,Diagne,,1983-09-03,185.4,154.0,,,8567466ae167216b
+4108,Thomas Gifford,Thomas,Gifford,The Young Lion,1992-07-26,185.4,155.0,75.0,Orthodox,e7f51d9f9e9259e7
+4109,Thomas Longacre,Thomas,Longacre,,,175.3,145.0,,Orthodox,989be26791d0aad4
+4110,Thomas Paull,Thomas,Paull,Juggernaut,1994-10-15,170.2,155.0,67.0,Orthodox,dda67d7d3df6b406
+4111,Thomas Petersen,Thomas,Petersen,The Train,1995-03-30,185.4,264.0,74.0,Southpaw,764d39074a352e33
+4112,Thomas Ramirez,Thomas,Ramirez,,,185.4,410.0,,Sideways,ea398c802d9998ee
+4113,Ti Haitao,Ti,Haitao,,,,135.0,,,3848cd6cac73e091
+4114,Tiago dos Santos e Silva,Tiago,dos Santos e Silva,Trator,1987-04-12,175.3,145.0,70.0,Orthodox,8ce87f7e3a9baed2
+4115,Tiffany Masters,Tiffany,Masters,Rainbow Renegade,1994-07-31,160.0,115.0,65.0,Orthodox,ca743f96dd2063d5
+4116,Tiki Ghosn,Tiki,Ghosn,,1977-02-09,177.8,170.0,,Orthodox,cb6783c39c01d896
+4117,Tim Boetsch,Tim,Boetsch,The Barbarian,1981-01-28,182.9,185.0,74.0,Orthodox,c80095f6092271a7
+4118,Tim Caron,Tim,Caron,The Bear,1987-07-24,185.4,185.0,,Orthodox,b80ea4880f25c187
+4119,Tim Catalfo,Tim,Catalfo,Obake,,180.3,235.0,,Orthodox,6ca68b636fbc1f18
+4120,Tim Credeur,Tim,Credeur,,1977-07-09,190.5,185.0,75.0,Orthodox,89b8d1bf1ff09d1d
+4121,Tim Elliott,Tim,Elliott,,1986-12-24,170.2,125.0,66.0,Southpaw,c96d9178c9ed9e62
+4122,Tim Gorman,Tim,Gorman,The Psycho,1983-04-29,165.1,135.0,,Southpaw,c10eb2f12c489f6d
+4123,Tim Hague,Tim,Hague,The Trashing Machine,1983-05-09,193.0,260.0,76.0,Orthodox,219a254e15d60135
+4124,Tim Kennedy,Tim,Kennedy,,1979-09-01,180.3,185.0,74.0,Orthodox,3c660c90d48fc80d
+4125,Tim Lajcik,Tim,Lajcik,The Bohemian,1965-06-21,185.4,225.0,,Orthodox,c7e9d15cfce52f1d
+4126,Tim McKenzie,Tim,McKenzie,,1982-07-21,182.9,185.0,74.0,Orthodox,9ca265dfe8323db3
+4127,Tim Means,Tim,Means,The Dirty Bird,1984-02-20,188.0,170.0,75.0,Orthodox,4b47e71384a9522f
+4128,Tim Roman,Tim,Roman,,1985-06-08,185.4,170.0,,,3b83fec860a45ca1
+4129,Tim Stout,Tim,Stout,,1979-02-09,180.3,185.0,,,e1a4568fec1fc24f
+4130,Tim Sylvia,Tim,Sylvia,The Maine-iac,1976-03-05,203.2,265.0,80.0,Orthodox,2a542ee8a8b83559
+4131,Tim Williams,Tim,Williams,The South Jersey Strangler,1986-07-03,188.0,185.0,76.0,Orthodox,990bd63726a577f8
+4132,Timmy Cuamba,Timmy,Cuamba,Twilight,1999-02-08,175.3,145.0,71.0,Orthodox,0e46690e55a8df75
+4133,Timo Feucht,Timo,Feucht,,1996-01-18,190.5,205.0,79.0,Orthodox,8c21eb9fd7c4c203
+4134,Timothy Johnson,Timothy,Johnson,,1985-03-13,190.5,265.0,77.0,Southpaw,cc900af167fbedfd
+4135,Timur Valiev,Timur,Valiev,Lucky,1990-01-19,167.6,135.0,67.0,Orthodox,45e738622ea2c02c
+4136,Tina Lahdemaki,Tina,Lahdemaki,Jelly Bean,1988-05-28,157.5,115.0,,Orthodox,e5ca2bc2451a5956
+4137,Tito Jones,Tito,Jones,,1981-07-31,172.7,145.0,,Southpaw,7b223a22a6c26868
+4138,Tito Ortiz,Tito,Ortiz,The People's Champ,1975-01-23,190.5,205.0,74.0,Orthodox,2f732dd9210d301f
+4139,Tobias Harila,Tobias,Harila,Bad Intention,1994-01-13,,,,,4d1e92b61bcef308
+4140,Toby Misech,Toby,Misech,2 Quick,1988-03-07,172.7,145.0,,Southpaw,3f87218a7aca84c4
+4141,Todd Brown,Todd,Brown,Bulldog,1976-12-13,180.3,205.0,,Orthodox,9b68bf67c5695185
+4142,Todd Butler,Todd,Butler,,,185.4,200.0,,Southpaw,3fed746acfd026dd
+4143,Todd Duffee,Todd,Duffee,,1985-12-06,190.5,260.0,78.0,Orthodox,bda04c573563cc2e
+4144,Todd Gouwenberg,Todd,Gouwenberg,,1974-09-25,185.4,205.0,,Orthodox,c44acf87e376c62b
+4145,Todd Lally,Todd,Lally,,,170.2,145.0,,Orthodox,7d06092326c52528
+4146,Todd Medina,Todd,Medina,El Tiburon,,177.8,193.0,,Southpaw,b60391da771deefe
+4147,Todd Moore,Todd,Moore,,1983-12-30,175.3,170.0,71.0,Southpaw,e31502e3f79d00c5
+4148,Tofiq Musayev,Tofiq,Musayev,,1989-12-15,175.3,155.0,69.0,Orthodox,ae81a3ac7b260411
+4149,Toki Matsui,Toki,Matsui,,1999-09-08,167.6,125.0,65.0,Orthodox,56cc76c55cee8410
+4150,Tokimitsu Ishizawa,Tokimitsu,Ishizawa,Kendo Ka Shin,1968-08-05,182.9,185.0,,Orthodox,f3155a94ca420126
+4151,Tokitaka Nakanishi,Tokitaka,Nakanishi,Toky,1996-07-28,167.6,135.0,66.0,Orthodox,eb9446a4f44e19cf
+4152,Tom Aaron,Tom,Aaron,,1978-07-13,,155.0,,,93fe7332d16c6ad9
+4153,Tom Aspinall,Tom,Aspinall,,1993-04-11,195.6,256.0,78.0,Orthodox,399afbabc02376b5
+4154,Tom Blackledge,Tom,Blackledge,,,,205.0,,Orthodox,2adb11835acd815b
+4155,Tom Breese,Tom,Breese,,1991-09-26,190.5,185.0,73.0,Southpaw,1588b787bda7b540
+4156,Tom DeBlass,Tom,DeBlass,,1982-05-14,182.9,185.0,,Orthodox,0bcfe2513cb3bc39
+4157,Tom Duquesnoy,Tom,Duquesnoy,Fire Kid,1993-06-21,170.2,135.0,68.0,Orthodox,e979c76341f19b22
+4158,Tom Egan,Tom,Egan,,,180.3,170.0,,Orthodox,eae4aec1a5a8ff01
+4159,Tom Erikson,Tom,Erikson,The Big Cat,,190.5,280.0,,Orthodox,7b9a85e5ff31ef47
+4160,Tom Gallicchio,Tom,Gallicchio,Da Tank,1986-09-23,177.8,170.0,,Southpaw,cc81c92fe2254935
+4161,Tom Lawlor,Tom,Lawlor,Filthy,1983-05-15,182.9,205.0,74.0,Southpaw,4d44f37107f01b9b
+4162,Tom Murphy,Tom,Murphy,,1974-11-19,188.0,227.0,,Southpaw,62918a2118de08b2
+4163,Tom Niinimaki,Tom,Niinimaki,Stoneface,1982-07-25,175.3,145.0,69.0,Orthodox,5fceb45939fc0c8a
+4164,Tom Nolan,Tom,Nolan,Big Train,2000-03-08,190.5,155.0,73.0,Southpaw,6c3b2525436cf5d4
+4165,Tom Sauer,Tom,Sauer,,1970-11-11,185.4,263.0,,,36ab6af06e312b41
+4166,Tom Tuggle,Tom,Tuggle,The Law,,188.0,250.0,,Orthodox,b9aa7d230865b5fe
+4167,Tom Watson,Tom,Watson,Kong,1982-07-13,185.4,185.0,73.0,Orthodox,6809c31286b08d97
+4168,Tomasz Drwal,Tomasz,Drwal,Gorilla,1982-01-22,185.4,205.0,76.0,Orthodox,679a9054e2815943
+4169,Tommy Cuozzi Jr.,Tommy,Cuozzi Jr.,Little T,1999-08-31,175.3,145.0,71.0,Orthodox,eb49fe2f85ae9526
+4170,Tommy Gantt,Tommy,Gantt,,1993-01-09,180.3,155.0,76.0,Orthodox,de83f920fd302871
+4171,Tommy Hayden,Tommy,Hayden,Wild Card,1986-03-11,175.3,145.0,,Southpaw,0871254cd790c250
+4172,Tommy Lee,Tommy,Lee,,1977-01-20,170.2,145.0,,Orthodox,806975e1b4f47b27
+4173,Tommy McMillen,Tommy,McMillen,Gun,1997-12-15,182.9,145.0,74.0,Orthodox,6b0a6def604de298
+4174,Tommy Petersen,Tommy,Petersen,,,,155.0,,,7aabd61419f747d1
+4175,Tommy Speer,Tommy,Speer,,1984-08-20,177.8,170.0,71.0,Orthodox,1411c630ba711b64
+4176,Tomohiko Hashimoto,Tomohiko,Hashimoto,,,182.9,250.0,,Orthodox,a890f9a791ed615d
+4177,Tomomi Iwama,Tomomi,Iwama,,,160.0,155.0,,Orthodox,ac5f67109accb482
+4178,Tomoya Miyashita,Tomoya,Miyashita,,,170.2,139.0,,Southpaw,c9885b1b7c7055a0
+4179,Tony Bonello,Tony,Bonello,The Gun,,188.0,185.0,,,702a72aa7a266d86
+4180,Tony DeSouza,Tony,DeSouza,,1974-07-26,182.9,170.0,70.0,Southpaw,6ad9058b7c7898b0
+4181,Tony Ferguson,Tony,Ferguson,El Cucuy,1984-02-12,180.3,170.0,76.0,Orthodox,22a92d7f62195791
+4182,Tony Fryklund,Tony,Fryklund,The Freak,1971-03-26,182.9,185.0,,Orthodox,253de74457bd6374
+4183,Tony Gravely,Tony,Gravely,,1991-09-28,165.1,135.0,69.0,Orthodox,601964f9654f911a
+4184,Tony Halme,Tony,Halme,,1963-01-06,190.5,300.0,,Orthodox,bad28b7b34f334de
+4185,Tony Johnson,Tony,Johnson,,1983-05-02,188.0,205.0,76.0,Orthodox,3641a0d117e9bc6c
+4186,Tony Johnson,Tony,Johnson,,,185.4,265.0,,,a45bab49951a45cd
+4187,Tony Juarez,Tony,Juarez,,,,155.0,,,97f3692d5444a80a
+4188,Tony Kelley,Tony,Kelley,Primetime,1987-01-21,175.3,135.0,70.0,Switch,1a08b01fdabb6ae2
+4189,Tony Petarra,Tony,Petarra,,,180.3,196.0,,Orthodox,c61f66d8c3fd5f07
+4190,Tony Sims,Tony,Sims,,1985-10-14,180.3,155.0,70.0,Southpaw,57bad6a84230f0c9
+4191,Tony Sylvester,Tony,Sylvester,,1978-01-27,185.4,225.0,,Southpaw,87b7df65c30008c4
+4192,Tonya Evinger,Tonya,Evinger,Triple Threat,1981-06-04,170.2,135.0,70.0,Orthodox,b12a1d19ee383b7c
+4193,Top Noi Kiwram,Top Noi,Kiwram,,1992-08-15,165.1,125.0,67.0,Southpaw,e065b4a42a6c2c79
+4194,Tor Troeng,Tor,Troeng,The Hammer,1983-01-25,188.0,185.0,,Orthodox,8abf70f79e9e27c2
+4195,Torrance Taylor,Torrance,Taylor,,,170.2,155.0,,,88e53ec16b801740
+4196,Torrez Finney,Torrez,Finney,The Punisher,1998-10-24,172.7,185.0,75.0,Orthodox,fbb60f24af5d5a02
+4197,Toshiomi Kazama,Toshiomi,Kazama,,1997-05-15,170.2,135.0,69.0,Orthodox,148bb103cfbf123e
+4198,Townsend Saunders,Townsend,Saunders,,,165.1,170.0,,Orthodox,20bd6c3e03c46ee6
+4199,Tra Telligman,Tra,Telligman,Trauma,1965-02-07,188.0,233.0,,Orthodox,1dab0d1d81dd06db
+4200,Tracy Cortez,Tracy,Cortez,,1993-12-10,165.1,125.0,65.0,Orthodox,68d4a891e5cf2029
+4201,Travis Browne,Travis,Browne,Hapa,1982-07-17,198.1,255.0,79.0,Orthodox,3236bf606fe9fa5b
+4202,Travis Calanoc,Travis,Calanoc,The Dark Knight,,172.7,145.0,,Orthodox,90d28fee0af74f2d
+4203,Travis Fulton,Travis,Fulton,The Ironman,1977-05-29,182.9,240.0,,Orthodox,911fb265462f0d94
+4204,Travis Galbraith,Travis,Galbraith,The Gladiator,1981-05-18,182.9,170.0,,Orthodox,06dc1a58663579d2
+4205,Travis Johnson,Travis,Johnson,,,,205.0,,,443835675e8fc6ca
+4206,Travis Lutter,Travis,Lutter,The Serial Killer,1973-05-12,180.3,185.0,75.0,Orthodox,622f015c81a9b13a
+4207,Travis Wiuff,Travis,Wiuff,The Diesel,1978-03-15,190.5,205.0,,Orthodox,7f9f528cb72a6ed1
+4208,Tre'ston Vines,Tre'ston,Vines,TVTime,1996-06-18,185.4,185.0,79.0,Orthodox,563a1d42bb0e3cef
+4209,Trenell Young,Trenell,Young,Savant,1976-06-19,167.6,145.0,,Orthodox,bf5183e1c1afc3b2
+4210,Trent Jenkins,Trent,Jenkins,,,188.0,185.0,,,02fc8f50f56eb307
+4211,Trent Miller,Trent,Miller,The Terminator,1995-10-31,175.3,185.0,72.0,Orthodox,2b6a37a97541a4fd
+4212,Tresean Gore,Tresean,Gore,Mr. Vicious,1994-06-21,182.9,185.0,75.0,Switch,147e70aa6cc48cfc
+4213,Treston Thomison,Treston,Thomison,,,172.7,145.0,,,ed5f04f833459877
+4214,Trevin Giles,Trevin,Giles,,1992-08-06,182.9,170.0,74.0,Orthodox,b27a1fcb56a3035a
+4215,Trevin Jones,Trevin,Jones,5 Star,1990-08-04,170.2,135.0,70.0,Southpaw,ec23c1be628d8057
+4216,Trevor Harris,Trevor,Harris,,,167.6,145.0,,,0e98b05d3cf6d271
+4217,Trevor Peek,Trevor,Peek,,1995-01-09,175.3,145.0,70.0,Switch,0bc697c5936a2d0a
+4218,Trevor Prangley,Trevor,Prangley,,1972-08-24,185.4,185.0,75.0,Orthodox,f5ff7bcdcfeba3ad
+4219,Trevor Smith,Trevor,Smith,Hot Sauce,1981-01-05,190.5,185.0,75.0,Orthodox,f797f0c57a83353e
+4220,Trey Houston,Trey,Houston,,,180.3,185.0,,,c6668eeb261588d3
+4221,Trey Ogden,Trey,Ogden,Shamurai,1989-11-14,180.3,155.0,72.0,Orthodox,cfc3e7bb44685289
+4222,Trey Waters,Trey,Waters,The Truth,1995-02-21,195.6,170.0,77.0,Orthodox,31dbfbe4e7a6727c
+4223,Tristan Arenal,Tristan,Arenal,,,,155.0,,,9c9455912d917e4e
+4224,Tristan Connelly,Tristan,Connelly,Boondock,1985-12-12,177.8,145.0,68.0,Orthodox,2ebfbe72ed703925
+4225,Troy Mandaloniz,Troy,Mandaloniz,Rude Boy,1980-02-01,175.3,170.0,,Orthodox,725a834930c2b5bf
+4226,Tsuyoshi Kohsaka,Tsuyoshi,Kohsaka,TK,1970-03-06,180.3,225.0,,Orthodox,b76ed59283d3559c
+4227,Tsuyoshi Kurihara,Tsuyoshi,Kurihara,,1973-07-13,177.8,185.0,,Orthodox,032b65d5fff611b2
+4228,Tsuyoshi Tamakairiki,Tsuyoshi,Tamakairiki,,,182.9,220.0,,Orthodox,eaa0a728cc91ef60
+4229,Tucker Lutz,Tucker,Lutz,Top Gun,1994-07-12,172.7,145.0,72.0,Orthodox,7832f2f62f04178f
+4230,Tuco Tokkos,Tuco,Tokkos,,1990-06-30,193.0,205.0,76.0,Orthodox,3e8118c1ab52f211
+4231,Tulio Palhares,Tulio,Palhares,,,,180.0,,,e8c170a64dc920ac
+4232,Turrell Galloway,Turrell,Galloway,,,160.0,145.0,,,7e654edcddd71550
+4233,Ty Flores,Ty,Flores,Big Medicine,1993-12-22,190.5,205.0,73.0,Switch,4bb0f74d5e26f89a
+4234,Ty Miller,Ty,Miller,Thriller,2000-06-04,188.0,170.0,77.0,Orthodox,0859524157a19045
+4235,Tyler Diamond,Tyler,Diamond,,1991-03-18,170.2,145.0,69.0,Orthodox,f5f6419c5f00abad
+4236,Tyler Hill,Tyler,Hill,,1991-08-10,190.5,170.0,,Switch,006efbb0c1621fd7
+4237,Tyler Stinson,Tyler,Stinson,The Evolution,1986-01-17,190.5,170.0,,,2cf520143e76cd2e
+4238,Tyler Toner,Tyler,Toner,,1983-03-31,172.7,145.0,70.0,Orthodox,8e893f269d5696b2
+4239,Tyra Parker,Tyra,Parker,,,165.1,115.0,,Orthodox,64be3dc99eaa42b6
+4240,Tyrell Fortune,Tyrell,Fortune,,2004-10-19,,125.0,,,bc7f4b2d4c2724a2
+4241,Tyron Woodley,Tyron,Woodley,The Chosen One,1982-04-07,175.3,170.0,74.0,Orthodox,effd9de9937996f8
+4242,Tyrone Roberts,Tyrone,Roberts,Native Warrior,,175.3,185.0,,Orthodox,d1e6a6536ee62517
+4243,Tyson Griffin,Tyson,Griffin,,1984-04-20,167.6,145.0,68.0,Orthodox,20205040232ed0f3
+4244,Tyson Nam,Tyson,Nam,,1983-10-06,170.2,125.0,68.0,Orthodox,6e00cfffd54653c4
+4245,Tyson Pedro,Tyson,Pedro,,1991-09-17,190.5,205.0,79.0,Orthodox,49e96ff8ab781589
+4246,Ulysses Gomez,Ulysses,Gomez,Useless,1983-05-25,167.6,125.0,,Orthodox,1e35aa8955794580
+4247,Umar Nurmagomedov,Umar,Nurmagomedov,,1996-01-03,172.7,135.0,69.0,Orthodox,2b6fc1c02736833d
+4248,Uran Satybaldiev,Uran,Satybaldiev,Gorilla,1994-08-10,193.0,205.0,79.0,Orthodox,02f484417a6fa69d
+4249,Uriah Hall,Uriah,Hall,Prime Time,1984-07-31,182.9,185.0,79.0,Orthodox,65578a75fa7900e3
+4250,Urijah Faber,Urijah,Faber,The California Kid,1979-05-14,167.6,135.0,67.0,Orthodox,78114b7199cef90c
+4251,Uros Medic,Uros,Medic,The Doctor,1993-04-25,185.4,170.0,71.0,Southpaw,681399317dbf4701
+4252,Vadym Kutsyi,Vadym,Kutsyi,,1991-07-18,182.9,170.0,71.0,Orthodox,aeb2bcd4371f40d5
+4253,Vagner Rocha,Vagner,Rocha,Ceara,1982-06-06,177.8,155.0,73.0,Orthodox,d403b1a6f278c95e
+4254,Val Woodburn,Val,Woodburn,The Animal,1993-08-10,172.7,170.0,74.0,Orthodox,7a47e068f8017019
+4255,Valentijn Overeem,Valentijn,Overeem,,1976-08-17,190.5,230.0,,Orthodox,20e403a1acfef130
+4256,Valentina Shevchenko,Valentina,Shevchenko,Bullet,1988-03-07,165.1,125.0,66.0,Southpaw,132deb59abae64b1
+4257,Valeri Ignatov,Valeri,Ignatov,,,175.3,170.0,,Orthodox,7b6ce3a9460565b5
+4258,Valerie Letourneau,Valerie,Letourneau,Trouble,1983-04-29,170.2,115.0,68.0,Orthodox,46a2f24feb258ae0
+4259,Valesca Machado,Valesca,Machado,Tina Black,1996-05-06,162.6,115.0,63.0,Orthodox,a1a91dbf41a029c4
+4260,Valmir Lazaro,Valmir,Lazaro,Bidu,1985-08-15,182.9,155.0,73.0,Orthodox,777dea713da2441d
+4261,Valter Walker,Valter,Walker,The Clean Monster,1997-12-14,198.1,265.0,78.0,Orthodox,f5779a2303ed76ec
+4262,Vanessa Demopoulos,Vanessa,Demopoulos,Lil Monster,1988-09-22,157.5,125.0,59.0,Orthodox,2c483cf443f38ece
+4263,Vanessa Melo,Vanessa,Melo,,1988-03-27,165.1,135.0,65.0,Orthodox,9b7dfb3b7d99926a
+4264,Vanilto Antunes,Vanilto,Antunes,,1994-12-28,182.9,170.0,72.0,Orthodox,cc49ada1ea955b13
+4265,Vaughan Lee,Vaughan,Lee,,1982-10-15,167.6,125.0,66.0,Orthodox,8bb6f4479685bbcc
+4266,Vernon Ramos Ho,Vernon,Ramos Ho,,1992-06-03,167.6,170.0,,Orthodox,30b577b112bef42d
+4267,Vernon White,Vernon,White,Tiger,1971-12-03,182.9,205.0,,Southpaw,12458872d6afae1b
+4268,Veronica Hardy,Veronica,Hardy,,1995-10-30,162.6,125.0,64.0,Southpaw,4798e823ada58fe9
+4269,Veta Arteaga,Veta,Arteaga,,,170.2,125.0,,,91e3388e69060e69
+4270,Viacheslav Borshchev,Viacheslav,Borshchev,Slava Claus,1992-01-08,180.3,155.0,69.0,Orthodox,19c591115a58982c
+4271,Vicente Luque,Vicente,Luque,The Silent Assassin,1991-11-27,180.3,170.0,75.0,Orthodox,6d4b63c767106d3a
+4272,Victor Altamirano,Victor,Altamirano,El Magnifico,1991-01-23,172.7,125.0,70.0,Switch,dc7927cd622676a7
+4273,Victor Dias,Victor,Dias,Crazy Horse,1990-12-26,167.6,125.0,69.0,Orthodox,f7202b3130421d27
+4274,Victor Henry,Victor,Henry,La Mangosta,1987-05-04,170.2,135.0,68.0,Switch,eb8d8c2a95cfccb8
+4275,Victor Hugo,Victor,Hugo,Striker,1992-11-22,170.2,135.0,71.0,Orthodox,f264ba50b007f39e
+4276,Victor Jones,Victor,Jones,,,,145.0,,,04f0471f221db717
+4277,Victor Madrigal,Victor,Madrigal,Periquito,1990-08-16,170.2,135.0,71.0,Orthodox,cc63a5f0089d8ba9
+4278,Victor Martinez,Victor,Martinez,The Brick,1991-07-17,172.7,155.0,70.0,Orthodox,3e708ce33b6b18e6
+4279,Victor Reyna,Victor,Reyna,Kelevra,1986-08-05,180.3,170.0,74.0,Southpaw,e9bbcc6530e4cbe6
+4280,Victor Rodriguez,Victor,Rodriguez,Vicious,1992-09-05,165.1,125.0,67.0,Switch,f6e5972c9d16c40e
+4281,Victor Valenzuela,Victor,Valenzuela,Psicosis,1994-02-09,,170.0,,,078695e385ec2f57
+4282,Victor Valenzuela,Victor,Valenzuela,Joe Boxer,,177.8,155.0,,,de277a4abcfeea46
+4283,Victor Valimaki,Victor,Valimaki,The Matrix,,182.9,205.0,,Orthodox,663b76da637402c3
+4284,Victoria Leonardo,Victoria,Leonardo,Fury,1990-02-16,165.1,125.0,64.0,Orthodox,9dedfdd91070ddd8
+4285,Vik Grujic,Vik,Grujic,The Spartan,1977-02-06,180.3,170.0,73.0,Orthodox,1e7483dbff40b84b
+4286,Viktor Pesta,Viktor,Pesta,,1990-07-15,190.5,240.0,77.0,Orthodox,202b0467521c9d6f
+4287,Viktoriia Dudakova,Viktoriia,Dudakova,,1999-01-26,165.1,115.0,67.0,Orthodox,6c9b66b43663f2f7
+4288,Vinc Pichel,Vinc,Pichel,From Hell,1982-11-23,177.8,155.0,72.0,Orthodox,c77a953488e5607d
+4289,Vince Cachero,Vince,Cachero,The Anomaly,1989-11-07,167.6,145.0,68.0,Orthodox,ed2a8cc402173781
+4290,Vince Morales,Vince,Morales,Vandetta,1990-11-12,170.2,135.0,70.0,Orthodox,37098a6e6c27fb66
+4291,Vince Murdock,Vince,Murdock,,1991-03-21,167.6,145.0,64.0,Orthodox,4b90384d7c3519b8
+4292,Vincent Eazelle,Vincent,Eazelle,The Real Deal,1980-12-07,180.3,155.0,,,ec421d5de0aea624
+4293,Vinicius Cenci,Vinicius,Cenci,Chambinho,1995-11-24,185.4,155.0,74.0,Orthodox,f21a152aaa3e95c6
+4294,Vinicius Magalhaes,Vinicius,Magalhaes,Draculinho,1971-07-30,,145.0,,,1b583c64c23f0c7f
+4295,Vinicius Moreira,Vinicius,Moreira,Mamute,1989-02-28,193.0,205.0,76.0,Orthodox,acb36c908d415c4a
+4296,Vinicius Oliveira,Vinicius,Oliveira,LokDog,1995-11-30,175.3,135.0,70.0,Switch,18d01f7f8338ae72
+4297,Vinicius Queiroz,Vinicius,Queiroz,Spartan,1983-08-29,200.7,220.0,,Orthodox,2a8502954f49e682
+4298,Vinicius Salvador,Vinicius,Salvador,,1996-07-24,170.2,135.0,70.0,Southpaw,65cdf4ec31143d86
+4299,Vinny Magalhaes,Vinny,Magalhaes,Pezao,1984-07-02,190.5,205.0,75.0,Orthodox,88a9bc81271ccd89
+4300,Virgil Zwicker,Virgil,Zwicker,RezDog,1982-06-26,188.0,205.0,74.0,,0c277f3ff66b0208
+4301,Virna Jandiroba,Virna,Jandiroba,Carcara,1988-05-30,160.0,115.0,64.0,Orthodox,7dda2cf308f24a02
+4302,Viscardi Andrade,Viscardi,Andrade,,1984-03-08,180.3,170.0,75.0,Orthodox,d221ee27afc7a60e
+4303,Vitaly Minakov,Vitaly,Minakov,,1985-02-06,188.0,249.0,,,56c975c4a2b357a5
+4304,Vitor Belfort,Vitor,Belfort,The Phenom,1977-04-01,182.9,185.0,74.0,Southpaw,0ee783aa00e468f0
+4305,Vitor Costa,Vitor,Costa,,2000-09-19,188.0,185.0,75.0,Orthodox,c41cbb5bf944ca54
+4306,Vitor Miranda,Vitor,Miranda,Lex Luthor,1979-03-10,185.4,185.0,77.0,Orthodox,4bcb6eb12b4ad4aa
+4307,Vitor Petrino,Vitor,Petrino,,1997-08-28,188.0,265.0,77.0,Orthodox,71171fc96445bf65
+4308,Vitor Ribeiro,Vitor,Ribeiro,Shaolin,1979-02-24,172.7,154.0,,Orthodox,a757c06bbdba61d2
+4309,Vitor Vianna,Vitor,Vianna,,,,205.0,,Orthodox,744f50016c39c26c
+4310,Viviane Araujo,Viviane,Araujo,Vivi,1986-11-21,162.6,125.0,68.0,Orthodox,36541f1e6c5d4955
+4311,Viviane Pereira,Viviane,Pereira,Sucuri,1993-08-28,154.9,115.0,63.0,Orthodox,d50382dc0565a9e1
+4312,Vladimir Matyushenko,Vladimir,Matyushenko,The Janitor,1971-01-04,182.9,205.0,74.0,Orthodox,ccdd90bd1fc7dab6
+4313,Volkan Oezdemir,Volkan,Oezdemir,No Time,1989-09-19,188.0,205.0,75.0,Orthodox,0845c81e37d3bcb3
+4314,Waachiim Spiritwolf,Waachiim,Spiritwolf,Native Warrior,,172.7,170.0,,,71caa995674203aa
+4315,Wade Shipp,Wade,Shipp,The Nightmare,1975-02-09,190.5,245.0,,Orthodox,a9a314cc77d90b6e
+4316,Wagner Campos,Wagner,Campos,Galeto,1981-07-31,167.6,145.0,,Southpaw,db6d5f691aea3fd3
+4317,Wagner Prado,Wagner,Prado,Caldeirao,1986-12-30,182.9,205.0,74.0,Southpaw,7f6ef4e1227600bc
+4318,Wagner Silva,Wagner,Silva,Wagnao,1987-02-07,182.9,170.0,,Orthodox,fb79582c410d049e
+4319,Wagner da Conceicao Martins,Wagner da Conceicao,Martins,Zuluzinho,1978-05-19,200.7,390.0,,Orthodox,563d051c9e769b24
+4320,Wagnney Fabiano,Wagnney,Fabiano,The Silencer,1975-07-14,167.6,145.0,69.0,Southpaw,40389d39a92f5bfa
+4321,Waldo Cortes Acosta,Waldo,Cortes Acosta,Salsa Boy,1991-10-03,193.0,260.0,78.0,Orthodox,fc08099550072fe4
+4322,Walel Watson,Walel,Watson,The Gazelle,1984-07-16,180.3,135.0,75.0,Orthodox,92aafa8f4b26269b
+4323,Wallen Del Rosario,Wallen,Del Rosario,,1993-03-18,162.6,125.0,67.0,Orthodox,a62f85f6a6c19a4c
+4324,Wallid Ismail,Wallid,Ismail,,1968-02-23,170.2,205.0,,Orthodox,da6dfd09cca1d705
+4325,Walt Harris,Walt,Harris,The Big Ticket,1983-06-10,195.6,250.0,77.0,Southpaw,03f982ca3735070c
+4326,Walter Smith-Cotito,Walter,Smith-Cotito,,,172.7,135.0,,,625b65b45c1c6888
+4327,Wanderlei Silva,Wanderlei,Silva,The Axe Murderer,1976-07-03,180.3,205.0,74.0,Orthodox,a1f6999fe57236e0
+4328,Wang Cong,Wang,Cong,The Joker,1992-05-15,167.6,125.0,66.0,Southpaw,2997e7fe3c9d3d4a
+4329,Wang Guan,Wang,Guan,The Dongbei Tiger,1986-03-14,175.3,145.0,71.0,Orthodox,dd12382f28296f7b
+4330,War Machine,War,Machine,,1981-11-30,180.3,170.0,,Orthodox,cd7bafbeee1f29a0
+4331,Warlley Alves,Warlley,Alves,,1991-01-04,180.3,185.0,72.0,Orthodox,d317a5e2b3f88c5f
+4332,Wataru Sakata,Wataru,Sakata,,1973-03-11,175.3,195.0,,Southpaw,d7907a9a968e4d29
+4333,Wataru Yamauchi,Wataru,Yamauchi,,1999-06-22,167.6,125.0,68.0,Orthodox,d8bf3df51ff3a270
+4334,Waylon Kennell,Waylon,Kennell,,,182.9,185.0,,,9b8a73b59be8d786
+4335,Waylon Lowe,Waylon,Lowe,,1980-10-31,170.2,145.0,,Southpaw,28f62d866c59c709
+4336,Wayne Cole,Wayne,Cole,,,185.4,205.0,,Orthodox,2eab7a6c8b0ed8cc
+4337,Wayne Phillips,Wayne,Phillips,,1983-06-17,,185.0,,,09a82bd51ff61376
+4338,Wellington Turman,Wellington,Turman,The Prodigy,1996-07-22,182.9,170.0,72.0,Orthodox,4dcfb28c011c11b2
+4339,Wendell Oliveira Marques,Wendell,Oliveira Marques,The Machine,1983-06-01,177.8,170.0,,Orthodox,32c03df3c9760069
+4340,Wes Albritton,Wes,Albritton,,,177.8,188.0,,Orthodox,184b955181bdef52
+4341,Wes Combs,Wes,Combs,The Soldier,1973-06-18,188.0,205.0,,Orthodox,a85998eb79650b2c
+4342,Wes Schultz,Wes,Schultz,Party Time,1996-08-09,188.0,185.0,77.0,Orthodox,b4443fae47e7eb9d
+4343,Wes Shivers,Wes,Shivers,,,203.2,,,,ad863b0d57952c57
+4344,Wes Sims,Wes,Sims,The Project,1979-08-04,208.3,260.0,,Orthodox,e0f7c4f3f67bc808
+4345,Wesley Correira,Wesley,Correira,Cabbage,1978-11-11,190.5,260.0,,Orthodox,4e9fb05d7e5e61b8
+4346,Wesley Little,Wesley,Little,,,193.0,205.0,,,008c6e1a25751575
+4347,Westin Wilson,Westin,Wilson,,1989-01-24,185.4,145.0,73.0,Southpaw,7b3503352cd53abb
+4348,Will Brooks,Will,Brooks,Ill,1986-10-08,177.8,155.0,72.0,Orthodox,b6e6c3b1dcaae0a1
+4349,Will Campuzano,Will,Campuzano,,1986-05-27,175.3,125.0,70.0,Orthodox,901cddcbfa079097
+4350,Will Chope,Will,Chope,The Kill,1990-09-08,193.0,145.0,,Switch,db5dc7cb80d7d418
+4351,Will Currie,Will,Currie,Drago,1998-11-12,190.5,185.0,76.0,Switch,b8ff02d5703eca3a
+4352,Will Kerr,Will,Kerr,,1982-10-21,177.8,155.0,69.0,Orthodox,ef61d9f5176b3200
+4353,Will Ribeiro,Will,Ribeiro,,1983-02-17,172.7,135.0,,Orthodox,8f4616698508f24d
+4354,Will Santiago,Will,Santiago,The Brown Bomber,1983-02-08,170.2,185.0,,Orthodox,4920292f5d9b76df
+4355,Willamy Freire,Willamy,Freire,Chiquerim,1987-07-28,172.7,155.0,,Orthodox,f1f37d667bcd0d27
+4356,William Gomis,William,Gomis,Jaguar,1997-06-13,182.9,145.0,73.0,Southpaw,e1d40e8782d80bc2
+4357,William Knight,William,Knight,Knightmare,1988-04-03,177.8,205.0,73.0,Orthodox,5da33b8fbfa5ee95
+4358,William Macario,William,Macario,Patolino,1991-07-01,180.3,170.0,75.0,Orthodox,ed74afc8b5b47a61
+4359,Willian Colorado,Willian,Colorado,,1986-06-21,177.8,135.0,72.0,,dfc7f0a2d91ad337
+4360,Willie Gates,Willie,Gates,,1987-01-21,172.7,125.0,72.0,Orthodox,6ded9184b2284645
+4361,Willie Parks,Willie,Parks,Slick,1983-11-04,177.8,185.0,,,86ad0ae839331bd7
+4362,Willie Peeters,Willie,Peeters,,1965-10-26,175.3,220.0,,Orthodox,e7bfdb5e0112891e
+4363,Wilson Gouveia,Wilson,Gouveia,,1978-10-03,185.4,185.0,76.0,Orthodox,af5b208e97f5d382
+4364,Wilson Reis,Wilson,Reis,,1985-01-06,162.6,125.0,65.0,Southpaw,5aedf14771ca82d2
+4365,Windri Patilima,Windri,Patilima,,1993-07-19,167.6,155.0,71.0,Southpaw,66d42e9503fa108e
+4366,Won Jin Eoh,Won Jin,Eoh,,,170.2,160.0,,Orthodox,bc7cf284c1c2f16e
+4367,Won Sik Park,Won Sik,Park,Parky,,180.3,154.0,,Orthodox,9df394db5ca103eb
+4368,WonBin Ki,WonBin,Ki,The Danger,1991-02-11,180.3,155.0,73.0,Orthodox,aaeb55084b198a39
+4369,Wu Yanan,Wu,Yanan,Mulan,1996-04-18,172.7,135.0,66.0,Orthodox,fdbefee0827e1567
+4370,Wulijiburen,,Wulijiburen,Beast Master,1989-03-01,175.3,135.0,69.0,Orthodox,2296125b6c362355
+4371,Wuziazibieke Jiahefu,Wuziazibieke,Jiahefu,Prairie Kitty,1990-04-09,175.3,145.0,70.0,Orthodox,2d077e22886298be
+4372,Xavier Foupa-Pokam,Xavier,Foupa-Pokam,Professor X,1982-07-03,185.4,185.0,,Open Stance,ec33146e43e58933
+4373,Xavier Franklin,Xavier,Franklin,Mr. Benjamin,1996-10-15,167.6,135.0,66.0,Southpaw,90957a918e26bf9c
+4374,Xavier Siller,Xavier,Siller,Young Guns,1994-06-06,165.1,125.0,,,9a08c2753184ac6d
+4375,Xiao Long,Xiao,Long,,1998-04-13,172.7,135.0,70.0,Orthodox,86bace9e4ad85542
+4376,Xie Bin,Xie,Bin,The Stalker,1998-02-28,177.8,145.0,72.0,Orthodox,e415ea6f8d41c917
+4377,Xiong Jingnan,Xiong,Jingnan,The Panda,1988-01-12,,115.0,,,2cdb479a0ef0ee1d
+4378,Xue Do Won,Xue Do,Won,,,170.2,165.0,,,daa89f01e1c0f42a
+4379,Yadier del Valle,Yadier,del Valle,The Cuban Problem,1996-07-29,175.3,145.0,69.0,Southpaw,70380ccdc81915b8
+4380,Yair Rodriguez,Yair,Rodriguez,El Pantera,1992-10-06,180.3,145.0,71.0,Orthodox,cbf5e6f231b55443
+4381,Yamato Nishikawa,Yamato,Nishikawa,,2002-12-06,170.2,155.0,,Orthodox,7beecbe0a08cf002
+4382,Yan Cabral,Yan,Cabral,,1983-05-13,180.3,155.0,73.0,Orthodox,7cdd3e5d3aa9cb39
+4383,Yan Pellerin,Yan,Pellerin,Wild Thing,,180.3,205.0,,Orthodox,bfe95ec546692b13
+4384,Yan Qihui,Yan,Qihui,Queen Kong,1996-10-21,160.0,125.0,62.0,Orthodox,5c9c2e247c836b67
+4385,Yan Xiaonan,Yan,Xiaonan,,1989-06-16,165.1,115.0,63.0,Orthodox,c41d426cc7326d1b
+4386,Yana Santos,Yana,Santos,,1989-11-11,167.6,135.0,68.0,Orthodox,3143bf892608139a
+4387,Yanal Ashmouz,Yanal,Ashmouz,Red Fox,1995-03-31,175.3,155.0,69.0,Orthodox,c739c2995a275314
+4388,Yancy Medeiros,Yancy,Medeiros,,1987-09-07,177.8,155.0,75.0,Orthodox,813550bc53b15fb0
+4389,Yanis Ghemmouri,Yanis,Ghemmouri,The Desert Warrior,1995-01-24,175.3,135.0,69.0,Orthodox,eb70e786bbdf1d16
+4390,Yao Zhikui,Yao,Zhikui,The Conqueror,1991-02-07,165.1,125.0,64.0,Orthodox,5ea918ea81b7dee2
+4391,Yaotzin Meza,Yaotzin,Meza,,1981-02-04,175.3,145.0,71.0,Orthodox,3623bd267a2eef2e
+4392,Yaroslav Amosov,Yaroslav,Amosov,,1993-09-09,,185.0,,,f139d6836efd43dd
+4393,Yasuhiro Urushitani,Yasuhiro,Urushitani,,1976-09-08,165.1,125.0,,Southpaw,c34e5849184b08c3
+4394,Yasuhito Namekawa,Yasuhito,Namekawa,,1974-10-27,175.3,205.0,,Orthodox,6083f497c22cc075
+4395,Yazan Hajeh,Yazan,Hajeh,Yazzle Dazzle,1992-09-04,175.3,145.0,,Orthodox,4955c524c2a71469
+4396,Yazmin Jauregui,Yazmin,Jauregui,,1999-02-28,160.0,115.0,64.0,Orthodox,40cb680ae1cd331f
+4397,YeDam Seo,YeDam,Seo,,1992-03-20,160.0,115.0,63.0,Orthodox,762572d67204fadb
+4398,Yi Sak Lee,Yi Sak,Lee,,2000-01-01,,185.0,,,e6666480a830f764
+4399,Yibugele,,Yibugele,Eagle,1989-11-13,170.2,145.0,69.0,Southpaw,cc2fcae2c0dc501d
+4400,Yin Shuai,Yin,Shuai,Black Panther,1997-01-01,165.1,125.0,66.0,Southpaw,a78dc3910554dbae
+4401,Yizha,,Yizha,,1997-01-08,170.2,145.0,71.0,Orthodox,3f11fd1751fa83b1
+4402,Yoel Romero,Yoel,Romero,Soldier of God,1977-04-30,182.9,185.0,73.0,Southpaw,f77c68bb4be8516d
+4403,Yohan Banks,Yohan,Banks,,,,,,,c50ea21fe9ef478d
+4404,Yohan Lainesse,Yohan,Lainesse,White Lion,1992-08-14,185.4,170.0,76.0,Orthodox,f998f5c102250d6e
+4405,Yoislandy Izquierdo,Yoislandy,Izquierdo,Cuba,1984-01-09,180.3,155.0,,Southpaw,afc2a7ce0c763bd5
+4406,Yoji Anjo,Yoji,Anjo,Mr. 200%,1967-03-28,180.3,205.0,,Orthodox,e06fd1260ac865a7
+4407,Yoko Takahashi,Yoko,Takahashi,,1973-04-20,172.7,150.0,,,01f86e2d604e2f3c
+4408,Yokthai Sithoar,Yokthai,Sithoar,,1974-12-25,170.2,143.0,,,436cdea7bdfdc016
+4409,Yorgan De Castro,Yorgan,De Castro,The Mad Titan,1986-12-19,182.9,250.0,74.0,Orthodox,1eff7bc0f815b270
+4410,Yosdenis Cedeno,Yosdenis,Cedeno,Pink Panther,1985-02-12,172.7,155.0,69.0,Orthodox,3e61082025db8137
+4411,Yoshiaki Yatsu,Yoshiaki,Yatsu,,1956-07-19,185.4,165.0,,Orthodox,620be7e0712d431b
+4412,Yoshihiro Akiyama,Yoshihiro,Akiyama,,1975-07-29,177.8,170.0,75.0,Orthodox,b0550072e5f0afa7
+4413,Yoshihiro Nakao,Yoshihiro,Nakao,Kiss,1972-06-25,182.9,220.0,,Southpaw,e18012194473e8b0
+4414,Yoshihiro Takayama,Yoshihiro,Takayama,,1968-09-19,195.6,280.0,,Orthodox,d856a0080ac09ed7
+4415,Yoshihisa Yamamoto,Yoshihisa,Yamamoto,,1970-07-04,188.0,220.0,,Southpaw,eed2b71d77d95416
+4416,Yoshiki Takahashi,Yoshiki,Takahashi,Kazuo,1969-03-13,180.3,199.0,,Southpaw,6420efac0578988b
+4417,Yoshinori Horie,Yoshinori,Horie,,1995-05-10,172.7,145.0,70.0,Orthodox,3fa7688bfe48a493
+4418,Yoshiro Maeda,Yoshiro,Maeda,,1981-10-31,170.2,139.0,68.0,Southpaw,a4bf17bd3ba3423b
+4419,Yoshiyuki Yoshida,Yoshiyuki,Yoshida,Zenko,1974-05-10,180.3,170.0,70.0,Southpaw,ab8900ae1f1dfd4c
+4420,Yosuke Nishijima,Yosuke,Nishijima,,1973-05-15,175.3,205.0,,Orthodox,5cde96e0a1a1fffe
+4421,Youmin Shin,Youmin,Shin,,,,135.0,,,b94ac19bad67a389
+4422,Young Hwang,Young,Hwang,,1988-09-02,175.3,135.0,,,8588d14c4952b9fa
+4423,Young Sam Jung,Young Sam,Jung,,1985-10-27,172.7,139.0,,Orthodox,13104eaed3ae96c3
+4424,YoungJae Song,YoungJae,Song,Super Rookie,1996-01-03,170.2,145.0,70.0,Orthodox,0efb0d4ebb950fcb
+4425,Yousri Belgaroui,Yousri,Belgaroui,,1992-06-02,195.6,185.0,79.0,Orthodox,7674b836ce0698a0
+4426,Youssef Zalal,Youssef,Zalal,The Moroccan Devil,1996-09-04,177.8,145.0,72.0,Switch,52c2ae6d2f2d2613
+4427,Yudi Cahyadi,Yudi,Cahyadi,Sanda,,,145.0,,,8c457cf7da551d4b
+4428,Yuele Huang,Yuele,Huang,,2000-07-04,,145.0,,,1c8b9f4d89b92e1b
+4429,Yuhi Sano,Yuhi,Sano,,1965-02-02,180.3,243.0,,Orthodox,4c12aa7ca246e7a4
+4430,Yui Chul Nam,Yui Chul,Nam,The Korean Bulldozer,1981-07-16,175.3,145.0,,Orthodox,a00ec21cfbba17b6
+4431,Yuito Yanagawa,Yuito,Yanagawa,,2000-10-16,,145.0,,,7c592bf20095fd17
+4432,Yuji Ephoevi-Ga,Yuji,Ephoevi-Ga,The Chef,1999-10-19,182.9,155.0,75.0,Switch,919fc4bc3edf4de7
+4433,Yuji Hisamatsu,Yuji,Hisamatsu,,1971-09-18,177.8,185.0,,,8332a607df696345
+4434,Yuji Nagata,Yuji,Nagata,,1968-04-24,182.9,225.0,,Orthodox,e49c2db95e572dc8
+4435,Yuki Ishikawa,Yuki,Ishikawa,,,180.3,205.0,,Orthodox,119ebea97e914dcf
+4436,Yuki Kondo,Yuki,Kondo,,1975-07-17,180.3,183.0,,Southpaw,1fe7adb23b3eedfb
+4437,Yuki Sasaki,Yuki,Sasaki,,1976-09-12,188.0,185.0,,Orthodox,e5c38954c006f15c
+4438,Yukio Sakaguchi,Yukio,Sakaguchi,,1973-07-26,175.3,185.0,,Orthodox,94a5aaf573f780ad
+4439,Yukiya Naito,Yukiya,Naito,,,185.4,205.0,,Orthodox,7be328bb3c2ea22e
+4440,Yuma Horiuchi,Yuma,Horiuchi,Ichiban,1997-09-22,167.6,125.0,67.0,Switch,f6c1ce7cfd600662
+4441,YunSeong Jang,YunSeong,Jang,,2002-11-04,182.9,170.0,72.0,Orthodox,c7b0081edfef4bc7
+4442,Yuneisy Duben,Yuneisy,Duben,,1996-07-08,162.6,125.0,65.0,Orthodox,c3d2b9bcb4cead6b
+4443,Yunosuke Minami,Yunosuke,Minami,,2000-09-10,,135.0,,,9f2c07bd65fde55c
+4444,Yura Naito,Yura,Naito,2 FACE,1996-04-26,182.9,185.0,74.0,Orthodox,50c469e0cb73be10
+4445,Yuri Panferov,Yuri,Panferov,The Russian Polar Bear,1996-08-30,185.4,185.0,72.0,Orthodox,36d811b015635b67
+4446,Yuri Vaulin,Yuri,Vaulin,,,193.0,197.0,,Southpaw,4679a38cced7c64a
+4447,Yuri Villefort,Yuri,Villefort,,1991-03-23,182.9,170.0,73.0,Orthodox,0fb1e2694a39a02f
+4448,Yurij Kiseliov,Yurij,Kiseliov,Playboy,,172.7,185.0,,Orthodox,51d2aaaca56e5b40
+4449,Yusaku Kinoshita,Yusaku,Kinoshita,,2000-08-21,182.9,170.0,71.0,Southpaw,21b5c82c1b89dab1
+4450,Yusaku Nakamura,Yusaku,Nakamura,,1986-06-21,165.1,145.0,,,03e8df49c4a059ba
+4451,Yushin Okami,Yushin,Okami,Thunder,1981-07-21,188.0,170.0,75.0,Southpaw,acff437707625fc7
+4452,Yusuke Imamura,Yusuke,Imamura,,,172.7,220.0,,Orthodox,2ce6541127b0e232
+4453,Yusuke Kasuya,Yusuke,Kasuya,,1989-11-16,170.2,155.0,,Southpaw,3058888c33149a53
+4454,Yusuke Kawaguchi,Yusuke,Kawaguchi,,1980-08-14,182.9,255.0,,,fa2320781bfe4f49
+4455,Yusup Saadulaev,Yusup,Saadulaev,Maestro,1985-03-31,167.6,135.0,,,b1669a810fae4220
+4456,Yuta Sasaki,Yuta,Sasaki,Ulka,1989-10-07,177.8,125.0,71.0,Southpaw,7c3c48cf54a2848e
+4457,Yuya Shirai,Yuya,Shirai,,1980-04-02,172.7,168.0,,Orthodox,a79bfbc01b2264d6
+4458,Yves Edwards,Yves,Edwards,,1976-09-30,175.3,155.0,73.0,Southpaw,5f04e3d58d9ce982
+4459,Yves Jabouin,Yves,Jabouin,Tiger,1979-05-30,170.2,135.0,68.0,Orthodox,b4eeac608fc82f88
+4460,Zabit Magomedsharipov,Zabit,Magomedsharipov,,1991-03-01,185.4,145.0,73.0,Orthodox,87aa9fb63d6b51a1
+4461,Zac Pauga,Zac,Pauga,The High Chief,1988-02-25,188.0,205.0,76.0,Orthodox,56f7d7ee06be4aab
+4462,Zach Light,Zach,Light,,1974-02-06,172.7,170.0,,Orthodox,5d7c18191b8aa432
+4463,Zach Makovsky,Zach,Makovsky,Fun Size,1983-04-19,162.6,125.0,64.0,Southpaw,57ab4d7c0bc09a30
+4464,Zach Reese,Zach,Reese,Savage,1994-03-24,193.0,185.0,77.0,Switch,23dec7c47cb418f8
+4465,Zach Rosol,Zach,Rosol,,,,243.0,,,208b6926916867c7
+4466,Zach Skinner,Zach,Skinner,,,167.6,145.0,,Orthodox,c337c3c85b1871e0
+4467,Zach Underwood,Zach,Underwood,,,188.0,185.0,,,1e310618d02ff93b
+4468,Zach Zane,Zach,Zane,The Hurricane,1989-12-14,170.2,145.0,69.0,Southpaw,cc3878d1ab41a5fa
+4469,Zachary Borrego,Zachary,Borrego,The Dragon,1996-07-18,188.0,185.0,78.0,Switch,b8fdb2903a2582a8
+4470,Zachary Micklewright,Zachary,Micklewright,,1976-08-21,182.9,155.0,74.0,Southpaw,a36a14985a57a1c6
+4471,Zachary Scroggin,Zachary,Scroggin,,1996-03-09,190.5,170.0,74.0,Orthodox,03dee485905dbc9f
+4472,Zak Bucia,Zak,Bucia,,,177.8,170.0,,,6bbb8dc6e128779e
+4473,Zak Cummings,Zak,Cummings,,1984-08-02,182.9,205.0,75.0,Southpaw,4ba8d454f762005d
+4474,Zak Ottow,Zak,Ottow,The Barbarian,1986-12-22,180.3,170.0,72.0,Orthodox,47cd337b86b1af92
+4475,Zane Frazier,Zane,Frazier,Nasty,,195.6,250.0,,Orthodox,d3711d3784b76255
+4476,Zarah Fairn,Zarah,Fairn,Infinite,1983-12-10,172.7,135.0,72.0,Orthodox,862b0b3375aa4b6e
+4477,Zarrukh Adashev,Zarrukh,Adashev,The Lion,1992-07-29,165.1,125.0,65.0,Southpaw,79cb2a690b9ba5e8
+4478,Zelg Galesic,Zelg,Galesic,Benkei,1979-02-16,188.0,185.0,,Orthodox,8a1b4330c7957961
+4479,Zelim Imadaev,Zelim,Imadaev,,1995-01-25,182.9,170.0,76.0,Orthodox,7f0f171414d0a287
+4480,Zhalgas Zhumagulov,Zhalgas,Zhumagulov,,1988-08-29,162.6,125.0,66.0,Switch,55fa6ce3e522c8bb
+4481,Zhang Lipeng,Zhang,Lipeng,The Warrior,1990-03-10,180.3,155.0,71.0,Southpaw,7b310409440c9102
+4482,Zhang Mingyang,Zhang,Mingyang,Mountain Tiger,1998-08-16,188.0,205.0,75.0,Orthodox,8a65fd9ba31fd3f7
+4483,Zhang Qinghe,Zhang,Qinghe,,2001-11-05,170.2,135.0,67.0,Southpaw,45c7979c71751fcf
+4484,Zhang Tiequan,Zhang,Tiequan,The Wolf,1978-07-25,172.7,155.0,69.0,Orthodox,c23e3d4875340d8d
+4485,Zhang Weili,Zhang,Weili,Magnum,1989-08-13,162.6,115.0,63.0,Switch,1ebe20ebbfa15e29
+4486,Zhang Zhenyang,Zhang,Zhenyang,,,,155.0,,,286e1d61fb315355
+4487,Zhou Kun,Zhou,Kun,Mandrill,,,125.0,,,d027fff39a34a9df
+4488,Zhu Kangjie,Zhu,Kangjie,,1996-01-16,172.7,145.0,70.0,Orthodox,6f4ec5aa3eced219
+4489,Zoila Frausto,Zoila,Frausto,Warrior Princess,,162.6,135.0,,Orthodox,040d3b4c735541aa
+4490,Zubaira Tukhugov,Zubaira,Tukhugov,Warrior,1991-01-15,172.7,155.0,68.0,Orthodox,aceffa19749c4dc0
+4491,Zviad Lazishvili,Zviad,Lazishvili,,1991-10-25,167.6,135.0,69.0,Orthodox,41498c2d1a87b154
+4492,Zygimantas Ramaska,Zygimantas,Ramaska,,1996-12-27,180.3,145.0,71.0,Orthodox,641ca2c2ed91b93c
