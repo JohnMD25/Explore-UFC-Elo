@@ -51,6 +51,15 @@ DEFAULT_OUT   = PROJECT_ROOT / "data" / "derived"
 FUZZ_AUTO_ACCEPT  = 92
 FUZZ_REVIEW_FLOOR = 85
 
+# Manual alias map: fight-data name (as it appears in ufc_fight_stats.csv /
+# ufc_fight_results.csv) -> canonical_name in fighter_dim. Applied BEFORE
+# exact + fuzzy matching in resolve_names_to_ids, with score=100 and
+# match_type="manual_alias".
+NAME_ALIASES: dict[str, str] = {
+    "Patricio Freire": "Patricio Pitbull",
+}
+
+
 
 # ---------------------------------------------------------------------------
 # Raw-file loader
@@ -225,8 +234,30 @@ def resolve_names_to_ids(
     name_to_id = dict(zip(dim["canonical_name"], dim["fighter_id"]))
     choices    = dim["canonical_name"].tolist()
 
+    # Fail loudly if any NAME_ALIASES target is missing from the dim.
+    missing_targets = [
+        f"{src!r} -> {target!r}"
+        for src, target in NAME_ALIASES.items()
+        if target not in name_to_id
+    ]
+    if missing_targets:
+        raise ValueError(
+            "NAME_ALIASES targets missing from fighter_dim:\n  "
+            + "\n  ".join(missing_targets)
+        )
+
+
     lookup_rows, review_rows, rejected = [], [], 0
     for name in names:
+        # Manual alias (highest priority; bypasses exact + fuzzy).
+        if name in NAME_ALIASES:
+            target = NAME_ALIASES[name]
+            lookup_rows.append({
+                "name": name, "fighter_id": int(name_to_id[target]),
+                "match_type": "manual_alias", "score": 100,
+            })
+            continue
+
         if name in name_to_id:
             lookup_rows.append({
                 "name": name, "fighter_id": int(name_to_id[name]),
@@ -304,8 +335,10 @@ def main() -> None:
     lookup.to_csv(lookup_path, index=False)
     review.to_csv(review_path, index=False)
 
+    alias = int((lookup["match_type"] == "manual_alias").sum())
     exact = int((lookup["match_type"] == "exact").sum())
     fuzzy = int((lookup["match_type"] == "fuzzy_accept").sum())
+    print(f"      alias:         {alias:,}")
     print(f"      exact:         {exact:,}")
     print(f"      fuzzy >= 92:   {fuzzy:,}")
     print(f"      review 85-91:  {len(review):,}  -> {review_path}")
