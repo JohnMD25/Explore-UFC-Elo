@@ -25,7 +25,7 @@ from typing import Iterable
 
 import pandas as pd
 
-PROJECT_ROOT       = Path(__file__).resolve().parent.parent
+PROJECT_ROOT       = Path(__file__).resolve().parent.parent.parent
 DEFAULT_LOOKUP_CSV = PROJECT_ROOT / "data" / "derived" / "fighter_name_to_id.csv"
 
 

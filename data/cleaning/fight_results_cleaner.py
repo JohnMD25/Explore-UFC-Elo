@@ -54,7 +54,7 @@ UPSTREAM_URL = (
     "ufc_fight_results.csv"
 )
 
-PROJECT_ROOT    = Path(__file__).resolve().parent.parent
+PROJECT_ROOT    = Path(__file__).resolve().parent.parent.parent
 LOCAL_RAW       = PROJECT_ROOT / "data" / "raw" / "ufc_stats" / "ufc_fight_results.csv"
 WEIGHTCLASS_CSV = PROJECT_ROOT / "data" / "cleaned" / "ufc" / "weightclass_cleaned.csv"
 DEFAULT_OUT     = PROJECT_ROOT / "data" / "cleaned" / "ufc" / "fight_results_cleaned.csv"

@@ -43,7 +43,7 @@ RAW_FILES = {
     "fight_stats":   "ufc_fight_stats.csv",
 }
 
-PROJECT_ROOT  = Path(__file__).resolve().parent.parent
+PROJECT_ROOT  = Path(__file__).resolve().parent.parent.parent
 LOCAL_RAW_DIR = PROJECT_ROOT / "data" / "raw" / "ufc_stats"
 DEFAULT_OUT   = PROJECT_ROOT / "data" / "derived"
 
