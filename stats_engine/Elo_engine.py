@@ -1,7 +1,7 @@
 """Compute UFC fighter Elo ratings from cleaned fight results.
 
 Pure compute module: no file IO, no Streamlit, no plotting. The refresh
-pipeline calls `compute_elo_history` once per run; `data/loaders.py` consumes
+pipeline calls `compute_elo_history` once per run; `data/stats_loader.py` consumes
 the resulting CSVs. Design locked 2026-05-13 — see the module's Notion page
 for the full spec and the Decision Log entry of the same date.
 """
