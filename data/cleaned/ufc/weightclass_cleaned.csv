@@ -1,4 +1,17 @@
 EVENT,BOUT,WEIGHTCLASS,weight_class,title_type,is_womens,is_tournament
+UFC Fight Night: Allen vs. Costa ,Arnold Allen vs. Melquizael Costa,Featherweight Bout,featherweight,regular,False,False
+UFC Fight Night: Allen vs. Costa ,Dooho Choi vs. Daniel Santos,Featherweight Bout,featherweight,regular,False,False
+UFC Fight Night: Allen vs. Costa ,Malcolm Wellmaker vs. Juan Diaz,Bantamweight Bout,bantamweight,regular,False,False
+UFC Fight Night: Allen vs. Costa ,Modestas Bukauskas vs. Christian Edwards,Catch Weight Bout,catch_weight,regular,False,False
+UFC Fight Night: Allen vs. Costa ,Timmy Cuamba vs. Benardo Sopaj,Bantamweight Bout,bantamweight,regular,False,False
+UFC Fight Night: Allen vs. Costa ,Nikolay Veretennikov vs. Khaos Williams,Welterweight Bout,welterweight,regular,False,False
+UFC Fight Night: Allen vs. Costa ,Tuco Tokkos vs. Ivan Erslan,Light Heavyweight Bout,light_heavyweight,regular,False,False
+UFC Fight Night: Allen vs. Costa ,Tommy Gantt vs. Artur Minev,Lightweight Bout,lightweight,regular,False,False
+UFC Fight Night: Allen vs. Costa ,Ketlen Vieira vs. Jacqueline Cavalcanti,Women's Bantamweight Bout,bantamweight,regular,True,False
+UFC Fight Night: Allen vs. Costa ,Cody Brundage vs. Andre Petroski,Middleweight Bout,middleweight,regular,False,False
+UFC Fight Night: Allen vs. Costa ,Alice Ardelean vs. Polyana Viana,Women's Strawweight Bout,strawweight,regular,True,False
+UFC Fight Night: Allen vs. Costa ,Daniel Barez vs. Luis Gurule,Flyweight Bout,flyweight,regular,False,False
+UFC Fight Night: Allen vs. Costa ,Shauna Bannon vs. Nicolle Caliari,Women's Strawweight Bout,strawweight,regular,True,False
 UFC 328: Chimaev vs. Strickland ,Khamzat Chimaev vs. Sean Strickland,UFC Middleweight Title Bout,middleweight,title,False,False
 UFC 328: Chimaev vs. Strickland ,Joshua Van vs. Tatsuro Taira,UFC Flyweight Title Bout,flyweight,title,False,False
 UFC 328: Chimaev vs. Strickland ,Alexander Volkov vs. Waldo Cortes Acosta,Heavyweight Bout,heavyweight,regular,False,False
